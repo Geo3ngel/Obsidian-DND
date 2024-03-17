@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND/Steinhardt's guide to the eldritch hunt.md",
+                "file": "DND/Hunter - Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c2fc619bf3fd917f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1106055b0332f610",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DND/Hunter - Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DND/Hunter - Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DND/Hunter - Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign.md"
+              }
             }
           }
         ]
@@ -156,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1106055b0332f610",
+  "active": "d28890b0914d987e",
   "lastOpenFiles": [
-    "Paridous.md",
-    "Heaven's Hospice.md",
-    "The Savior's Servant.md",
+    "DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
+    "DND/Hunter - Luyarnha Campaign/NPCs/Paridous.md",
+    "DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/The Savior's Servant.md",
+    "DND/Steinhardt's guide to the eldritch hunt.md",
+    "DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants",
+    "DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral",
     "Templates/DND NPC.md",
     "Templates/Core Idea.md",
     "Files/Pasted image 20240316204821.png",
@@ -173,7 +166,6 @@
     "Files/Pasted image 20240315213728.png",
     "Files/Pasted image 20240315213721.png",
     "Files/Pasted image 20240315212917.png",
-    "DND/Steinhardt's guide to the eldritch hunt.md",
     "Welcome.md",
     "DND/Hunter - Luyarnha Campaign/Session Notes/Video Editing/DND Session Video Editing.md",
     "DND/Hunter - Luyarnha Campaign/Session Notes/Video Editing",
@@ -201,9 +193,6 @@
     "DND/Hunter - Luyarnha Campaign/Organizations/Families/Silver Bloods",
     "DND/Hunter - Luyarnha Campaign/Organizations/Families/Ember Hearts",
     "DND/Hunter - Luyarnha Campaign/Organizations/Families/Moon Golds",
-    "DND/Hunter - Luyarnha Campaign/Organizations/The Militia.md",
-    "DND/Hunter - Luyarnha Campaign/Organizations/Families",
-    "DND/Hunter - Luyarnha Campaign/Organizations",
-    "DND/Hunter - Luyarnha Campaign/NPCs/Religious Figures/Vicors"
+    "DND/Hunter - Luyarnha Campaign/Organizations/Families"
   ]
 }
