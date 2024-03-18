@@ -45,8 +45,8 @@ Semetra mentions the name of the (cleric?) that refused to resurrect Marinus.
 After sitting silence for a moment following Semetra and Marinus going out for a drink (not specifying were to the rest of the party), Waron seeing Cello and Dur'zoga in low spirits, suggests going to get some food/refreshments to wind down/process everything that just occurred.
 - TherapySession.jpeg
 
-Looking to go somewhere quiet and comfortable, these find themselves in [[000 Zettelkasten/DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Heaven's Hospice]], though at a separate private table from Marinus and Semetra, thinking it best to let them have their privacy.
-- **Meta note**: The rest of the party that wasn't present for this session canonically headed to the [[Barons of the Battle Chef]] to lighten their spirits
+Looking to go somewhere quiet and comfortable, these find themselves in [[Heaven's Hospice]], though at a separate private table from Marinus and Semetra, thinking it best to let them have their privacy.
+- **Meta note**: The rest of the party that wasn't present for this session canonically headed to the [[Baron of the Battle Chefs]] to lighten their spirits
 
 #### What Waron should say to Cello/Dur'zoga
 ##### Waron orders the following:
