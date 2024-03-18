@@ -6,7 +6,7 @@ Status: fleeting
 # Notes
 Heading over into [[000 Zettelkasten/DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Heaven's Hospice]] to console [[Dur'zoga]] and [[Cello]]
 
-### Semetra & Marinus
+## Semetra & Marinus
 Semetra and Marinus head to [[000 Zettelkasten/DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Heaven's Hospice]] on their own, and get a private table for two and discuss just what the fuck happened last combat.
 
 The person who possessed [[Semetra]] during our battle that resulted in Dur'zoga and Marinus dying changes with each Moon.
@@ -41,7 +41,7 @@ Luminary scribes that tried to dig into the case seemingly got bumped off the ca
 Semetra mentions the name of the (cleric?) that refused to resurrect Marinus.
 - Their name is [[Paridous]]
 
-### Waron/Cello/Dur'zoga
+## Waron/Cello/Dur'zoga
 After sitting silence for a moment following Semetra and Marinus going out for a drink (not specifying were to the rest of the party), Waron seeing Cello and Dur'zoga in low spirits, suggests going to get some food/refreshments to wind down/process everything that just occurred.
 - TherapySession.jpeg
 
@@ -150,7 +150,7 @@ The area she grew up around: Rover District
 
 The emerald is reveled as being a part of her mother's necklace, matching her mothers eyes, and Dur'zoga skin. Likely the equivalent of a wedding ring
 
-### Verena and Cello
+## Verena and Cello
 Verena asks Cello a few questions about the box, having not seen it before at the pub
 She nat 20s, and identifies the unique spell locking the box.
 - There's a contingency spell placed on it? (Contingency being the spell name)
