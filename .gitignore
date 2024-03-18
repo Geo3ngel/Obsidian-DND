@@ -12,5 +12,5 @@ replit.nix
 
 # Waron character detail note ignores
 #   - Hides details so other people viewing these notes don't get spoiled!
-content\Hunter - Luyarnha Campaign\Player Characters\*
-!content\Hunter - Luyarnha Campaign\Player Characters\Waron
+content/Hunter - Luyarnha Campaign/Player Characters/Waron/*
+!content/Hunter - Luyarnha Campaign/Player Characters/Waron/Waron.md
