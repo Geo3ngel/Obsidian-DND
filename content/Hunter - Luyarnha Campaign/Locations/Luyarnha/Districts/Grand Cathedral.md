@@ -17,7 +17,7 @@ Built on multiple floors—as above, so below—the Cathedral is said to be able
 
 # Layout
 ---
-![[public/files/grand-cathedral-layout.png]]
+![[content/files/grand-cathedral-layout.png]]
 
 # Shops
 [[Sanctified Sinner]]

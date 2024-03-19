@@ -9,4 +9,4 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-![[public/files/church-pick.png]]
+![[content/files/church-pick.png]]

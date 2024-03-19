@@ -6,7 +6,7 @@ Status: fleeting
 # Servers:
 ### Bravish Deepfist
 # Menu
-![[public/files/Pasted image 20240317111447.png]]
+![[content/files/Pasted image 20240317111447.png]]
 They have a secret menu option that gives a crazy good buff for the following day (+5 to initiative or something for 50g)
 
 ---
