@@ -20,7 +20,7 @@ However, if you'd like to publish your site to the world, you need a way to host
 
 | Configuration option   | Value              |
 | ---------------------- | ------------------ |
-| Production branch      | `main`               |
+| Production branch      | `v4`               |
 | Framework preset       | `None`             |
 | Build command          | `npx quartz build` |
 | Build output directory | `public`           |
@@ -42,7 +42,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - v4
 
 permissions:
   contents: read
@@ -217,7 +217,7 @@ build:
 pages:
   stage: deploy
   rules:
-    - if: '$CI_COMMIT_REF_NAME == "main"'
+    - if: '$CI_COMMIT_REF_NAME == "v4"'
   script:
     - echo "Deploying to GitLab Pages..."
   artifacts:
