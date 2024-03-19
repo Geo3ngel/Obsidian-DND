@@ -2,8 +2,8 @@
 .gitignore
 node_modules
 # more likely, I'll need the following:
-public
-!public/files/*
+# public
+# !public/files/*
 
 prof
 tsconfig.tsbuildinfo
