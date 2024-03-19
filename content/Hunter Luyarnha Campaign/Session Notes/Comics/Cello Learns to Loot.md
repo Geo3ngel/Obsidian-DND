@@ -5,7 +5,7 @@ Status: permanent
   - DND
   - Comic
 ---
-![](https://github.com/Geo3ngel/Obsidian-DND/blob/main/Files/Comic-Cello-learns-to-loot.png?raw=true)
+![[comic-cello-learns-to-loot.png]]
 
 ---
 # References

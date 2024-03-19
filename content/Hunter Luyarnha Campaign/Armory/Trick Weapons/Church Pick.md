@@ -6,7 +6,7 @@ Status: fleeting
   - Weapon
   - Trick Weapon
 ---
-![[content/files/church-pick.png]]
+![[church-pick.png]]
 
 ---
 # References
