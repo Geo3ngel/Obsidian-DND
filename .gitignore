@@ -1,7 +1,10 @@
 .DS_Store
 .gitignore
 node_modules
-# public
+# more likely, I'll need the following:
+public
+!public/files/*
+
 prof
 tsconfig.tsbuildinfo
 .obsidian
