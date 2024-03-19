@@ -9,4 +9,4 @@ Status: fleeting
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/Organizations/Paladins of the Eldritch Hunt]]
+## [[Paladins of the Eldritch Hunt]]

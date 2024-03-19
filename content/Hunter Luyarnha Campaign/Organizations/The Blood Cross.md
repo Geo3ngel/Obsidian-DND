@@ -9,4 +9,4 @@ Status: fleeting
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/Organizations/000 Organizations of Luyarnha]]
+## [[000 Organizations of Luyarnha]]

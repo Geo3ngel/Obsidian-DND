@@ -17,4 +17,4 @@ Upon touch, they convey feelings of relief/euphoria.
 ![[heavens-hospice-menu.png]]
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/000 Grand Cathedral - Restaurants]]
+## [[000 Grand Cathedral - Restaurants]]

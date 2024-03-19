@@ -6,4 +6,4 @@ Status: permanent
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/000 Grand Cathedral]]
+## [[000 Grand Cathedral]]

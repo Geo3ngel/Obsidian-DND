@@ -10,4 +10,4 @@ Status: fleeting
 
 ---
 # References
-[[content/Hunter Luyarnha Campaign/Misc Lore/Trick Weapons]]
+[[Trick Weapons]]

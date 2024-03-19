@@ -15,7 +15,7 @@ Status: permanent
 **Met**: No
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: Pack Leader/Striker
-**Under Pack Lord**: [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/Cona]]
+**Under Pack Lord**: [[Cona]]
 
 > [!info] Specialization
 > ???
@@ -28,4 +28,4 @@ Follows Cona Organrender and is usually assigned frontal assaults.
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/000 Striker]]
+## [[000 Striker]]

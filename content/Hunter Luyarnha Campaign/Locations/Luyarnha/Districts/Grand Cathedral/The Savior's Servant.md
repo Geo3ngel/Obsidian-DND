@@ -8,4 +8,4 @@ Where Marinus was revived
 - also where ass hat what's his face refused to revive him
 ---
 # References
-[[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/000 Grand Cathedral]]
+[[000 Grand Cathedral]]

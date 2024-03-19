@@ -5,7 +5,7 @@ Status: permanent
   - DND
   - Location
 ---
-One of the main areas in the [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]].
+One of the main areas in the [[Luyarnha]].
 
 # Description
 
@@ -21,4 +21,4 @@ It is the district's crowning jewel, the Scions Fortress.
 
 ---
 # References
-### [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]]
+### [[Luyarnha]]

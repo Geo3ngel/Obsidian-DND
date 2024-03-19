@@ -21,4 +21,4 @@ Status: permanent
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/1 Master of the Hunt/Master of the Hunt]]
+## [[Master of the Hunt]]

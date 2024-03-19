@@ -15,7 +15,7 @@ Status: permanent
 **Met**: No
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: Pack Leader/Striker
-**Under Pack Lord**: [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/Thokk]]
+**Under Pack Lord**: [[Thokk]]
 
 > [!info] Specialization
 Reconnaissance, Information gathering
@@ -29,4 +29,4 @@ He follows Thokk Bloodbather.
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/000 Striker]]
+## [[000 Striker]]

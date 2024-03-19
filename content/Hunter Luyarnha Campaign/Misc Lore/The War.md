@@ -17,4 +17,4 @@ Beast waves from the SOUTH?
 ---
 # References
 ## [[[[Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]]]
-## [[content/Hunter Luyarnha Campaign/Organizations/000 Organizations of Luyarnha]]
+## [[000 Organizations of Luyarnha]]

@@ -4,12 +4,12 @@ Status: fleeting
 "Tags:":
 ---
 # Notes
-Heading over into [[000 Zettelkasten/DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Heaven's Hospice]] to console [[content/Hunter Luyarnha Campaign/Player Characters/Dur'zoga]] and [[content/Hunter Luyarnha Campaign/Player Characters/Cello]]
+Heading over into [[Heaven's Hospice]] to console [[Dur'zoga]] and [[Cello]]
 
 ## Semetra & Marinus
-Semetra and Marinus head to [[000 Zettelkasten/DND/Hunter - Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Heaven's Hospice]] on their own, and get a private table for two and discuss just what the fuck happened last combat.
+Semetra and Marinus head to [[Heaven's Hospice]] on their own, and get a private table for two and discuss just what the fuck happened last combat.
 
-The person who possessed [[content/Hunter Luyarnha Campaign/NPCs/Jaeger Meisters/Semetra]] during our battle that resulted in Dur'zoga and Marinus dying changes with each Moon.
+The person who possessed [[Semetra]] during our battle that resulted in Dur'zoga and Marinus dying changes with each Moon.
 - Her people draw power from the moon.
 - After migrating to Luyarnha, something changed in their power. It changed much like the phases of the moon.
 	- Someone could always connect to the moon in a stronger way that they could, these people were referred to as [[Aspects]] of the moon?
@@ -35,18 +35,18 @@ Marinus seems to be hiding something about why he came to the city...
 People disappearing after being accused of murder, and being loyal to the old ways of the world before 
 Luminary scribes that tried to dig into the case seemingly got bumped off the case for looking into the case.
 - Also following the case of someone named "Heelspark"
-- This Luminary scribe's name is [[Volker Daffrey]], and can apparently be found in the [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter]] district
+- This Luminary scribe's name is [[Volker Daffrey]], and can apparently be found in the [[Paterna Iter]] district
 
 #### Side note
 Semetra mentions the name of the (cleric?) that refused to resurrect Marinus.
-- Their name is [[content/Hunter Luyarnha Campaign/NPCs/Paridous]]
+- Their name is [[Paridous]]
 
 ## Waron/Cello/Dur'zoga
 After sitting silence for a moment following Semetra and Marinus going out for a drink (not specifying were to the rest of the party), Waron seeing Cello and Dur'zoga in low spirits, suggests going to get some food/refreshments to wind down/process everything that just occurred.
 - TherapySession.jpeg
 
-Looking to go somewhere quiet and comfortable, these find themselves in [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice]], though at a separate private table from Marinus and Semetra, thinking it best to let them have their privacy.
-- **Meta note**: The rest of the party that wasn't present for this session canonically headed to the [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Baron of the Battle Chefs]] to lighten their spirits
+Looking to go somewhere quiet and comfortable, these find themselves in [[Heaven's Hospice]], though at a separate private table from Marinus and Semetra, thinking it best to let them have their privacy.
+- **Meta note**: The rest of the party that wasn't present for this session canonically headed to the [[Baron of the Battle Chefs]] to lighten their spirits
 
 #### What Waron should say to Cello/Dur'zoga
 ##### Waron orders the following:
@@ -86,7 +86,7 @@ Upon being asked by Waron if she means to leave the city, Cello affirms her stan
 	- A spell was emblazoned into the box: An arcane lock with a *heavy* enchantment/transmutation modification
 		- If someone had KNOCK they could open it!
 - Minerva's closest association with someone who would be capable of doing something like this:
-	- [[content/Hunter Luyarnha Campaign/NPCs/Religious Figures/High Apostles/Michelangelo]] Holy shit.
+	- [[Michelangelo]] Holy shit.
 	- [[Carmella]]. Someone she knew, but Cello didn't really know?
 	- [[The Ivory Strings]] Rival Musician. Only real competitor with their family.
 		- Father: Ferric
@@ -98,7 +98,7 @@ Upon being asked by Waron if she means to leave the city, Cello affirms her stan
 #### Marinus asserts the need to break into the Luminary Scribe's records to find... "Information"
 Though he get some pushback from Waron and Cello, who assert that maybe rather than jumping straight to attempting to rob the literal CIA of this world, it would make sense to try and gain what information/assistance we can through proper channels first.
 
-Proper channels being through Vicor [[content/Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Abraham]], or approaching some of the scribes our selves. 
+Proper channels being through Vicor [[Abraham]], or approaching some of the scribes our selves. 
 - Some of their detectives/agents owe us after assisting with the Dullahan incident
 - And others are just kind of dumb, we could probably take advantage of that to gleam some info, if not scope out their base and gather info for a future heist if it comes down to it.
 

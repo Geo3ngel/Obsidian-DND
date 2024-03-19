@@ -6,7 +6,7 @@ Status: fleeting
   - NPC
   - Merchant
 ---
-**District of residence**: [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter]]
+**District of residence**: [[Paterna Iter]]
 
 ---
 # References

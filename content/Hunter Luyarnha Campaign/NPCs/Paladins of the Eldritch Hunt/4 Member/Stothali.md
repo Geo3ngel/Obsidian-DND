@@ -20,4 +20,4 @@ Status: permanent
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/4 Member/000 Stalker]]
+## [[000 Stalker]]

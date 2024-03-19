@@ -12,4 +12,4 @@ Status: hub
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]
+## [[Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]

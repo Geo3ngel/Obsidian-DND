@@ -15,7 +15,7 @@ Status: permanent
 **Met**: Yes?
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: Pack Leader/Striker
-**Under Pack Lord**: [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/Cona]]
+**Under Pack Lord**: [[Cona]]
 
 > [!info] Specialization
 Religion, Inspiration, Speeches, **Slow moving offense**
@@ -29,4 +29,4 @@ Their team is the slow moving offense that pulls their defenses forward. They fo
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/000 Striker]]
+## [[000 Striker]]

@@ -13,7 +13,7 @@ Status: permanent
 **Met**: Yes
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: Stalker/Member?
-**Under Pack Leader/Striker**: [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Vresh]]
+**Under Pack Leader/Striker**: [[Vresh]]
 
 > [!info] Specialization
 Berserker of some kind? Seems to be specialized in long term offensive combat.
@@ -30,4 +30,4 @@ He seemed to be covered in blood, gruff, somewhat rude initially. Made a comment
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/4 Member/000 Stalker]]
+## [[000 Stalker]]

@@ -5,7 +5,7 @@ Status: permanent
   - DND
   - Location
 ---
-One of the main areas in the [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]].
+One of the main areas in the [[Luyarnha]].
 
 # Description
 
@@ -23,4 +23,4 @@ Today, though the lines have dissipated, those in desperate need of a cure steal
 
 ---
 # References
-### [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]]
+### [[Luyarnha]]

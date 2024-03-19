@@ -5,8 +5,8 @@ Status: fleeting
   - DND
 ---
 > [!info] This document is in need of organization.
-# [[content/Hunter Luyarnha Campaign/Locations/Beast Lands/Beastland’s Train Station]]
-## Entrance: [[content/Hunter Luyarnha Campaign/Player Characters/Verena]]
+# [[Beastland’s Train Station]]
+## Entrance: [[Verena]]
 > [!info] The scene opens to Verena pulling into Beastland’s Train Station at dusk in a coach. 
 
 The train station is dark, misty and has a few guards patrolling the desolate station. 
@@ -15,13 +15,13 @@ She asks a beast-like looking conductor with a pocket watch what time is.
 His breath smelling like cigarettes and with his grizzled beastly demeanor, he tells her that it’s about 8 o’clock but that the train will “arrive exactly when it's supposed to.” Followed by the train’s horn sounding through the fog, appearing lopsided and heavily armored with a heavily scratched exterior. 
 
 There are **four coaches** that accompany the battered locomotive.
-## Entrance: [[content/Hunter Luyarnha Campaign/Player Characters/Cello]]
-[[content/Hunter Luyarnha Campaign/Player Characters/Cello]] leaves the train upon it's arrival at the station (seemingly the only one on board)
+## Entrance: [[Cello]]
+[[Cello]] leaves the train upon it's arrival at the station (seemingly the only one on board)
 
-Cello approaches the conductor to ask him where they are to which he replies “[[content/Hunter Luyarnha Campaign/Locations/Beast Lands/Beastland’s Train Station]]. The only stop is [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]]". 
+Cello approaches the conductor to ask him where they are to which he replies “[[Beastland’s Train Station]]. The only stop is [[Luyarnha]]". 
 
 Cello asks how they got there but is greeted by an intense pain in their head. They go to sit next to a red haired noble looking lady (Verena).
-## Entrance: [[content/Hunter Luyarnha Campaign/Player Characters/Marinus]]
+## Entrance: [[Marinus]]
 In the meantime, Marinus wakes up from the abyss that was his sleep to see the train arrive. 
 
 Marinus makes his way to the disheveled and grimy ticket booth, disrupting a cacophony of roaches and gnats. Marinus conjures a small blackhole near the tickets behind the sleeping and grungy ticket man. 
@@ -31,15 +31,15 @@ The black hole almost wakes up the sleeping man before Marinus manages to move t
 He gives his ticket to the grungy looking conductor, who adds a skull looking punch-out to the ticket. 
 
 The conductor warns him that any who go to Luyarnha ends up becoming a person who ends up going mad.
-## Entrance: [[content/Hunter Luyarnha Campaign/Player Characters/Narissa]]
-Narissa emerges from the woods of the [[content/Hunter Luyarnha Campaign/Locations/Beast Lands/Beastland]]'s to the train station after having walked for hours through the dangerous terrain. 
+## Entrance: [[Narissa]]
+Narissa emerges from the woods of the [[Beastland]]'s to the train station after having walked for hours through the dangerous terrain. 
 
 Noting the full moon, she puts three silver bullets in her pistol before making her way to the ticket booth. 
 
 She steals two tickets from the roll that Marinus had left before making her way to the conductor. He takes a good look at her as he takes her ticket. 
 
 “By the looks of you, you could do a great deal in Luyarnha.” He says as he punches her ticket with a skull hole punch. “Oh you have no idea.” She responds as she boards the train. “It’s your funeral.” He replies.
-## Entrance: [[content/Hunter Luyarnha Campaign/Player Characters/Da'ul]]
+## Entrance: [[Da'ul]]
 Da’ul emerges from the woods with a walking stick and approaches the front desk to see the still sleeping grizzled man. 
 
 Da’ul knocks on the counter and wakes up the man. Da’ul trades his knife for a ticket, to which the salesman chuckles at.
@@ -61,19 +61,19 @@ Cello tries to board the train and the conductor stops her.
 “You really wanna go back there after I saved your life? You’re the last thing I’ve seen come out of there alive in 5 fucking years.”
 
 “But I need to get back to my mistress.” The man begrudgingly lets her board. 
-## Entrance: [[content/Hunter Luyarnha Campaign/Player Characters/Dur'zoga]]
+## Entrance: [[Dur'zoga]]
 Dur’zoga gets to the platform and makes his way to the ticket counter and flicks a coin onto the counter when prompted. 
 
 She hands her ticket to the conductor, who looks confused and slightly with fear.  
 
 He looks away and she snaps her fingers and asks him if the train is heading to Luyarnha. He gives her a brief answer before she boards the train.
-## Entrance: [[content/Hunter Luyarnha Campaign/Player Characters/Grey]]
+## Entrance: [[Grey]]
 Grey is running through the trees, presumably running from someone hunting him, and comes across the train. 
 
 He drinks something from his flask and gets onto the train offering some to the conductor. “I hear people who have death wishes heading to Luyarnha don’t need tickets.” Grey says. The conductor laughs and takes a swig. He boards the train.
 
 # Inside the Train
-## Entrance: [[content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron]]
+## Entrance: [[Waron]]
 Waron was guarding a nobility like dining coach, to which the only passenger was an automaton that responded to nothing. 
 
 He is confused when so many colorful characters board the train including the automaton who had arrived. He approaches her again to try and interact with her. 

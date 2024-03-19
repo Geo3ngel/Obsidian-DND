@@ -8,7 +8,7 @@ Status: hub
   - Paladins of the Eldritch Hunt
   - Stalker
 ---
-Waron is my player character for [[content/Hunter Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]!
+Waron is my player character for [[Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]!
 
 # Character Info
 
@@ -21,6 +21,6 @@ style: height: 950px; width: 1035px;
 
 ---
 # References
-#### Waron's primary weapon: [[content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Church Pick]]
-## [[content/Hunter Luyarnha Campaign/Player Characters/000 Luyarnha PC]] 
-## [[content/Hunter Luyarnha Campaign/Organizations/Paladins of the Eldritch Hunt]]
+#### Waron's primary weapon: [[Church Pick]]
+## [[000 Luyarnha PC]] 
+## [[Paladins of the Eldritch Hunt]]

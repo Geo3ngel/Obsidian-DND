@@ -5,7 +5,7 @@ Status: permanent
   - DND
   - Location
 ---
-One of the main areas in the [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]].
+One of the main areas in the [[Luyarnha]].
 
 # Description
 
@@ -19,4 +19,4 @@ However, this hidden haven is not without its dangers, as man-made monsters and 
 
 ---
 # References
-### [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]]
+### [[Luyarnha]]

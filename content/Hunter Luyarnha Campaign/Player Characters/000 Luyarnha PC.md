@@ -9,13 +9,13 @@ Status: permanent
 
 | Character Name | Player Name |
 | -------------- | ----------- |
-| [[content/Hunter Luyarnha Campaign/Player Characters/Dur'zoga]]   | Chelenora   |
-| [[content/Hunter Luyarnha Campaign/Player Characters/Cello]]      | Aleks       |
-| [[content/Hunter Luyarnha Campaign/Player Characters/Grey]]       | German      |
-| [[content/Hunter Luyarnha Campaign/Player Characters/Marinus]]    | Duncan      |
-| [[content/Hunter Luyarnha Campaign/Player Characters/Narissa]]    | Alessa      |
-| [[content/Hunter Luyarnha Campaign/Player Characters/Verena]]     | Ari         |
-| [[content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron]]      | George      |
+| [[Dur'zoga]]   | Chelenora   |
+| [[Cello]]      | Aleks       |
+| [[Grey]]       | German      |
+| [[Marinus]]    | Duncan      |
+| [[Narissa]]    | Alessa      |
+| [[Verena]]     | Ari         |
+| [[Waron]]      | George      |
 
 # Deceased Characters:
 
@@ -24,7 +24,7 @@ Status: permanent
 
 | Character Name | Player Name |
 | -------------- | ----------- |
-| [[content/Hunter Luyarnha Campaign/Player Characters/Da'ul]]      | David       |
+| [[Da'ul]]      | David       |
 
 ---
 # References

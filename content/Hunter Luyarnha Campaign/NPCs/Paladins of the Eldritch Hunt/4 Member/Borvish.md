@@ -13,11 +13,11 @@ Status: permanent
 **Met**: Yes
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: Stalker/Member?
-**Under Pack Leader/Striker**: [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Geiger]]
+**Under Pack Leader/Striker**: [[Geiger]]
 
 > [!info] Specialization
 ???
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/4 Member/000 Stalker]]
+## [[000 Stalker]]

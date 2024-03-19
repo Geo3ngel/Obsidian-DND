@@ -5,7 +5,7 @@ Status: permanent
   - DND
   - Location
 ---
-One of the main areas in the [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]].
+One of the main areas in the [[Luyarnha]].
 
 # Description
 
@@ -21,4 +21,4 @@ The crisp river breeze, once a welcome respite on the sweltering plazas, now onl
 
 ---
 # References
-### [[content/Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha]]
+### [[Luyarnha]]

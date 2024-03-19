@@ -28,4 +28,4 @@ Dual wields the aberrant aegis.
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/000 Pack Lord]]
+## [[000 Pack Lord]]

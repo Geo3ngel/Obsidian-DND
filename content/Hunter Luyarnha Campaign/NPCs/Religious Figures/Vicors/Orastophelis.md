@@ -8,7 +8,7 @@ Status: fleeting
   - Vicor
 ---
 A high ranking member of the Radiant church.
-Under the command of high Apostle [[content/Hunter Luyarnha Campaign/NPCs/Religious Figures/High Apostles/Nevallah]]
+Under the command of high Apostle [[Nevallah]]
 
 #### Species: 
 Manakin

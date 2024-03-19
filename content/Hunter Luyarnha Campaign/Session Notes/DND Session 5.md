@@ -4,7 +4,7 @@ Status: fleeting
 "Tags:":
 ---
 # Cello Comic
-## [[content/Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot]]
+## [[Cello Learns to Loot]]
 
 ---
 # References

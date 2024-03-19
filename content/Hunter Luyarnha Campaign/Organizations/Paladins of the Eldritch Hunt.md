@@ -11,7 +11,7 @@ Status: hub
 The executive decision maker of the legion and proof of his leadership being shown through a beautiful great sword, wielded by their current Master of the Hunt, Ludwig Kroening. 
 
 ### Captain/Pack Lord: 
-Responsible for the tactical planning of their respective responsibilities within the order, with two Pack Lords always being chosen. One specializes in defense, the other in offense. The current Pack Lord for defense is [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/Thokk]] who is responsible for choke points, blockade building, and reconnaissance/real time information gathering. The current Pack Lord for offense is [[content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/Cona]] Organrender who is responsible for frontal assaults, flanking strikes, and hunting/assassination missions. 
+Responsible for the tactical planning of their respective responsibilities within the order, with two Pack Lords always being chosen. One specializes in defense, the other in offense. The current Pack Lord for defense is [[Thokk]] who is responsible for choke points, blockade building, and reconnaissance/real time information gathering. The current Pack Lord for offense is [[Cona]] Organrender who is responsible for frontal assaults, flanking strikes, and hunting/assassination missions. 
 
 ### Lieutenant/Pack Leader/Strikers: 
 The leaders of each smaller team that carries out orders from their respective Pack Lord (3 for each pack lord, 6 in total).
@@ -24,4 +24,4 @@ All volunteers from various backgrounds who are in the process of earning an off
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/Organizations/000 Organizations of Luyarnha]]
+## [[000 Organizations of Luyarnha]]
