@@ -5,7 +5,7 @@ Status: permanent
   - DND
   - Comic
 ---
-![](Comic-Cello-learns-to-loot.png)
+[[Files/Comic-Cello-learns-to-loot.png]]
 
 ---
 # References
