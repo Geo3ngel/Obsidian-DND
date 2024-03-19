@@ -7,7 +7,7 @@ Status: hub
 ---
 # Map of the City
 ---
-![[files/luyarnha_city_overview.png.png]]
+![[public/files/luyarnha_city_overview.png]]
 
 ---
 # References
