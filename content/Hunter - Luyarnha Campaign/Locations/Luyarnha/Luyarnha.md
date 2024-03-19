@@ -7,6 +7,8 @@ Status: hub
 ---
 # Map of the City
 ---
+![Replica logo]({{ '/public/files/luyarnha_city_overview.png' | relative_url }})
+
 ![[public/files/luyarnha-city-overview.png]]
 
 ---
