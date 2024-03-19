@@ -195,7 +195,7 @@ variables:
 build:
   stage: build
   rules:
-    - if: '$CI_COMMIT_REF_NAME == "main"'
+    - if: '$CI_COMMIT_REF_NAME == "v4"'
   before_script:
     - apt-get update -q && apt-get install -y nodejs npm
     - npm install -g n

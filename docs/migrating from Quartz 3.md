@@ -6,8 +6,8 @@ As you already have Quartz locally, you don't need to fork or clone it again. Si
 
 ```bash
 git fetch
-git checkout main
-git pull upstream main
+git checkout v4
+git pull upstream v4
 npm i
 npx quartz create
 ```
