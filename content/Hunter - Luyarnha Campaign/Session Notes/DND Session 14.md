@@ -93,3 +93,4 @@ Sumetra's experiencing some form of PTSD?!
 ### [[Verena]] is apart of some kind of Prophesy within [[The Circle of Symbiosis]] ?!
 ---
 # References
+![](https://www.youtube.com/watch?v=d-FNaBvn-vo&list=PLmwaCUBw5TkIrGOm_CqB8MDqyrkhJmSse&index=15)

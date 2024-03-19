@@ -1,7 +1,10 @@
 .DS_Store
 .gitignore
 node_modules
-public
+# more likely, I'll need the following:
+# public
+# !public/files/*
+
 prof
 tsconfig.tsbuildinfo
 .obsidian
@@ -9,3 +12,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# Waron character detail note ignores
+#   - Hides details so other people viewing these notes don't get spoiled!
+content/Hunter - Luyarnha Campaign/Player Characters/Waron/*
+!content/Hunter - Luyarnha Campaign/Player Characters/Waron/Waron.md

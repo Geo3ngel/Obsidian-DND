@@ -6,7 +6,7 @@ Status: fleeting
   - Weapon
   - Trick Weapon
 ---
-![[Pasted image 20240310050525.png]]
+![[public/files/Pasted image 20240310050525.png]]
 
 ---
 # References

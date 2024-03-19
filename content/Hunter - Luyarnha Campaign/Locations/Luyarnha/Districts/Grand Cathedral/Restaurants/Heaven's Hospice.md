@@ -12,7 +12,7 @@ Seems good for a chat when depressed/feeling rough?
 Semetra seems to really not like Luna's Psychic shit
 Upon touch, they convey feelings of relief/euphoria.
 # Menu
-![[Pasted image 20240316204824.png]]
+![[public/files/Pasted image 20240316204824.png]]
 ---
 # References
 ## [[000 Grand Cathedral - Restaurants]]
