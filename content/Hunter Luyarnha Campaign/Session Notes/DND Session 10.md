@@ -4,9 +4,10 @@ Status: permanent
 "Tags:":
   - DND
 ---
+# Location: Cello's home
+---
 > [!info] This document is in need of organization.
 # [Master's Name] Manor murder mystery.
-Cello's home
 
 Met Jaeger Moralis at Cello’s house?
 

@@ -1,11 +1,11 @@
 ---
 Created: 2024/03/19 08:03
-Status: fleeting
+Status: permanent
 "Tags:":
   - DND
 ---
-> [!info] This document is in need of organization.
-# [[Beastland’s Train Station]]
+# Location: [[Beastland’s Train Station]]
+---
 ## Entrance: [[Verena]]
 > [!info] The scene opens to Verena pulling into Beastland’s Train Station at dusk in a coach. 
 
@@ -48,12 +48,13 @@ Da’ul knocks on the counter and wakes up the man. Da’ul trades his knife for
 Da'ul replies that he has research to complete before he boards the train.
 
 ## Remaining characters at the station attempt to board:
+---
 Verena asks Cello if they are going to get on the train. In the conversation, Cello reveals that she is from Luyarnha and that she needs to get back to her mistress. 
 
 ### Verena boards
 Verena hands her ticket to the conductor who punches her ticket with a skull, who says that she looks like she’s running from something. 
 
-“Maybe I am running towards something. Have you ever thought about that?” “You smell too nice to be running towards something.”He punches her ticket and as she boards she looks over her shoulder and says. “I’m looking for something.” “Hope you find it, but it’s your funeral.” The conductor says before Verena boards.
+“Maybe I am running towards something. Have you ever thought about that?” “You smell too nice to be running towards something.” He punches her ticket and as she boards she looks over her shoulder and says. “I’m looking for something.” “Hope you find it, but it’s your funeral.” The conductor says before Verena boards.
 
 ### Cello boards
 Cello tries to board the train and the conductor stops her. 
@@ -72,7 +73,9 @@ Grey is running through the trees, presumably running from someone hunting him, 
 
 He drinks something from his flask and gets onto the train offering some to the conductor. “I hear people who have death wishes heading to Luyarnha don’t need tickets.” Grey says. The conductor laughs and takes a swig. He boards the train.
 
-# Inside the Train
+---
+# Inside the Train ([[The Iron Smoker]])
+---
 ## Entrance: [[Waron]]
 Waron was guarding a nobility like dining coach, to which the only passenger was an automaton that responded to nothing. 
 
@@ -86,6 +89,7 @@ He is confused when so many colorful characters board the train including the au
 Cello tries to recall any sort of memory prior to her arriving at Beastland Station but is greeted with intense pain once more. Cello, confused, sits down at one of the empty leather booths. 
 
 # Characters board the train (Inside perspective)
+---
 Marinus boards the train and makes his way to the bar cat, grabbing a bottle of scotch before sitting down. 
 
 Narissa walks down the length of the cart, noting that Waron is a paladin that serves the Radiant Church. 
