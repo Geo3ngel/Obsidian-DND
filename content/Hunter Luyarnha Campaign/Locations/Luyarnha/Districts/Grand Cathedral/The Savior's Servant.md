@@ -8,4 +8,4 @@ Where Marinus was revived
 - also where ass hat what's his face refused to revive him
 ---
 # References
-[[000 Grand Cathedral]]
+## [[Grand Cathedral]]

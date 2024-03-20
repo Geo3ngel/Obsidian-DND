@@ -13,3 +13,4 @@ They have a secret menu option that gives a crazy good buff for the following da
 
 ---
 # References
+## [[Grand Cathedral - Restaurants]]

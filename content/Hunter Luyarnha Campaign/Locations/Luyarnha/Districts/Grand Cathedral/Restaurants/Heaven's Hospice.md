@@ -17,4 +17,4 @@ Upon touch, they convey feelings of relief/euphoria.
 ![[heavens-hospice-menu.png]]
 ---
 # References
-## [[000 Grand Cathedral - Restaurants]]
+## [[Grand Cathedral - Restaurants]]

@@ -6,4 +6,4 @@ Status: permanent
 
 ---
 # References
-## [[000 Grand Cathedral]]
+## [[Grand Cathedral]]
