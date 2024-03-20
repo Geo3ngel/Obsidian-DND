@@ -9,4 +9,4 @@ Status: permanent
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/Session Notes/DND Session 5]]
+## [[DND Session 5]]

@@ -9,5 +9,5 @@ Status: fleeting
 
 ---
 # References
-## [[content/Hunter Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]
+## [[Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]
 ![](https://www.youtube.com/watch?v=UIrHXgKZp-Y&list=PLmwaCUBw5TkIrGOm_CqB8MDqyrkhJmSse&index=13)
