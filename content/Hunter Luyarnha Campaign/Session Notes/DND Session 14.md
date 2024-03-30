@@ -3,6 +3,7 @@ Created: 2024/03/09 20:42
 Status: permanent
 "Tags:":
   - DND
+  - Session
 ---
 # Notes
 We start the session in the clearing of the forest within the Tree from the Garden.

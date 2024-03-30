@@ -2,6 +2,8 @@
 Created: 2024/03/19 08:50
 Status: fleeting
 "Tags:":
+  - DND
+  - Session
 ---
 # Location: Central Park - [[Sanctified District]]
 ---

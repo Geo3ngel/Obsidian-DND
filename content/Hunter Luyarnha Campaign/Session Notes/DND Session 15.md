@@ -2,8 +2,12 @@
 Created: 2024/03/16 20:36
 Status: fleeting
 "Tags:":
+  - DND
+  - Session
+---
 ---
 # Notes
+---
 Heading over into [[Heaven's Hospice]] to console [[Dur'zoga]] and [[Cello]]
 
 ## Semetra & Marinus

@@ -3,6 +3,7 @@ Created: 2024/03/11 03:18
 Status: fleeting
 "Tags:":
   - DND
+  - Session
 ---
 # Location:
 ---

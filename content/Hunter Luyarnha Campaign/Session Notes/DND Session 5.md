@@ -2,6 +2,8 @@
 Created: 2024/03/19 08:42
 Status: fleeting
 "Tags:":
+  - DND
+  - Session
 ---
 # Location:
 ---

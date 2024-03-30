@@ -3,6 +3,7 @@ Created: 2024/03/14 05:09
 Status: permanent
 "Tags:":
   - DND
+  - Session
 ---
 # Location: Cello's home
 ---
