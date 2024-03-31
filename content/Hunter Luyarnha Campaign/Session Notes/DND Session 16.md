@@ -151,40 +151,23 @@ Our party purchases the right to travel to and from Paterna Iter permanently for
 Waron, Cello, and Dur'zoga head over to [[The Silver Wolf]] to coat a bunch of Dur'zoga's weapons in silver.
 Waron pretends the weapons are his, putting his hands behind his back to receive them from Dur'zoga to give to [[]].
 
-Dur'zoga hands him the busted silver axe to melt down for the silver component, and the following weapons to coat:
+Dur'zoga hands him the busted silver axe to melt down for the silver component, and the following weapons to coat, costing 43g total. (cost lowered due to providing the silver)
 - Meat hooks
 - 5 javelins
 - Hand Axe/Hatchet? **(Needs video review)**
 ## Bad Bitches with Mean Stitches
 Waron asks other party members if they have any plans, or if they want to come with him to [[Bad Bitches With Mean Stitches]] for some armor/cloth shopping
-- If I can get Cello to go with me, I should have her do the "accounting", to negotiate on my behalf, since Waron is bad with money/counting lol.
-	- Alligator discussion?
 - Sponsored by the Jaeger administration
 - Long white haired human woman
 
-Bitchen = to tough to kill
-"I do aspire to be bitchen' myself"
+### Purchases made
+- Cello purchased a [[Hat trick]].
+- Marinus purchased a set of [[Silken socks of slickening]]
+- Waron purchased an armor modification job, to add the benefits of a hunters coat to his chain armor
 
-Manel of Adaptivity?
-Eldritch scarf?
-- it's like a bag of holding
-Silken socks of slicken-in'
-- Touch grease where ever you move to
-Socks of well rested
-- Recover any additional hit dice upon
-
-Slippers of spider climbing
-- 350g
-Hat trick
-- minor magical feets, 3 charges, recharges 1 charge at dawn.
-- Can be used to summon a familiar, or cast prestidigitation
-
-Benefits of a hunters coat
-- +1 AC
-- Advantage on death savings throws
-- When rolling to recover for a 
-Verena also gave me an amulet 
-- I need to attune for this!
+### Verena also gave Waron an amulet!
+- He needs to attune for this!
+- Helps ward off blood magic, to help with his fuck up of selling his blood for cheap!
 
 # Campaign Spelling Bee Event!
 Date and time TBD!

@@ -5,6 +5,7 @@ Status: fleeting
   - DND
   - Weapon
   - Trick Weapon
+  - Armory
 ---
 ![[church-pick.png]]
 
