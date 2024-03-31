@@ -11,4 +11,4 @@ Status: fleeting
 
 ---
 # References
-[[Trick Weapons]]
+## [[Trick Weapons]]

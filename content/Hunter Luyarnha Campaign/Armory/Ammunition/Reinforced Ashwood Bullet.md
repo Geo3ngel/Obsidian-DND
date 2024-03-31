@@ -10,4 +10,4 @@ Status: fleeting
 
 ---
 # References
-[[Bullet]]
+## [[Bullet]]

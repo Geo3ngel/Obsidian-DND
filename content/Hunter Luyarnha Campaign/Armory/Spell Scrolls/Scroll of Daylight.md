@@ -8,3 +8,4 @@ Status: fleeting
 
 ---
 # References
+## [[Spell Scrolls]]
