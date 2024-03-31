@@ -6,7 +6,7 @@ Status: fleeting
   - Ammunition
   - Bullet
 ---
-![[Pasted image 20240331013501.png]]
+![[frozen-holy-water-bullets.png]]
 
 ---
 # References

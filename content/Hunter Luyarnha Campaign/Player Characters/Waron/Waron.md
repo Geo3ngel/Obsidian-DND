@@ -18,7 +18,7 @@ style: height: 950px; width: 1035px;
 ```
 
 Waron's armor gained the following benefits from this item, as it's infused into his armor!:
-![[Pasted image 20240331000852.png]]
+![[hunters-coat.png]]
 So I'm +1 extra AC, advantage to DEX
 
 ### [[Waron - Physical Description]]

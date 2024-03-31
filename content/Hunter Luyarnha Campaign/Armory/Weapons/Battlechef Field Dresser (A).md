@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Weapon
 ---
-![[Pasted image 20240331013315.png]]
+![[battlechef-field-dresser.png]]
 
 ---
 # References

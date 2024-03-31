@@ -7,7 +7,7 @@ Status: fleeting
   - Trick Weapon
   - Weapon
 ---
-![[Pasted image 20240331014012.png]]
+![[rifle-spear.png]]
 
 ---
 # References

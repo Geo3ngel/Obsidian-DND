@@ -6,7 +6,7 @@ Status: fleeting
   - Ammunition
   - Bullet
 ---
-![[Pasted image 20240331013229.png]]
+![[reinforced-ashwood.png]]
 
 ---
 # References

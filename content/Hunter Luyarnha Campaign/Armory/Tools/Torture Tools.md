@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Tool
 ---
-![[Pasted image 20240331013413.png]]
+![[torture-tools.png]]
 
 ---
 # References

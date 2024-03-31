@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Weapon
 ---
-![[Pasted image 20240331013731.png]]
+![[pistol.png]]
 
 ---
 # References

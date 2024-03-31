@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Spell Scrolls
 ---
-![[Pasted image 20240331012955.png]]
+![[scroll-of-mapping.png]]
 
 ---
 # References

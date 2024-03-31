@@ -5,7 +5,7 @@ Status: fleeting
   - Meme
 ---
 ### From that time Narissa got banned from  [[The Enlightened Scholar]]
-![[Pasted image 20240331014515.png]]
+![[Narissa-banned-meme.png]]
 
 ---
 # References

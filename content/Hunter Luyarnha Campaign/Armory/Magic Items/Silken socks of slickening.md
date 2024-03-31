@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Magic Item
 ---
-![[Pasted image 20240331012758.png]]
+![[silken-socks-of-slickening.png]]
 
 ---
 # References

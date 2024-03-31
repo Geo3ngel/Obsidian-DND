@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Magic Item
 ---
-![[Pasted image 20240331012625.png]]
+![[amulet-of-proof-against-detection-and-location.png]]
 ---
 # References
 ## [[Magic Item]]

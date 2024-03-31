@@ -6,7 +6,7 @@ Status: fleeting
   - Magic Item
 ---
 
-![[Pasted image 20240331012720.png]]
+![[cloak-of-protection.png]]
 
 ---
 # References

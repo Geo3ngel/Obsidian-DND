@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Weapon
 ---
-![[Pasted image 20240331013523.png]]
+![[blunderbuss.png]]
 
 ---
 # References

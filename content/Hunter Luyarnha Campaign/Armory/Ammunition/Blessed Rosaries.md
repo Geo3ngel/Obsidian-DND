@@ -6,7 +6,7 @@ Status: fleeting
   - Ammunition
   - Bullet
 ---
-![[Pasted image 20240331013814.png]]
+![[blessed-rosaries.png]]
 
 ---
 # References

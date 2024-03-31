@@ -20,7 +20,7 @@ Built on multiple floors—as above, so below—the Cathedral is said to be able
 ![[grand-cathedral-layout.png]]
 
 ### Bridge to the Grand Cathedral
-![[Pasted image 20240331014800.png]]
+![[grand-cathedral-bridge.png]]
 
 --- 
 # Shops

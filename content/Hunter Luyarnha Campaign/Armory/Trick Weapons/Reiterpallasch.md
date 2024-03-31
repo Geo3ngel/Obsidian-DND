@@ -7,7 +7,7 @@ Status: fleeting
   - Weapon
   - Armory
 ---
-![[Pasted image 20240331013648.png]]
+![[reiterpallasch.png]]
 
 ---
 # References

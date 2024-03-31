@@ -6,7 +6,7 @@ Status: fleeting
   - Ammunition
   - Bullet
 ---
-![[Pasted image 20240331013555.png]]
+![[shrapnel-bullet.png]]
 
 ---
 # References
