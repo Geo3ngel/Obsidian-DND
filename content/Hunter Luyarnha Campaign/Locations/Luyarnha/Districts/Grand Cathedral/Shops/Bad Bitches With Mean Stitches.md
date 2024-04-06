@@ -26,10 +26,10 @@ It's like a bag of holding, but fashionable as fuck.
 
 ### [[Silken socks of slickening]]
 Anywhere the wearer walks becomes a puddle of grease
-**Price**: 350g
+**Price**: 300g
 
 ### Socks of well rested
-**Price**: 350g
+**Price**: 180g
 Recover any additional hit dice upon- 
 > [!error] (desc cut off half way. Refer to video of session 16 to update here)
 
@@ -39,7 +39,7 @@ Enable the user to move vertically, and upside down on ceilings at their regular
 ### [[Hat trick]]
 Capable of performing minor magical feats, 3 charges, recharges 1 charge at dawn.
 Can be used to summon a familiar (with no spell casting through) or to cast prestidigitation
-**Price**: 350g
+**Price**: 300g
 
 # Additional Services
 ## Armor modification
