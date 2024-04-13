@@ -15,6 +15,12 @@ Upon touch, they convey feelings of relief/euphoria.
 ---
 # Menu
 ![[heavens-hospice-menu.png]]
+
+# House Special
+### The Celestial Sunrise
+Dark vision, magical & non-magical
+Can cast bright light out 40 feet from our mouth.
+- casts dim light for up to an additional 40 feet
 ---
 # References
 ## [[Grand Cathedral - Restaurants]]

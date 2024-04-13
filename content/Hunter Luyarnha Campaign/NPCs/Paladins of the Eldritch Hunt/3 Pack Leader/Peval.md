@@ -27,6 +27,8 @@ Also gives roof-top perspectives and only engages in combat when expressly told 
 
 He follows Thokk Bloodbather.
 
+Seems to have followers with sealed eyes, with bat esc feature based scourge?
+
 ---
 # References
 ## [[000 Striker]]
