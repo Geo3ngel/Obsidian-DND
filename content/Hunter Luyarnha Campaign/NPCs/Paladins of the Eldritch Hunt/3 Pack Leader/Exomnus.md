@@ -26,6 +26,8 @@ However, he hones his team’s sense of smell so they can tell each other apart 
 
 Follows Cona Organrender and is usually assigned frontal assaults.
 
+Huge, even larger than me!
+
 ---
 # References
 ## [[000 Striker]]
