@@ -11,7 +11,7 @@ We're still in combat, surrounded and kind of *fucked™*.
 Midst of an eldritch moon, Many of us under the negative effects of the beastial moon due to failing our wisdom saving throws.
 
 A thunderous howl echo's in the distance...
-- The big bad boss wolf thing is coming, we don't know how long we have...
+- The [[Cleric Beast]] is coming, we don't know how long we have...
 ---
 # Combat
 ### Narissa
@@ -34,12 +34,19 @@ Cello gets Grey back up w/ 8hp.
 Waron finally hits and smites the red doggo to murk him.
 - I really shouldn't have smite'd him, though it makes sense as Waron being frustrated since he's in a rage right now.
 - 
-Waron smells the big bad wolf creature...
+Waron catches the scent of the [[Cleric Beast]], it's growing closer...
 Waron's starting to feel a... *thirst* of sort.
 - That vial of reborn blood might just come into play sooner or later!
 
-Marinus spots the big bad wolf creature, it looks to be a few hundred feet North West currently.
+Marinus spots the [[cleric beast]], it looks to be a few hundred feet North West currently.
 - Waron doesn't hear his notifying of the group though!
+
+--- 
+# Boss Prep
+---
+The crew is given 2 minutes to prep their strategy and setup for the upcoming boss fight.
+
+We come up with a questionable ambush strategy, with everyone spread out and hidden, planning to blast this MOFO from range, with Waron and Cello in the center of the Arena to Tank DPS.
 
 ---
 # References
