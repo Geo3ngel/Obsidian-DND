@@ -85,10 +85,14 @@ After the hour or so of brief respite, a group of [[Corvian Dweller]]s lands in 
 The creatures pause for a moment, before appearing to be scared off by a not too distant heavy thud.
 
 The group, now left unbothered by the Corvian dwellers, seeks to deal with the problem of the bodies left in the water, fearing they will cause problems despite the purification runes put in place for the water works...
+- The group may use Waron's abilities to distinguish which bodies are infected with scourge as opposed to the others.
+- So we may be able to recover some of them to be given a proper burial.
 
 ---
 # References
-!()[]
+![](https://youtu.be/6AD6z9kYsrQ)
 
 ## Official Episode title considerations:
 Cooking with Cello!
+Scourge Beast Sashimi
+Sizzling Beast w/ Cello
