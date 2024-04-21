@@ -11,8 +11,6 @@ We're about to fight the [[cleric beast]] in [[Paterna Iter]]'s [[Water works]]
 ---
 # Combat
 ---
-I need to do my smite wombo combo if I can!
-- Can I even cross through it with spectral slash?
 
 Narissa did enough damage to have the beast proc it's healing move, bringing it out of it's wounded state
 - used 2 legendary actions!
@@ -91,3 +89,6 @@ The group, now left unbothered by the Corvian dwellers, seeks to deal with the p
 ---
 # References
 !()[]
+
+## Official Episode title considerations:
+Cooking with Cello!
