@@ -26,7 +26,7 @@ Waron fails his madness save... (78/100, 9/10)
 - His mind is broken.
 #### Waron's incapacitation
 He cannot attack, use bonus actions, or move.
-Until either greator restoration is applied, or he takes 8 damage.
+Until either greater restoration is applied, or he takes 8 damage.
 - He has 8hp currently, so it would drop him, and he'd need to be stabilized.
 They called Waron a large, middle child, while he was incapacitated.
 

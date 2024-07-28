@@ -7,6 +7,8 @@ Status: fleeting
   - Radiant Faith
   - High Apostle
 ---
+First encountered in the Shrouded district.
+Appears to be in contact with the white tiefling.
 
 ---
 # References
