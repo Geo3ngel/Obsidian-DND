@@ -4,7 +4,7 @@ Status: fleeting
 "Tags:":
 ---
 
-Wife's name: 
+Wife's name: Leiah
 Curse(s)
 - Scourge Borne
 - Some other... kind of curse? "The Hunger", as it's known of in the shadow district.

@@ -102,13 +102,62 @@ His stealth failed, resulting in his destroyed leg.
 
 +2 torches to all
 
+Waron's Madness progresses a bit for a moment..
+- failed wisdom throw when talking about his Wife
+
 ## Private Talk between Marinus and Verena
 Marinus recounts the details between him and Verena about his torture session with [[The curator]] at the [[Sanctified Sinner]]
 
 He had mentioned using the bone cocoon spell, and ended up in trouble at the red cross, who escorted him to the Sanctified Sinner to be tortured for information.
 
-## Waron's Chat with Verena
+## Dur'zoga, Cello, and Narissa Investigate the Tower
+They manage to get in, and obtain several doses of the silver tonic directly from the Vicor himself there.
+Narissa catches that the Vicor appears to have a deep distain for them for some reason.
 
+The Vicor tries to convince them to join them in the elevator.
+- Mentions a patient from the [[Ruby District]]
+	- A child? Tried to break her way into the Ruby district...
+	- Was separated from her parents within, tried to reconnect with them, and happened to come down with a bad case of the scourge
+- Mentions a potential cure for the scourge
+
+Seems to inquire about Narissa in particular quite a bit.
+
+
+## Waron's Chat with Verena
+She wanted to chat, claiming to possibly know about Waron's wife
+
+
+Something.. living within the fire?
+Some dark evil beast
+- Waron envisions this, attempts to peer further into it.
+- It's cutting a massive upward strike, wings of fire erupting from it's back
+- It's striking My wife
+
+He fails another wisdom saving throw
+- I can lose hit dice, or let it consume me.
+- I cannot get them back, I'm permanently losing HP
+
+Waron's madness consumes him momentarily
+Verena instantly links minds with him, attempting to break through whatever seems to be causing his... transformation.
+- The scene of fire, the woman appears to be slain by a beast of fire.
+- This draws Waron into a maddened state
+Verena mushes Waron's face, in his mind:
+" She's gone"
+He rejects this, mentioning that if he could perhaps stay here, he could find a way to save her from this fate.
+He attempts to move closer, but...
+## Verena DRAGS Waron into her own mind space
+"I've also experiences such a loss"
+The scene is that of her school, burning to the ground. The people visages of shadow.
+The scene of her dueling another student, unable to parry their firebolt with her spell/wand.
+
+Her wrist burns, seethes.
+Her *mother* appears to be the professor/principal
+
+TODO: Add Waron/Verena back and forth
+Something appears to trap Verena and Waron within her traumatic memory of fire...
+A glyph, similar to those she'd seen prior, that etched itself into her being.
+A glyph of *Fire*, of the sort her and Waron had been afflicted with perhaps?
+*Verena and Waron*: "Fire bad"
 
 ---
 # References
