@@ -15,3 +15,4 @@ Heck, it might be fun to make this into a little VN game if it goes well
 
 ---
 # References
+## [When Sparks Fly - Video Recording](https://youtu.be/2mQDUOSk_H4)

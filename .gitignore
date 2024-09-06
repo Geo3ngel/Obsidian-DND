@@ -12,7 +12,8 @@ replit.nix
 # Private files (George)
 content/Hunter Luyarnha Campaign/Player Characters/Waron/
 !content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron.md
-content/Random Ideation.md
+
+/content/Projects
 /content/Character Ideation
-/content/Oneshots/Oneshot Ideas
 /content/Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating
+!/content/Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating/Video.md
