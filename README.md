@@ -7,30 +7,45 @@
 
 ## Setup steps
 ### Git Setup
-1. Install github desktop (and git if need be separately? Should bundle.)
-2. Make a github account.
-3. Sign in to github desktop
-4. Clone my public repository
-5. I might need gitLFS as well!
-	1. I should double check if I have it configured for this repo or not...
+1. Install [github desktop](https://desktop.github.com/download/)
+2. Make a github account or [login](https://github.com/login) if you don't have one already.
+3. Sign in to github desktop with github account
+4. Clone my [public repository](https://github.com/Geo3ngel/Obsidian-DND)
+```
+https://github.com/Geo3ngel/Obsidian-DND.git
+```
+> [!TODO] Add some bit here about how to use `github desktop`
+> Pull, Commit, Push.
+> Maybe discuss branching as well?
+> - probably better to use that time for mentioning merge conflicts.
 ### Obsidian setup
-1. Install Obsidian
+1. Download and Install [Obsidian](https://obsidian.md/download)
 2. Open the cloned directory with obsidian as a vault
-	1. Do they need to install the plugins and whatnot themselves ahead of time to get it to match/sync up properly?
-	2. Or will it just automatically download them and whatnot?
-4. Ensure everything you write is in the ***content*** directory please.
-	1. Otherwise it won't be included in the website upon pushing updates.
-	2. I'll also need to ensure the vault ignore files are set up properly for the config, so it doesn't pick up all the extra generated html/htmx within obsidian.
-		1. Test via Graph view!
-### Note taking work flow
-#### Basics of Markdown
-#### Obsidian templates/linking.
-#### Uploading note changes to github!
-Basic run down of git
-Push/Pull
-Merge Conflicts
-Versioning/commit history
-Publish some changes, wait for the github action to complete, and watch the webpage update!
+	1. Open obsidian
+	2. Open folder as vault
+	3. Select the cloned repository directory
+> [!error] Ensure vault config is working!
+> 1. Are obsidian's ignore files are working? Ensure the vault ignore files are set up properly for the config, so it doesn't pick up all the extra generated `html/htmx` within obsidian. Test via Graph view to see if it includes html files and what not.
+> 2. Are plugins loading/happy?
+> 	- There might be some setting we need to tweak manually upon setup.
+> 	- Have Hunter or someone be the guinea pig for this
+
+# Usage Guide
+Ensure everything you write is in the ***`content`*** directory please.
+
+Otherwise it won't be included in the website upon pushing updates.
+## Note taking work flow
+### Basics of Obsidian Markdown
+Official Obsidian formatting guide can be found [here](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
+#### Linking
+#### Obsidian templates
+## Uploading note changes to github!
+### Basic run down of git
+- Pull, Commit, Push
+- Merge Conflicts
+- Versioning/commit history
+- Publish some changes, wait for the github action to complete, and watch the webpage update!
+- Branching
 
 # Quartz v4
 
