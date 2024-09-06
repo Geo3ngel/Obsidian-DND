@@ -1,0 +1,26 @@
+---
+Created: 2024/03/19 08:42
+Status: fleeting
+"Tags:":
+  - DND
+  - Session
+---
+# Location:
+---
+The session opens with the naked half orc lady looking at the party, covered in bloody remnants of the Lycans. “Who the fuck are you all?” she asks. “Aren;t you a bit cold? I can’t imagine that the Lycan entrails are warm.” Narissa asks. “Yes it's a bit nippy out.” The woman replies. “Yes, it is a bit nipply- I mean nippy out.” Narissa says. The orc lady blushes and tosses a body of a Lycan to cover herself before accepting a blanket from Waron. “You’re a Paladin from the Eldrich hunt.” She says to Waron, who says in a low voice that he is actually a potential recruit. She introduces herself as Greysha Bearknuckle. They note that she has some concrete brass knuckle. Greysha says the “man himself” custom made them and called them the Fists of Greysha. Hugo doesn’t seem to be a fan of this man as he mutters under his breath.
+
+Grey knows who the Man is because he was capable of creating trick weapons (weapons designed to work as a weapon before behaving like another with a flick of the wrist. An example is one that Hugo had - a rifle with a spear. Garum Keenseeker was the man who invented them. Greysha confirms this when Grey asks her. Hugo grumbles that he’s not great. Greysha says that the Geists have been more active than normal. Grey tries to swindle Hugo into giving him the rifle spear to compare his style and Garum’s. Hugo says it's 90 shimmer (90 gold). He says that if Grey comes back to him with it and 100 shimmer he can loan it to Grey. Grey mentions something about improving his bounty hunter business and that he might go to Garum and in doing so he persuades Hugo to give him the weapon.
+
+The party walks off with Greysha in the direction of the Grand Cathedral. She says, given their ability to kill monsters, they should meet with Vicar Orastophelis. He works for High Apostol Nevalla . Greysha says that Vicor Orastapholis (good for bounty hunters) is like Cello but that Vicar Abraham would be the one to contact for monster hunting. Waron recalls that there are 3 High Apostles: Nevalla, Michelangelo, Lugarius. Vicar Ranya has some odd jobs under High Apostle Michelangelo. Greysha gives them directions to the Church and to not leave the road even if there are voices calling them off the road. Marinus dawns his readers to write down her instructions in his notebook. Cello convinces Greysha to escort them through the Paterna Eter district. Cello reveals that they are trying to get back to the Sanctified District. Greysha is an adorable barbarian fan girl for the Shaw family.
+
+The Great Antler man that Marinus mentions seems to make Greysha start. Narissa states that it was actually a Wendigo. Greysha seems to be hiding something in regard to knowing why a Wendigo was in these parts. She tries to deflect to Waron. Verena asks Waron what he was guarding on the train in response to Greysha asking about why a member of the Eldritch Hunt was on the train. “You sit around and vibe and stuff right?” Greysha asks Daul in regard to him being a monk. “Can you teach me how to super sleep?” She asks Daul. Greysha reveals that she has Earth Breaker blood and that within Paterna Eter there are her and Calvin. She also reveals that she is a Yeager Meister. Narissa recognizes Yeager as the other branch of Monster Hunters that could compete with the Shaws. The Yeagers were born, trained and almost built to be a monster hunter. They came to be during the 1rst War in Luyarnha (15 years ago). It ended after 10 years. Those that were able to achieve seemingly impossible were further indoctrinated into being a Yeager Meister. The Yeagers have not seemed to be replaced and new ones made since the war.
+
+Grey lies and convinces Greysha that he is from the Sanctified District. There is a sort of odd recognition thing when Greysha shakes hands with Dur’zoga. Greysha tries to pass it off as if she is just happy to see another half orc. Dur’zoga notices that she is in fact hiding something that Greysha didn’t recognize until they had physically made contact. Durzoga grabs her wrist and feels a pulse from Greysha and then another one from the earth. Dur’zoga let’s Greysha go and apologizes.
+
+Greysha informed them that Rusty in the Grand Cathedral who might know about gunpowder sales in answer to Verena’s questions about who would be interested in gunpowder finances. They hear howling and yelling in the area. Rumbling under the ground alerts them as suddenly lion things emerge. Greysha tells them to run as she heads towards the lion things to fight them. The party run towards the radiant Church to see chaos outside of the church. Paladins are fighting lycans and moaning, decaying like creatures and geists with their geist parasites. Statues like gargoyles also are fighting. Dead people everywhere along the bridge. There seems to be leather clad hunters fighting against the monsters.
+# Cello Comic
+## [[Cello Learns to Loot]]
+
+---
+# References
+![](https://www.youtube.com/watch?v=BWFu_bR12_c&list=PLmwaCUBw5TkIrGOm_CqB8MDqyrkhJmSse&index=5)

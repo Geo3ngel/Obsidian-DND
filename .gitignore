@@ -1,7 +1,7 @@
 .DS_Store
 .gitignore
 node_modules
-public
+# public
 prof
 tsconfig.tsbuildinfo
 .obsidian
@@ -9,3 +9,11 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/Hunter Luyarnha Campaign/Player Characters/Waron/Backstory Planning.md
+content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Level up planning.md
+content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Physical Description.md
+content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas
+content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes.md
+/content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes
+content/Random Ideation.md
+/content/Character Ideation
