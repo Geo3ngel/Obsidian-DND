@@ -46,6 +46,7 @@ Official Obsidian formatting guide can be found [here](https://help.obsidian.md/
 - Versioning/commit history
 - Publish some changes, wait for the github action to complete, and watch the webpage update!
 - Branching
+- Gitignore
 
 # Quartz v4
 

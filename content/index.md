@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Luyarnha
 ---
+> [!error] WIP! Index to go here!
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## [[Steinhardt's guide to the eldritch hunt]]
+## [[000 Luyarnha PC|Player Characters]]

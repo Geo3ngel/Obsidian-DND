@@ -11,6 +11,6 @@ Status: permanent
 
 ---
 # References
-[Stienhardt's guide to the eldritch hunt](https://eldritch-hunt.backerkit.com/hosted_preorders)
-[Steinhardt's guide to the eldritch hunt website](https://www.monkeydm.com/1-steinhardt)
-[Player Characters](Luyarnha PC)
+## [Stienhardt's guide to the eldritch hunt](https://eldritch-hunt.backerkit.com/hosted_preorders)
+## [Steinhardt's guide to the eldritch hunt website](https://www.monkeydm.com/1-steinhardt)
+## [[000 Luyarnha PC|Player Characters]]
