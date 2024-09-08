@@ -27,15 +27,19 @@ Ludwig told them we drink the blood of our enemies as a ritual of sorts...
 - This is totally how the paladins of the eldritch hunt contracted the scourge, isn't it? As part of their initiation ritual, they're made to drink blood due to Ludwig's edginess.
 
 ## Grey's Dream
-Grey dreams of his survival with the Princess in the wilderness.
+Grey dreams of his survival with [[Princess Lightshard]] in the wilderness.
 
-Things are starting to get rather dire, as they're on their last set of rations, and Grey has been giving more to the princess, starting to feel his hunger.
+He enters his dream foraging for food, as he happens upon some quail eggs.
 
-They playfully assert new nicknames for one another, as Queen Ruby of the rags, and Captain Grey. Grey being named after the color of the coat he leant the princess.
+Things are starting to get rather dire, as they're on their last set of rations, and Grey has been giving more to the princess. As a result, he starts to feel his hunger eating away at his energy reserves steadily.
+
+Upon his return, he and the princess banter back and forth while sharing their morning meal.
+
+They playfully assert new nicknames for one another, as Queen Ruby of the broken cloaks, and Captain Grey. Grey being named after the color of the cloak he leant the princess.
 - The princess clearly seems to be developing some feelings for Grey.
 
 Things start to look hopeful as they come across signs of civilization!
-- however Grey seems to doubt that he'll be able to make it, and instructs the princess how to find the rest of her way just in case, as Grey finds himself awakening from his slumber...
+- however Grey seems to doubt that he'll be able to make it (he's starting to feel the lack of food from travel, since most of the rations have gone to the princess thus far to ensure her health), and instructs the princess how to find the rest of her way just in case, as Grey finds himself awakening from his slumber...
 ## Dur'zoga's Dream
 She's in a field, having completed her farming work and training for the day.
 - Notably she's getting quite good with an Axe and other armaments as the days pass.
