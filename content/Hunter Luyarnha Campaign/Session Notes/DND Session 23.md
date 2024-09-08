@@ -166,3 +166,5 @@ Waron rejoins the party, visibly shaken, even through his armor
 
 ---
 # References
+## Session Video Link
+![](https://youtu.be/maa-WnxlU40)

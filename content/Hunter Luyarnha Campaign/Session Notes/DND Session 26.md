@@ -64,3 +64,5 @@ Narissa runs into some bread salesman, pickpocketing some bread, and being given
 
 ---
 # References
+## Session Video Link
+![](https://youtu.be/gti21v4Tbac)

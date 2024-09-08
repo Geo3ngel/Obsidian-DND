@@ -104,3 +104,5 @@ The [[Abyssal Keep]] is a massive jail complex, where people that are still deem
 - Mostly consists of members of the losing side of the civil war in Luyarnha
 ---
 # References
+## Session Video Link
+![](https://youtu.be/JavUQeFJfkA)

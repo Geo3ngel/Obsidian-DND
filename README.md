@@ -14,6 +14,7 @@
 ```
 https://github.com/Geo3ngel/Obsidian-DND.git
 ```
+5. Request write access to the repository (Ping me in discord or DM me for access!) to be able to push changes!
 > [!TODO] Add some bit here about how to use `github desktop`
 > Pull, Commit, Push.
 > Maybe discuss branching as well?

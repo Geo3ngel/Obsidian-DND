@@ -159,3 +159,5 @@ A glyph of *Fire*, of the sort her and Waron had been afflicted with perhaps?
 
 ---
 # References
+## Session Video Link
+![](https://youtu.be/iOotYyNCuP4)

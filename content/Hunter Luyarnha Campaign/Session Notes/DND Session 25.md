@@ -49,3 +49,5 @@ Known as "The wayfairers"
 - Claims [[Lenny]] is going to have her head for even touching them.
 ---
 # References
+## Session Video Link
+![](https://youtu.be/ZTL1b1Rsbdc)

@@ -77,13 +77,15 @@ He ends up kicking Waron out, without answering much of anything, seemingly want
 
 After leaving Ludwig's chambers, he heads out to meet his party, but is met by some other members of the Eldritch hunt, who recognize that he seems bothered by something.
 - [[Geiger]]
-- 
+- one of the recruits Waron saved (NEEDS VIDEO REVIEW)
+Waron meets up with the party outside [[The Silver Wolf]]
 ### Waron history check knowledge: 
-The first Hunt happened in the year 1011, it's the 1014,
-There has been 51 hunts.
+The first Hunt happened in the year 1011, it's the 1014 currently.
+There has been 51 hunts so far, with the 52nd being tomorrow night.
 The infamous hunt, aka hunt 33.
 - started the major prep for hunts.
 - Up until this one, the Jaegers alone where sufficient.
+> [!note] The above needs to go into some LORE notes!
 
 
 ---

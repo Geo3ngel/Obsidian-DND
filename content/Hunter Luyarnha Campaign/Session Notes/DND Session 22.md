@@ -112,3 +112,5 @@ Narissa is kind of a hoarder for scrap bits, good to know!
 
 ---
 # References
+## Session Video Link
+![](https://youtu.be/3iSLTzHYkQs)

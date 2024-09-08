@@ -71,3 +71,5 @@ Divine Enclave Branches:
 - House of blood
 ---
 # References
+## Session Video Link
+![](https://youtu.be/ZxOyLyOFPQA)

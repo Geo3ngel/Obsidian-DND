@@ -133,3 +133,6 @@ Hunter quotes to find:
 950, Godless King comes into power
 980 , the civil war erupts to overthrow the Godless King that reigned within
 981, civil war ends.
+
+## Session Video Link
+![](https://youtu.be/07dIMelkvvI)
