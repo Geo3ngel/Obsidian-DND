@@ -6,7 +6,3 @@ Status: fleeting
 ## Summary
 Emits a low guttural bell tone, indicating an eldritch moon has ended.
 Also rung to indicate deaths of important figures in the city.
-
----
-# References
-## [[Radiant Church]]

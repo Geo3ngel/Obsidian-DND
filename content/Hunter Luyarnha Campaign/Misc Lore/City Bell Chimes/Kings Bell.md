@@ -8,3 +8,4 @@ During the era of the Monarchy, prior to the first war between them and the Radi
 
 ---
 # References
+## [[Radiant Bell]]

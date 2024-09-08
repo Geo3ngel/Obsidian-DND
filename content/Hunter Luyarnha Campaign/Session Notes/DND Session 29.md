@@ -22,6 +22,7 @@ He was pinned down a bit, and Waron got the killing blow
 - it didn't die until we used the church's holy water, despite stabbing it in the heart, cutting it's intestines, etc...
 The church wanted to ensure some form of loyalty...
 - So they had us swear an oath to the church and people of Luyarnha.
+- Ludwig didn't seem to suspect to much about taking the oath at the time. Quote "Oaths are just words you speak out loud and pretend to  care about."
 Ludwig told them we drink the blood of our enemies as a ritual of sorts...
 - This is totally how the paladins of the eldritch hunt contracted the scourge, isn't it? As part of their initiation ritual, they're made to drink blood due to Ludwig's edginess.
 
@@ -86,7 +87,6 @@ The infamous hunt, aka hunt 33.
 - started the major prep for hunts.
 - Up until this one, the Jaegers alone where sufficient.
 > [!note] The above needs to go into some LORE notes!
-
 
 ---
 # References

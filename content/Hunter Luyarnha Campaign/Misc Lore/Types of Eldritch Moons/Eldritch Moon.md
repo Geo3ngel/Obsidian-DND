@@ -6,4 +6,4 @@ Status: fleeting
 
 ---
 # References
-## [[Lore]]
+## [[Eldritch Moon]]
