@@ -4,4 +4,10 @@ Status: fleeting
 "Tags:":
 ---
 ## Summary
-A middle bell, known as [[Victoria's bell]], formerly known as the [[Kings bell]] back during the first war. Now they are known as a warning that an eldritch moon will occur the next night.
+A middle bell, known as [[Victoria's bell]], formerly known as the [[Kings bell]] back during the first war. 
+
+Now they are known as a warning that an eldritch moon will occur the next night.
+
+---
+# References
+## [[City Bell Chimes]]
