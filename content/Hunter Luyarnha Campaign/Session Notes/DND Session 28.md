@@ -21,7 +21,7 @@ The Grand Cathedral is 70% woman, with a lot of infants
 - Hunter also pointed out that us, the players, taking up residence takes housing space that would otherwise go to women and children to keep them safe.
 Sanctified district is 50/50, since they're more isolated
 
-## Talking with [[Thomas]] 
+## Talking with [[Lord Thomathin]] 
 > [!error] Need proper citation page and spelling Thomas's name and character
 
 Phillip was also involved with Alchemy, and was supposedly hunted down by the church for it, since he was attempting to find a cure for a the scourge.

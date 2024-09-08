@@ -26,7 +26,6 @@ We're essentially here as representatives of the Church
 We witness the retirement home...
 - the tower
 
-
 The river and air are very polluted.
 - The river is known as the [[Tar River]]
 
