@@ -114,3 +114,5 @@ The group then heads out for the gates of the [[Shrouded District]], and that is
 
 ---
 # References
+## Session Video Link
+![](https://youtu.be/FIcB8PsaJGE)
