@@ -63,8 +63,8 @@ Someone dared to launch a tomato at her mistress during a mistake in their perfo
 A middle bell chimes, indicating an eldritch moon is occurring the following night.
 
 Waron rolls well for history, recalling that there are 3 different types of bells:
-- A low guttural bell tone, indicating an eldritch moon has ended, and rung to indicate deaths of important figures in the city. (AKA, the [[Death bell]])
-- A middle bell, known as [[Victoria's bell]], formerly known as the [[Kings bell]] back during the first war. Now they are known as a warning that an eldritch moon will occur the next night.
+- A low guttural bell tone, indicating an eldritch moon has ended, and rung to indicate deaths of important figures in the city. (AKA, the [[Death Bell]])
+- A middle bell, known as [[Victoria's Bell]], formerly known as the [[Kings Bell]] back during the first war. Now they are known as a warning that an eldritch moon will occur the next night.
 - A high bell, AKA the [[Radiant Bell]] known for casting a radiant glow across the city. It's rung to indicate success, or reconstruction efforts completing in some area of the city.
 
 As such, the chime heard was that of a [[Victoria's Bell]], indicating the group will need to prepare for the coming eldritch moon.
