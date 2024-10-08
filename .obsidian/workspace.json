@@ -64,21 +64,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "754dc16fd66305cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Restaurant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Restaurant.md",
+                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified District/Sanctified District.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Restaurant.md",
+                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified District/Sanctified District.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Restaurant.md"
+                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified District/Sanctified District.md"
               }
             }
           }
@@ -205,13 +193,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b28a1e35213969c",
+  "active": "35a59c4691095aaf",
   "lastOpenFiles": [
+    "content/files/church-pick.png",
+    "content/files/cloak-of-protection.png",
+    "Templates/Shop.md",
+    "Templates/Restaurant.md",
     "Templates/Session.md",
     "Templates/Lore.md",
-    "Templates/Restaurant.md",
     "Templates/Location.md",
-    "Templates/Shop.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified District/Sanctified District.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified District/Quilandros Estate.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
