@@ -11,11 +11,74 @@
             "id": "4e5f854eacbab2a5",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Hunter Luyarnha Campaign/Session Notes/DND Session 32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f14b96ab737936c",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "66ec72110f3236a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11df83d931eace36",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "35a59c4691095aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified District/Sanctified District.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "754dc16fd66305cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Restaurant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -65,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.5
   },
   "right": {
     "id": "6cfbeb9752a437f1",
@@ -81,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Restaurant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Restaurant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Restaurant.md"
+              }
             }
           }
         ]
@@ -138,6 +205,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e5f854eacbab2a5",
-  "lastOpenFiles": []
+  "active": "2b28a1e35213969c",
+  "lastOpenFiles": [
+    "Templates/Session.md",
+    "Templates/Lore.md",
+    "Templates/Restaurant.md",
+    "Templates/Location.md",
+    "Templates/Shop.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified District/Sanctified District.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified District/Quilandros Estate.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
+    "content/Hunter Luyarnha Campaign/Session Notes/DND Session 32.md"
+  ]
 }
