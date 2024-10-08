@@ -4,7 +4,9 @@ node_modules
 # public
 prof
 tsconfig.tsbuildinfo
-.obsidian
+# .obsidian need to be included for the graph to be pulled/generate properly!
+# If we want to allow customization of stuff, we can ignore specfic configs in here!
+# .obsidian
 .quartz-cache
 private/
 .replit

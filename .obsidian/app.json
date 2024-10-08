@@ -1,0 +1,7 @@
+{
+  "userIgnoreFilters": [
+    "docs/",
+    "public/",
+    "quartz/"
+  ]
+}
