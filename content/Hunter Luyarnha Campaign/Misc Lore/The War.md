@@ -2,7 +2,7 @@
 Created: 2024/03/14 05:29
 Status: fleeting
 "Tags:":
-  - DND
+  - Lore
 ---
 It seems as though Luyarnha was embroiled war with beast from the east/south?
 
@@ -16,5 +16,4 @@ Beast waves from the SOUTH?
 
 ---
 # References
-## [[[[Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]]]
-## [[000 Organizations of Luyarnha]]
+## [[Organizations of Luyarnha]]

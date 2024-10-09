@@ -24,4 +24,4 @@ All volunteers from various backgrounds who are in the process of earning an off
 
 ---
 # References
-## [[000 Organizations of Luyarnha]]
+## [[Organizations of Luyarnha]]

@@ -1,11 +1,12 @@
 ---
-Created: 2024/10/09 07:59
+Created: 2024/10/09 07:31
 Status: permanent
 "Tags:":
   - Organization
 ---
 ## Purpose/Stated Goal
 Unknown
+
 ## Affiliated Organizations:
 ### Faction Alignment:
 Unknown
@@ -14,11 +15,13 @@ Unknown
 
 | Character Name | Rank | Role | Known Member (In character) |
 | -------------- | ---: | ---: | --------------------------- |
-| [[Ludwig]]     |      |      |                             |
+|                |      |      |                             |
+
 
 
 ---
 # Notes
+Located somewhere in the shrouded district.
 
 ---
 # References

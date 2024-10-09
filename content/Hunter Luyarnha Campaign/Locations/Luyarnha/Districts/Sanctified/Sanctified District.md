@@ -17,6 +17,18 @@ A verdant enclave of beauty and tranquility, this regal domain is veiled from th
 
 It is more than just a district; it is an exemplar of grandeur corroded by time, a fortified, sanctified garden of delights sullied by greed, a golden apple that houses more rot than a mound of corpses.
 
+## Shops
+- [/] TODO: Ensure these shops are all within this location!
+
+| Shop Name                   |
+| --------------------------- |
+| [[Gnarled Fang]]            |
+| [[Radiant Order Amenities]] |
+
+## Restaurants
+
+- [/] TODO: Include list of restaurants available here!
+
 ---
 # References
 ### [[Luyarnha]]

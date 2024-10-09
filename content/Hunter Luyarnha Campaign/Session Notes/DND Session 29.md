@@ -52,7 +52,7 @@ They seem to be goading her into making the first attack, though notably not man
 She of course, wipes the floor with the brats, and those that are still able to, scamper off while shouting about how she'll pay for bringing them harm.
 
 ## Cello's Dream
-Cello awakens in the [[Oracle tea house]]. (The tea and bath house in the [[Sanctified District]])
+Cello awakens in the [[Oracle Tea House]]. (The tea and bath house in the [[Sanctified District]])
 She is having tea, with her mistress as they reviewing their latest performance.
 
 Someone dared to launch a tomato at her mistress during a mistake in their performance due to Cello being slightly out of pace. Her mistress seems chill about it, despite having to improvise due to forgetting the remainder of her lines for the sequence due to the disruption.

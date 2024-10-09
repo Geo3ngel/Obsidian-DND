@@ -50,7 +50,7 @@ After our discussion concluded, we returned to the Church. Cello, Grey, and Waro
 The shop keep is some special form of being, that is probation equipment for those locked from the abyssal keep
 - Known as the Penitent Mage, aka "Penny", as dubbed by Cello
 	- Sponsored by [[The Abyssal Keep]]
-		- Gears are just turning in Waron's head on whether or not that's associated with the [[Abyss Wardons]]
+		- Gears are just turning in Waron's head on whether or not that's associated with the [[Abyss Wardens]]
 Verena can see into the weave? Questions "[[Penny the penitent]]" about
 - Penny alludes to some event known as "The unchaining"
 - 

@@ -1,5 +1,5 @@
 ---
-Created: "{{date:YYYY/MM/DD}} {{time:HH:mm}}"
+Created: 2024/10/09 07:43
 Status: permanent
 "Tags:":
   - Location
@@ -19,4 +19,4 @@ Status: permanent
 
 ---
 # References
-## Located within [[X]]
+## Located within the [[Grand Cathedral]]

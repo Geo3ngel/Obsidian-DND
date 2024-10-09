@@ -21,6 +21,12 @@ Foreigners would arrive, whether by carriage or locomotive, and the Paterna Iter
 
 Today, though the lines have dissipated, those in desperate need of a cure stealthily smuggle themselves across the city's threshold, evading the well-trodden paths and resorting to illicit means.
 
+## Shops
+
+| Shop Name                 |
+| ------------------------- |
+| **[[Powdered Emporium]]** |
+
 ---
 # References
 ### [[Luyarnha]]

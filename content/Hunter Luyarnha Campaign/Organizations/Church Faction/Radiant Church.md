@@ -5,6 +5,7 @@ Status: fleeting
 ---
 ## Summary
 The religious organization that currently controls the city of [[Luyarnha]]
+TODO: Add descriptor for relation to organizations they seem to have "under" them, or on their side to establish faction alignments.
 
 ### Symbol
 **Anarta**

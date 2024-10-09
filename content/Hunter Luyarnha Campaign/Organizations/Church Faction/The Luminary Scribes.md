@@ -8,4 +8,4 @@ Status: fleeting
 
 ---
 # References
-## [[000 Organizations of Luyarnha]]
+## [[Organizations of Luyarnha]]

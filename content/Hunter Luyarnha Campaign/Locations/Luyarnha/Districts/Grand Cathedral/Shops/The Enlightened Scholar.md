@@ -1,5 +1,5 @@
 ---
-Created: "{{date:YYYY/MM/DD}} {{time:HH:mm}}"
+Created: 2024/10/09 07:45
 Status: permanent
 "Tags:":
   - Location
@@ -8,6 +8,7 @@ Status: permanent
 # Shop Details
 ## Specialization
 ## Organization affiliations
+Sponsored by [[The Luminary Scribes]]
 # Shop Keep
 **Name**:
 **Description**:
@@ -19,4 +20,4 @@ Status: permanent
 
 ---
 # References
-## Located within [[X]]
+## Located within the [[Grand Cathedral]]

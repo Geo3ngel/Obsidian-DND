@@ -36,7 +36,7 @@ I stopped mid procedure...
 Waron has another curse. Not just the Scourge.
 	- This would be an opportune moment for Waron to reveille himself as a scourgeborne to Narissa
 		- Remove his helmet
-Mention the desire to travel to the ***[[shrouded district]]*** to search for some group known as "The abyss wardens".
+Mention the desire to travel to the ***[[Shrouded District]]*** to search for some group known as "The abyss wardens".
 - For they may have knowledge of my curse...
 - They harbor knowledge of something "great, dark, and deep".
 According to [shop keep name], the scourge corrupts. But this curse is one of hunger, not mere corruption. 

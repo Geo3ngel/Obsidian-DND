@@ -24,8 +24,15 @@ Built on multiple floors—as above, so below—the Cathedral is said to be able
 
 --- 
 # Shops
-[[Sanctified Sinner]]
-[[The Enlightened Scholar]]
+
+| Shop Name                       |
+| ------------------------------- |
+| [[The Enlightened Scholar]]     |
+| [[Barracks of the Battle Rest]] |
+| [[Radiant Order Amenities]]     |
+| [[The Sanctified Sinner]]       |
+| [[Triple IDE]]                  |
+
 ...
 
 ---

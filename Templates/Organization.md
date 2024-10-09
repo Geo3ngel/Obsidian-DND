@@ -1,5 +1,5 @@
 ---
-Created: 2024/10/09 07:59
+Created: "{{date:YYYY/MM/DD}} {{time:HH:mm}}"
 Status: permanent
 "Tags:":
   - Organization
@@ -14,7 +14,7 @@ Unknown
 
 | Character Name | Rank | Role | Known Member (In character) |
 | -------------- | ---: | ---: | --------------------------- |
-| [[Ludwig]]     |      |      |                             |
+|                |      |      |                             |
 
 
 ---

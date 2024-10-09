@@ -2,7 +2,6 @@
 Created: 2024/03/10 03:49
 Status: fleeting
 "Tags:":
-  - DND
   - NPC
 ---
 ### Current Status:
@@ -22,5 +21,4 @@ Seems to be tasked with summoning Dullahan for the purpose of gathering more mem
 
 ---
 # References
-## [[Luyarnha_NPC]]
 ## [[The Circle of Symbiosis]]
