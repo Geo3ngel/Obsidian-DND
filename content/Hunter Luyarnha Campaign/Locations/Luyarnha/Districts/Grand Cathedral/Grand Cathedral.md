@@ -23,7 +23,7 @@ Built on multiple floors—as above, so below—the Cathedral is said to be able
 ![[grand-cathedral-bridge.png]]
 
 --- 
-# Shops
+## Shops
 
 | Shop Name                       |
 | ------------------------------- |
@@ -32,7 +32,10 @@ Built on multiple floors—as above, so below—the Cathedral is said to be able
 | [[Radiant Order Amenities]]     |
 | [[The Sanctified Sinner]]       |
 | [[Triple IDE]]                  |
-
+| [[The Silver Wolf]]             |
+| [[Mother Lugru]]                |
+| [[Etchings of the Arcane]]      |
+## [[Grand Cathedral - Restaurants]]
 ...
 
 ---
