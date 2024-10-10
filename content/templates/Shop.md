@@ -5,15 +5,19 @@ Status: permanent
   - Location
   - Shop
 ---
-# Shop Details
-## Specialization
-## Organization affiliations
 # Shop Keep
 **Name**:
 **Description**:
 **Relationship with party**:
-# Wares
-# Additional Services
+
+---
+# Shop Details
+## Specialization
+## Organization affiliations
+## Wares
+## Additional Services
+
+---
 # Party Notes
 
 

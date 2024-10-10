@@ -5,15 +5,17 @@ Status: permanent
   - Location
   - Shop
 ---
+## Shop Keep
+**Name**: [[Hugo Magmabrant]]
+**Description**: 
+**Relationship with party**: [[Verena]]'s boy toy
+
+---
 # Shop Details
 ## Specialization:
 Long ranged weaponry, ammunition, boomy things.
 ## Organization affiliations:
 None known
-## Shop Keep
-**Name**: [[Hugo Magmabrant]]
-**Description**: 
-**Relationship with party**: [[Verena]]'s boy toy
 ## Wares
 
 ## Additional Services
@@ -22,7 +24,6 @@ None known
 ---
 # Party Notes
 
-
 ---
 # References
-## Located within [[X]]
+## Located within [[Paterna Iter]]

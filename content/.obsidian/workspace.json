@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Savior's Servant.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,14 +87,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/DND NPC.md",
+                "file": "templates/Shop.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md"
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md"
               }
             }
           }
@@ -221,35 +221,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7d14606547e3e7b",
+  "active": "683e6ab30b058ffd",
   "lastOpenFiles": [
+    "templates/Shop.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
     "templates/DND NPC.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Newbridge District.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Savior's Servant.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Grand Cathedral.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple IDE.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Luminary Scribes.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Grand Cathedral - Restaurants.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Barracks of the Battle Rest.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/The Veiled Hunter.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/Nezmus.md",
+    "Hunter Luyarnha Campaign/NPCs/Scions",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Pirmisha.md",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Savior's Servant.md",
     "templates/Restaurant.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Barracks of the Battle Rest.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Grand Cathedral - Restaurants.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Grand Cathedral.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple IDE.md",
-    "templates/Shop.md",
     "templates/Location.md",
     "templates/Organization.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shrouded District.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Waterfront District.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/The Silverblood Castle.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha.md",
-    "README.md"
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants"
   ]
 }

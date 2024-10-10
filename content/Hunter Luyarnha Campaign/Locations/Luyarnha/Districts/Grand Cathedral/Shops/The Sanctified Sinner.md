@@ -10,7 +10,7 @@ Status: permanent
 ## Organization affiliations
 Sponsored by [[The House of Blood]]
 # Shop Keep
-**Name**:
+**Name**: [[Idris Eisenthorp]]
 **Description**:
 **Relationship with party**:
 # Wares

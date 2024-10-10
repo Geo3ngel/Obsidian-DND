@@ -7,6 +7,7 @@ Status: permanent
 ---
 # Shop Details
 ## Specialization
+Potions, and potion accessories?
 ## Organization affiliations
 # Shop Keep
 **Name**:

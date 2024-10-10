@@ -4,6 +4,9 @@ Status: permanent
 "Tags:":
   - Organization
 ---
+> [!error] This was set up as an Organization, rather than a shop?
+> - [ ] Fix this mess!
+> - [ ] Set up [[Paladins of the Eldritch Hunt]] as an Organization properly!
 ## Purpose/Stated Goal
 Unknown
 ## Affiliated Organizations:
