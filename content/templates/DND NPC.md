@@ -20,6 +20,8 @@ Status: permanent
 
 ---
 # Notes
+## **Relationship with Party**:
+
 
 ---
 # References

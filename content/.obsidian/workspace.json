@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md"
+                "file": "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md"
               }
             }
           }
@@ -224,6 +224,7 @@
   "active": "e7d14606547e3e7b",
   "lastOpenFiles": [
     "templates/DND NPC.md",
+    "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Pirmisha.md",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross",
@@ -249,7 +250,6 @@
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Waterfront District.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/The Silverblood Castle.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha.md",
-    "README.md",
-    "index.md"
+    "README.md"
   ]
 }

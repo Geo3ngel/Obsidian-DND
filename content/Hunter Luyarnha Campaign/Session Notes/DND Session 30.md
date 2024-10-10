@@ -13,7 +13,7 @@ The coming moon is a [[Glouring Moon]]
 ---
 # Session Notes
 ---
-We're approaching the gate with [[Henry]].
+We're approaching the gate with [[Bloody Henry]].
 
 We arrive at the meat processing plant without much trouble...
 - it seems to be more of a brewery...?

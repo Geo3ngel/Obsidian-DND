@@ -70,7 +70,7 @@ Marinus uses Waron's name when claiming to be a member of the Blood Cross
 [[Niemy]], or whatever her name is, is apparently rumored to be working on a cure for the scourge.
 - straight to the punch works with her
 - Likes flowers
-- Marinus got this info from: **[[Henry]]**
+- Marinus got this info from: **[[Bloody Henry]]**
 ## Waron
 Looks for Geiger on the way back to the barracks
 Apparently the two I saved on the first eldritch moon are showing promise as recruits!
