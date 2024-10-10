@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md"
+                "file": "README.md"
               }
             }
           }
@@ -199,6 +199,8 @@
   },
   "active": "8bfd5135237d87ce",
   "lastOpenFiles": [
+    "README.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
     "content/Hunter Luyarnha Campaign/Misc Lore/The War.md",
@@ -207,7 +209,6 @@
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
     "content/Hunter Luyarnha Campaign/Organizations/Scourge Faction/The Circle of Symbiosis.md",
     "content/Hunter Luyarnha Campaign/Organizations/Abyss Wardens.md",
     "content/Hunter Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign.md",
@@ -225,7 +226,6 @@
     "Templates/Session.md",
     "Templates/Lore.md",
     "Templates/Core Idea.md",
-    "content/Hunter Luyarnha Campaign/Organizations/Church Faction/The House of Blood.md",
     "content/Hunter Luyarnha Campaign/Organizations/Scourge Faction",
     "content/Hunter Luyarnha Campaign/Organizations/Church Faction",
     "content/Hunter Luyarnha Campaign/Organizations/Families",

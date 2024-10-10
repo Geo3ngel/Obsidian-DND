@@ -6,6 +6,7 @@
 3. By any chance are you familiar with note taking in obsidian?
 
 ## Setup steps
+> [!TODO] Rework This!
 ### Git Setup
 1. Install [github desktop](https://desktop.github.com/download/)
 2. Make a github account or [login](https://github.com/login) if you don't have one already.

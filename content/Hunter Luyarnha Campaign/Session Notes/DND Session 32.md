@@ -36,5 +36,35 @@ His father then scolds him for saving her from the burning home.
 Verena appears somewhat satisfied by what she has seen, and informs Dur'zoga that we need her.
 Strength is not how quick, or how strong you are, but how many times you can get back up
 
+## Waron/Narissa Combat notes
+[[How to play Narissah]]
+
+Initial move:
+1. cast Shield of faith (prepared) on myself!
+2. Walk up to the enemy 
+3. Spectral slash
+
+I think Waron's whole game plan to try and use the blast with his Maul/Scythe as much as I can!
+1. Attack in Maul form, use the blast, and bonus action convert to scythe!
+2. Hope something dies, so it recharges my scythe
+3. Change from Maul form to scythe form with bonus action
+If no one recharges my scythe, attack and apply 50% of the damage to an adjacent monster for action, and if no one dies *still*, attack with bonus action (spectral slash)
+
+SPELL!
+
+- [x] Action Surge (used)
+- [x] Narissa Second Wind
+
+- [ ] Waron Maul Charged
+- [x] Maul form
+
+**Narissa HP**: 16
+- -1 Blessed Rosary!
+- -3 Explosive Holy Oil bullets
+- -3 Frozen Holy Water bullets
+	- I reloaded, though didn't specify how it's reloaded, so feel free to mix up the bullets!
+- Used Action Surge
+- Used Second Wind
+
 # References
 ---

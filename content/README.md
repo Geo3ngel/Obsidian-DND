@@ -7,6 +7,8 @@ So this repo can be the source of published information for things like Session 
 ### Features I'd like to add:
 1. (COMPLETED) Ability to blacklist/white list files/directories that display on the blog/website
 	1. This can be achieved via git ignore
+	2. Or via Quartz4's `frontmatter`, `ExplicitPublish`, `RemoveDrafts`, `PrivatePages`, `IgnorePatterns`, etc.
+		1. I should probably use `IgnorePatterns` and include paths of stuff we don't want to publish!
 2. recognition of obsidian hyper links?
 	1. 
 3. would be ideal if I could just embed obsidian with plugins as the website for the other addons I have like properties and whatnot

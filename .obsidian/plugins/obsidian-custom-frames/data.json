@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dndbeyond.com/characters/106269172/nyxEzx",
+      "displayName": "DnD-Beyond-Waron",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "/* Remove the Margin from the character sheet*/\n.ct-character-sheet__inner {\n\tmargin: 0 !important;\n}\n\n/* hide the player character window outline */\n.header-wrapper {\n\tdisplay: none !important;\n}\n\nfooter{\n\tdisplay: none !important;\n}\n\nhtml body.body-rpgcharacter-sheet{\n\tbackground_color: rgba(0,0,0,0);\n}",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
