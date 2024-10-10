@@ -5,6 +5,13 @@ Status: permanent
   - Location
   - Restaurant
 ---
-## WIP TEMPLATE!
+# Server(s):
+## [[X]]
+---
+# Menu
+
+## House Special
+
 ---
 # References
+## [[Location Restaurant Page]]

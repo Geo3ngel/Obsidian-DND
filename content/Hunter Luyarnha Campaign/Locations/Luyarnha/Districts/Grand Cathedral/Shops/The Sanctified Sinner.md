@@ -20,4 +20,4 @@ Sponsored by [[The House of Blood]]
 
 ---
 # References
-## Located within the [[Grand Cathedral]]
+## Located within [[Grand Cathedral - Shops]]

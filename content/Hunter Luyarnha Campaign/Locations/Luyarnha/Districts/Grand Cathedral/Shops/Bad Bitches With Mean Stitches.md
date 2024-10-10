@@ -52,4 +52,4 @@ They can add the benefits of a hunters coat to any armor!
 
 ---
 # References
-## [[Grand Cathedral]]
+## Located within [[Grand Cathedral - Shops]]

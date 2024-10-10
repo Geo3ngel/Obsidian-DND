@@ -50,7 +50,7 @@ After sitting silence for a moment following Semetra and Marinus going out for a
 - TherapySession.jpeg
 
 Looking to go somewhere quiet and comfortable, these find themselves in [[Heaven's Hospice]], though at a separate private table from Marinus and Semetra, thinking it best to let them have their privacy.
-- **Meta note**: The rest of the party that wasn't present for this session canonically headed to the [[Baron of the Battle Chefs]] to lighten their spirits
+- **Meta note**: The rest of the party that wasn't present for this session canonically headed to the [[Barracks of the Battle Rest]] to lighten their spirits
 
 #### What Waron should say to Cello/Dur'zoga
 ##### Waron orders the following:

@@ -20,4 +20,4 @@ Sponsored by [[The Luminary Scribes]]
 
 ---
 # References
-## Located within the [[Grand Cathedral]]
+## Located within [[Grand Cathedral - Shops]]

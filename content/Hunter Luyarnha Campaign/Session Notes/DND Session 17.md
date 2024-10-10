@@ -35,7 +35,7 @@ Wendigo, with a massive ass hammer
 - This is Vresh.
 - Barborin is a member of his crew
 
-## [[Baron of the Battle Chefs]]
+## [[Barracks of the Battle Rest]]
 Ordered food, and got daggers with our meals!
 - Waron traded his for a drink.
 We deliberated over names for a bit

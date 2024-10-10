@@ -4,8 +4,6 @@ Status: permanent
 "Tags:":
   - NPC
 ---
-```table-of-contents
-```
 # Character Details
 **Full Name**: {title} ???
 **Nickname**: ?

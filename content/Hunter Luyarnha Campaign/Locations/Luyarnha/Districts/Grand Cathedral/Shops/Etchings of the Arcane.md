@@ -27,4 +27,4 @@ Only appears to Verena, strangely enough.
 
 ---
 # References
-## Located within the [[Grand Cathedral]]
+## Located within [[Grand Cathedral - Shops]]

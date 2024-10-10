@@ -7,9 +7,9 @@ Status: hub
 
 | Restaurant Name               |     |
 | ----------------------------- | --- |
-| [[Baron of the Battle Chefs]] |     |
+| [[Barracks of the Battle Rest]] |     |
 | [[Heaven's Hospice]]          |     |
-| [[The Savior's Servant]]      |     |
+| [[Savior's Servant]]      |     |
 
 ---
 # References
