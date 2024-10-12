@@ -75,4 +75,4 @@ Nisovin bit idea:
 # References
 
 TEMP VISUAL:
-![[Pasted image 20240608211937.png]]
+![[Nisovin-temp.png]]

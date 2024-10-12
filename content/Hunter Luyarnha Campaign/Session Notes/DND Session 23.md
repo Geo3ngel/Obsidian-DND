@@ -116,7 +116,7 @@ Waron puts his whole purse into his mouth to bite test for bad peices.
 60 gold was fake total for Waron's purse.
 - had a bitter taste to it?
 Waron buys the following for (450g)
-![[Pasted image 20240601225623.png]]
+![[Dream Executioner.png]]
 - how much damage does this do at it's base though? (d10?)
 - What is it's reach? Is it similar to the [[Church Pick]] in that its reduced in it's untransformed state?
 Ends up losing 520g, as 60 is fake, and he breaks 10 testing the rest.

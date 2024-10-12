@@ -46,31 +46,68 @@
             }
           },
           {
+            "id": "bab77aab84e0a528",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Physical Description.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "aa040afc7cc9fba5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
+                "viewState": {
+                  "x": -2710.6533808075915,
+                  "y": 1328.4714187757854,
+                  "zoom": -2.333333333333333
+                }
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "9f724b8a19eb39af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f853ce074028f85d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Hunter Luyarnha Campaign/Organizations/Organizations of Luyarnha.md",
+                "file": "content/Hunter Luyarnha Campaign/Armory/Weapons/Pistol.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8bfd5135237d87ce",
+            "id": "30d3a2d99c7846d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 553.5
   },
   "right": {
     "id": "6cfbeb9752a437f1",
@@ -136,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/Hunter Luyarnha Campaign/Armory/Weapons/Pistol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/Hunter Luyarnha Campaign/Armory/Weapons/Pistol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/Hunter Luyarnha Campaign/Armory/Weapons/Pistol.md"
               }
             }
           }
@@ -197,45 +234,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bfd5135237d87ce",
+  "active": "f853ce074028f85d",
   "lastOpenFiles": [
-    "content/Hunter Luyarnha Campaign/NPCs/Scions",
-    "content/Hunter Luyarnha Campaign/NPCs/Untitled",
-    "content/Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
-    "content/Hunter Luyarnha Campaign/NPCs/The Blood Cross/Henry.md",
-    "content/Hunter Luyarnha Campaign/NPCs/The Blood Cross/Untitled.md",
-    "content/Hunter Luyarnha Campaign/NPCs/The Blood Cross/Pirmisha.md",
-    "content/Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md",
-    "content/Hunter Luyarnha Campaign/NPCs/The Blood Cross",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Savior's Servant.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/The Savior's Servant.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple IDE.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Untitled.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Barracks of the Battle Rest.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Untitled",
-    "README.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
-    "content/Hunter Luyarnha Campaign/Misc Lore/The War.md",
-    "content/Hunter Luyarnha Campaign/NPCs/Enemies/Ormiir.md",
-    "content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/1 Master of the Hunt/Ludwig.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
-    "content/Hunter Luyarnha Campaign/Organizations/Scourge Faction/The Circle of Symbiosis.md",
-    "content/Hunter Luyarnha Campaign/Organizations/Abyss Wardens.md",
-    "content/Hunter Luyarnha Campaign/Hunter's - Steinhardt's guide to the eldritch hunt DND campaign.md",
-    "content/README.md",
-    "content/Hunter Luyarnha Campaign/Organizations/Religions",
-    "content/Hunter Luyarnha Campaign/Organizations/Scourge Faction",
-    "content/Hunter Luyarnha Campaign/Organizations/Church Faction",
-    "content/Hunter Luyarnha Campaign/Organizations/Families",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront",
-    "content/files/church-pick.png",
-    "content/files/cloak-of-protection.png"
+    "content/Hunter Luyarnha Campaign/Armory/Weapons/Flintlock.md",
+    "content/Hunter Luyarnha Campaign/Armory/Weapons/Chain-linked Bale Hooks.md",
+    "content/Hunter Luyarnha Campaign/Armory/Weapons/Blunderbuss.md",
+    "content/Hunter Luyarnha Campaign/Armory/Weapons/Battlechef Field Dresser (A).md",
+    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Rifle Spear.md",
+    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Reiterpallasch.md",
+    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
+    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Church Pick.md",
+    "content/Hunter Luyarnha Campaign/Armory/Tools/Torture Tools.md",
+    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Mapping.md",
+    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Daylight.md",
+    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Burning Hands.md",
+    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Silken socks of slickening.md",
+    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Hat trick.md",
+    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Cloak of Protection (A).md",
+    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
+    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Amulet of Proof against Detection and Location (A).md",
+    "content/Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
+    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Shrapnel Bullet.md",
+    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Reinforced Ashwood Bullet.md",
+    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Pure Silvered Bullet.md",
+    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Lead Bullet.md",
+    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Laceration Round.md",
+    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Frozen Holy Water Bullet.md",
+    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Explosive Bullet.md",
+    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Blessed Rosaries.md",
+    "content/files/comic-cello-learns-to-loot.png",
+    "content/files/hunters-coat.png",
+    "content/files/Armory/silken-socks-of-slickening.png",
+    "content/files/Armory/Pasted image 20240331012841.png",
+    "content/files/Armory/Pasted image 20240331012726.png",
+    "content/files/Armory/hat-trick.png",
+    "content/files/Armory/Utility/Bestial Incense.png",
+    "content/files/Armory/Utility/torture-tools.png",
+    "content/files/Armory/Utility",
+    "content/files/Armory/Utility/scroll-of-mapping.png",
+    "content/files/Armory/Weapons/rifle-spear.png",
+    "content/files/Armory/Ammunition/Bullets",
+    "content/files/Armory/Ammunition",
+    "content/files/Armory/Weapons",
+    "content/files/Menus",
+    "Menus",
+    "content/files/Armory",
+    "content/files/Church",
+    "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
+    "DALLE2~1.web",
+    "Untitled"
   ]
 }

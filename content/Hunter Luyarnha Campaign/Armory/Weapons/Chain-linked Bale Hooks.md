@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Weapon
 ---
-![[Pasted image 20240331013115.png]]
+![[chain-linked-bale-hooks2.png]]
 
 ---
 # References
