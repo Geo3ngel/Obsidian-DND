@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 32.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28124722e459eb84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +51,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "82a2fc716274471c",
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md"
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md"
               }
             }
           }
@@ -221,10 +234,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "683e6ab30b058ffd",
+  "active": "28124722e459eb84",
   "lastOpenFiles": [
-    "templates/Shop.md",
+    "Hunter Luyarnha Campaign/Session Notes/DND Session 4.md",
+    "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
+    "Hunter Luyarnha Campaign/Session Notes/DND Session 32.md",
+    "Hunter Luyarnha Campaign/Session Notes/Memes/Narissa Banned Poster.md",
+    "Hunter Luyarnha Campaign/Session Notes/Memes/P.S.I Wyre.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+    "templates/Shop.md",
     "templates/DND NPC.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Newbridge District.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Savior's Servant.md",
@@ -245,12 +263,7 @@
     "Hunter Luyarnha Campaign/NPCs/Unclassified/Nezmus.md",
     "Hunter Luyarnha Campaign/NPCs/Scions",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
-    "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md",
-    "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Pirmisha.md",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross",
-    "templates/Restaurant.md",
-    "templates/Location.md",
-    "templates/Organization.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants"
   ]
 }
