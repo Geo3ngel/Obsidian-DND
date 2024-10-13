@@ -14,7 +14,7 @@ Status: permanent
 # Shop Details
 ## Specialization
 ## Organization affiliations
-## Wares
+## Wares 
 ## Additional Services
 
 ---
