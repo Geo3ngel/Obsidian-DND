@@ -83,5 +83,84 @@ Waron's just sad now. Thinking about his Wife, and Thomathin's.
 
 Thomathin pays us with a solid gold dagger.
 And Marinus ensures we *also* obtain the [[Blood Crystal]]
+
+> [!note] Make a doc for [[Lord Thomathin]], and include his underlings.
+> Norbert =>  Thomathin's body guard/failed Jaeger
+> Madam Gillette => Psion?
+> 
+
+The experiment to turn his wife into a Jaeger went wrong, and she went mad. Attacked people, in human form. Then gradually became unrecognizable. To most...
+- Everything about her changed, except one thing. Her eyes.
+- Her name was **Lumina**
+
+Thank you for sharing your memories of Lumina with us
+
+Verena asks them about the group in cloaks from last session, any inkling who they might be
+- They're the [[Abyss Wardens]]!
+Waron tries to press Thomathin for info on where they might be.
+
+They're some cult, worshiping
+
+If Waron comes across a small little place in the Shrouded district:
+- [[The Chipped Shoulder]], a small end shop
+- Run by a half elven man. Kind fellow.
+	- Careful with what he lets you see.
+	- Sells mining goods, and asks the same question to everyone who enters:
+	- **Answer it as such**: A second Canary? The first one warns  you, the second saves you
+
+Narissah is staring daggers into Waron, as he mentions his desperate interest in the Abyss Wardons.
+- He still needs to come clean to Narissah.
+
+Thomathin then addresses Cello.
+Apparently he's made good on his promise to try and introduce her to [[...]]
+She apparently made a promise to [[Mrs. Minerva]], Cello's Mistress to ensure she and Cello never met.
+
+He did however manage to set up a meeting with Cello and Camilla
+
+Cello told Thomathin to call on her at any time, as thanks setting her up with a meeting with Camilla
+He gave her a whispering stone, so they can keep in contact.
+- it only works once a day.
+
+Cello asks Thomathin if they could help find a way to open the locked box from her Mistress's place.
+- They Identify it as having several kinds of magic cast upon it:
+	- Thaumaturgy
+	- Necromancy
+	- ???
+It's a one of a kind arcane puzzle box.
+- It will destroy anything inside of it, should anyone try to force it open.
+- The puzzle though is one of a kind.
+
+They try to pick the lock through arcane means....
+- but it's encrypted. The awnser isn't so easy.
+- BUT they did discover it's sound based!
+	- So Cello needs to play some song to it 
+Songs she'd tried so far: **Moonlight princess**
+- Though this piece isn't completed...
+
+Wait, its an SCP?
+- Scion crafted projects
+> [!note] Make a lore page for SCPs!
+> And an armory folder for them to be stored and categorized under!
+
+Waron hears ___ whispering about the SCP manaquins to Thomathin: (nat 20)
+- it might have been related to [[Malach Angels]] she says.
+Waron wispers in kind to Cello: "What's a Malach's Angel?"
+- She rolls a nat 20 as well LMAO!
+She recalls, that apparently they are some rebellious Mannequins. Given Sapience, by some being known as Malach.
+- And so they became known as Malach's Angels
+
+He recommends [[The Busted Barrel]], as a bathhouse/inn
+Verena protests about going to such a place, so he recommends [[Whispers in the Mist]]!
+
+The mention of [[The Busted Barrel]] brings something to the fore front of Grey's mind:
+- He had a friend who wanted to open a tavern named "The Bustling Barrel" back in the day!
+
+Thomathin also mentions... Alchemy shops?
+
+Verena questions Thomathin about [[Noibert]], his bodyguard who failed out of the Jaeger program.
+- How exactly does one fail the program... Wouldn't that imply he's dead?
+His "defects" as a result of the experiment failing was deafness in his left ear, and a bum leg.
+
+
 # References
 ---

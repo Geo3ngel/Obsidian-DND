@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hunter's Coat"
+              "title": "DND Session 33"
             }
           }
         ]
@@ -28,17 +28,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28124722e459eb84",
+            "id": "96ce3e65f6f4ba9e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Blood Crystal"
+              "title": "DND Session 34"
             }
           }
         ]
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blood Crystal"
+              "title": "Backlinks for DND Session 34"
             }
           },
           {
@@ -132,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Blood Crystal"
+              "title": "Outgoing links from DND Session 34"
             }
           },
           {
@@ -159,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md"
+                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Blood Crystal"
+              "title": "Outline of DND Session 34"
             }
           }
         ]
@@ -182,16 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28124722e459eb84",
+  "active": "96ce3e65f6f4ba9e",
   "lastOpenFiles": [
+    "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
+    "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
+    "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Amulet of Proof against Detection and Location (A).md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Silken socks of slickening.md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Battlechef Field Dresser (A).md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Blunderbuss.md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Chain-linked Bale Hooks.md",
-    "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
-    "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
     "Hunter Luyarnha Campaign/Session Notes/DND Session 32.md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Damascena.md",
     "Pasted image 20241012215833.png",
@@ -209,8 +213,6 @@
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
     "Hunter Luyarnha Campaign/NPCs/Scions",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants"
