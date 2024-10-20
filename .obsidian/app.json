@@ -4,5 +4,7 @@
     "public/",
     "quartz/"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "content/files"
 }

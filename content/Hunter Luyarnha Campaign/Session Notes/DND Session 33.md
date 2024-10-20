@@ -28,7 +28,7 @@ Vargus volunteers for something, Vicor Henry is proud, and leads him there.
 - Vicor Henry is the evil one from the one shot, that is secretly some monster? 
 Thomathin is also involved, amongst the nobles involved in this process.
 
-Some form of experiment is wrought upon Vargus. It hurts. He loses himself, begins comiting murder. A lot of murder.
+Some form of experiment is wrought upon [[Vargus]]. It hurts. He loses himself, begins comiting murder. A lot of murder.
 - on the behalf of who?
 Then he hears a voice, instructing him to build... something. Preparing for "their" coming...
 He sings a pure song, which makes a strange fluid drip from his mouth.
