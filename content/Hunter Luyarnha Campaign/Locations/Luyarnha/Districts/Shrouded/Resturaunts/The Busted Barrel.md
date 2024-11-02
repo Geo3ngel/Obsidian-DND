@@ -1,0 +1,17 @@
+---
+Created: 2024/11/02 19:43
+Status: permanent
+"Tags:":
+  - Location
+  - Restaurant
+---
+# Server(s):
+## [[X]]
+---
+# Menu
+
+## House Special
+
+---
+# References
+## [[Location Restaurant Page]]
