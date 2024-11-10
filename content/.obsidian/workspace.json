@@ -55,16 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 35.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Session 35"
+              "title": "Powdered Emporium"
             }
           },
           {
             "id": "511f38a8c7e3a68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Armory/Ammunition/Armor Piercing Rounds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armor Piercing Rounds"
+            }
+          },
+          {
+            "id": "2d0923f16ec763fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Ammenities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Radiant Order Ammenities"
+            }
+          },
+          {
+            "id": "19787adb3c6047a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,9 +104,23 @@
               "icon": "lucide-file",
               "title": "DND Session 36"
             }
+          },
+          {
+            "id": "a44f249f6e96b318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Royal Silver's Luster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Royal Silver's Luster"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -215,10 +257,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "511f38a8c7e3a68a",
+  "active": "a44f249f6e96b318",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Session Notes/DND Session 35.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Royal Silver's Luster.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Ammenities.md",
     "Hunter Luyarnha Campaign/Session Notes/DND Session 36.md",
+    "Hunter Luyarnha Campaign/Session Notes/DND Session 35.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Daefied Death Bringers.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Armor Piercing Rounds.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Flesh Melter Round.md",
+    "files/Pasted image 20241109222002.png",
+    "files/Pasted image 20241109221842.png",
+    "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Blessed Rosaries.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple IDE.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Grand Cathedral.md",
     "Character Ideation/Rok Gorran.md",
     "files/31d26c07-45e8-4470-b856-37630904ec45.webp",
     "files/fdbf2392-e288-448d-9817-4ede05564d7b.webp",
@@ -229,23 +290,6 @@
     "Character Ideation/Default Warrior.md",
     "Character Ideation/By Hook or by Crook.md",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Paridous.md",
-    "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
-    "Hunter Luyarnha Campaign/Player Characters/000 Luyarnha PC.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Silken socks of slickening.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Hat trick.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloak of Protection (A).md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Amulet of Proof against Detection and Location (A).md",
-    "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
-    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/Shrouded District - Restaurants.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/The Busted Barrel.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Shrouded District - Shops.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Grand Cathedral - Restaurants.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops",
     "files/Pasted image 20241026191313.png",

@@ -17,6 +17,10 @@ Long ranged weaponry, ammunition, boomy things.
 ## Organization affiliations:
 None known
 ## Wares
+### Ammunition
+[[Lead Bullet]]
+[[Shrapnel Bullet]]
+[[Explosive Bullet]]
 
 ## Additional Services
 - Gun modification
