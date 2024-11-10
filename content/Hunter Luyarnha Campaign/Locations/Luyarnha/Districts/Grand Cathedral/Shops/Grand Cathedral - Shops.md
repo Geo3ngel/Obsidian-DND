@@ -15,7 +15,7 @@ Status: hub
 | [[The Silver Wolf]]         |
 | [[Mother Lugru]]            |
 | [[Etchings of the Arcane]]  |
-#
+
 ---
 # References
 ## [[Grand Cathedral]]

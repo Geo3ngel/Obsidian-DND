@@ -5,6 +5,7 @@ Status: permanent
   - Location
   - Restaurant
 ---
+Formerly known as the Bustling Barrel
 # Server(s):
 ## [[X]]
 ---
