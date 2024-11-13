@@ -9,6 +9,6 @@ Status: fleeting
 ---
 Some association with the sanctified district?
 - And Cello's master ([[Mrs. Minerva]])
-
+The high apostle responsible for the Obulis Scholare
 ---
 # References

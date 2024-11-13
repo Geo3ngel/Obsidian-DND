@@ -9,6 +9,7 @@ Status: fleeting
 ---
 First encountered in the Shrouded district.
 Appears to be in contact with the white tiefling.
+Responsible for the high onclave, house of blood...
 
 ---
 # References

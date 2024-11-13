@@ -10,5 +10,7 @@ Status: fleeting
 Seemingly buried in paperwork constantly.
 Likely heavily association with the luminary scribes
 
+Responsible for the templars, radiant order, etc.
+
 ---
 # References

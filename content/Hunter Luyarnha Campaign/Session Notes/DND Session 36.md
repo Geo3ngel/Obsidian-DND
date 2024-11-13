@@ -12,9 +12,9 @@ Status: permanent
 	- [ ] Maybe visit The Chipped Shoulder (probs won't have time this session)
 	- [ ] Library research (probs won't have time this session)
 - [ ] Shop (Prep for coming Eldritch Moon)
-	- [ ] Ammo for Narissa
-	- [ ] Fix Cello's Alligator head
-	- [ ] Refill Marinus's Silver tonic
+	- [x] Ammo for Narissa
+	- [x] Fix Cello's Alligator head
+	- [x] Refill Marinus's Silver tonic
 	- [ ] Get more weapons for Dur'zoga
 - [ ] Meet up with Paladins of the Eldritch Hunt to prepare for the coming moon.
 # Session Notes
@@ -123,9 +123,21 @@ All ranged weaponry
 - Grey buys some Armor piecing rounds!
 Rusty apparently is bound to the shop, though thirsts for the blood of scourge, from his hunting days of old.
 
-
 Waron wants to chat with the folk at [[Triple IDE]], chat about the scythe's performance thus far!
 - maybe ask if there is a possibility to upgrade the thing at all to hold more souls?
 Ooooh, or the socks of spider climbing!
+
+## [[Ranyha]] Pelicos's office
+- She's responsible for the [[Obulis Scholare]]
+We're making our report
+Michaelangelo
+They care for arcane relics, from prior wars, etc. (Historians)
+- The luminous scribes are investigators, under the divine enclave.
+She is accusing [[Orastophelis]] 
+
+She gives us 3k gold
+
+WTF is [[The Black Goat]]
+- some elder God?
 # References
 ---

@@ -22,8 +22,9 @@ The shop keeps are a pair of one armed older ladies, who appear to be a couple o
 
 ### Eldritch scarf
 It's like a bag of holding, but fashionable as fuck.
-**Price**: 1000g
+**Price**: 2000g
 
+### Cloak of Daggers
 ### [[Silken socks of slickening]]
 Anywhere the wearer walks becomes a puddle of grease
 **Price**: 300g
@@ -36,6 +37,9 @@ Recover any additional hit dice upon-
 ### Slippers of spider climbing
 Enable the user to move vertically, and upside down on ceilings at their regular movement speed!
 **Price**: 350g
+
+### Boots of the Cloud Jumper
+
 ### [[Hat trick]]
 Capable of performing minor magical feats, 3 charges, recharges 1 charge at dawn.
 Can be used to summon a familiar (with no spell casting through) or to cast prestidigitation
