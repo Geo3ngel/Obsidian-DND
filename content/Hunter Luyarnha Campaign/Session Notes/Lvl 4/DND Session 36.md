@@ -139,6 +139,8 @@ She gives us 3k gold
 
 WTF is [[The Black Goat]]
 - some elder God?
+# LEVEL UP!
+We're all level 5 now! Woohoo
 # References
 ---
 ## ![](https://youtu.be/JtohJsrYOBM)

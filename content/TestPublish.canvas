@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"9854209ddde6998f","type":"text","text":"Will this show up properly?","x":-272,"y":-142,"width":250,"height":60},
-		{"id":"31bfdd74e126f6c0","x":20,"y":-282,"width":140,"height":400,"type":"file","file":"files/Pasted image 20241109232825.png"}
-	],
-	"edges":[]
-}
