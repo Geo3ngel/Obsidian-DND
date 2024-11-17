@@ -123,7 +123,7 @@ All ranged weaponry
 - Grey buys some Armor piecing rounds!
 Rusty apparently is bound to the shop, though thirsts for the blood of scourge, from his hunting days of old.
 
-Waron wants to chat with the folk at [[Triple IDE]], chat about the scythe's performance thus far!
+Waron wants to chat with the folk at [[Triple I'D]], chat about the scythe's performance thus far!
 - maybe ask if there is a possibility to upgrade the thing at all to hold more souls?
 Ooooh, or the socks of spider climbing!
 

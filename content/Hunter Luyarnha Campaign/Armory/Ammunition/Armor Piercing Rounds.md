@@ -6,7 +6,7 @@ Status: fleeting
   - Ammunition
   - Bullet
 ---
-![[Pasted image 20241109221842.png]]
+![[Armor-piercing-round.png]]
 ---
 # References
 Can be bought at the following establishments:

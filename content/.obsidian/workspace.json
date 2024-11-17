@@ -6,6 +6,7 @@
       {
         "id": "91ef53bc11ab6909",
         "type": "tabs",
+        "dimension": 77.50677506775068,
         "children": [
           {
             "id": "8a5aac6ed2caae58",
@@ -57,12 +58,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Waterfront District.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Memes/Cello Knives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Waterfront District"
+              "title": "Cello Knives"
+            }
+          },
+          {
+            "id": "ca36b74f8aaa1b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Misc Lore/Currency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Currency"
             }
           },
           {
@@ -80,11 +95,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f0538bce51e9b312",
         "type": "tabs",
+        "dimension": 22.493224932249323,
         "children": [
           {
             "id": "b01aac2bef2f4948",
@@ -108,12 +124,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Geiger.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/The Fruit of the Vine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geiger"
+              "title": "The Fruit of the Vine"
             }
           },
           {
@@ -122,15 +138,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 23.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/The Gnarled Fang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Session 23"
+              "title": "The Gnarled Fang"
+            }
+          },
+          {
+            "id": "2f81c981ea2b0ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heaven's Hospice"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,54 +298,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b01aac2bef2f4948",
+  "active": "ca36b74f8aaa1b0a",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Waterfront District.md",
-    "Hunter Luyarnha Campaign/Armory/Tattoos/Elongating.md",
-    "files/Pasted image 20241116215156.png",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
-    "Hunter Luyarnha Campaign/Armory/Tattoos",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "Hunter Luyarnha Campaign/Armory/Traps/Fire Trap.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Silverblood Castle.md",
     "Hunter Luyarnha Campaign/Armory/Ammunition/Shrapnel Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Reinforced Ashwood Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Pure Silvered Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Lead Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Laceration Round.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloak of Protection (A).md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Hat trick.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Periapt of Health.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Silken socks of slickening.md",
+    "Hunter Luyarnha Campaign/Misc Lore/Currency.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Sanctified District.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Grand Cathedral.md",
+    "Hunter Luyarnha Campaign/Locations/Beast Lands/Beastland’s Train Station.md",
+    "Hunter Luyarnha Campaign/Locations/Beast Lands/Beastland.md",
     "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Flesh Melter Round.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Bullet.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Barracks of the Battle Rest.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Silken socks of slickening.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Periapt of Health.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Hat trick.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloak of Protection (A).md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Amulet of Proof against Detection and Location (A).md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
+    "templates/DND NPC.md",
+    "templates/Core Idea.md",
+    "templates/Location.md",
+    "templates/Lore.md",
+    "templates/Organization.md",
+    "files/Pasted image 20241117135128.png",
+    "files/Pasted image 20241117135024.png",
+    "files/Pasted image 20241117134930.png",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Shops",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts",
+    "files/bcb9d09d-82b2-480b-b59b-c34603e66d98.webp",
+    "files/fdbf2392-e288-448d-9817-4ede05564d7b.webp",
+    "files/31d26c07-45e8-4470-b856-37630904ec45.webp",
+    "files/Armory/amulet-of-proof-against-detection-and-location.png",
+    "files/Armory/silken-socks-of-slickening.png",
+    "files/Armory/Armor/Hunter's Coat.png",
+    "files/Armory/Armor",
+    "files/Armory/Cloak of Protection (A).png",
+    "files/Memes",
+    "Hunter Luyarnha Campaign/Armory/Tattoos",
     "Hunter Luyarnha Campaign/Armory/Traps",
-    "Hunter Luyarnha Campaign/NPCs/Enemies/The Veiled Hunter.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/Bit Ideas.md",
-    "Hunter Luyarnha Campaign/NPCs/Unclassified/The Veiled Hunter.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 23.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 1 - Train to Luyarnha/DND Session 2.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 36.md",
-    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Geiger.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 5",
     "TestPublish.canvas",
-    "files/Pasted image 20241109232825.png",
-    "files/Pasted image 20241026191313.png",
-    "files/Armory/Weapons/Damascena.png",
-    "files/Pasted image 20241109222002.png",
-    "files/Pasted image 20241109221842.png",
-    "files/31d26c07-45e8-4470-b856-37630904ec45.webp",
-    "files/fdbf2392-e288-448d-9817-4ede05564d7b.webp",
-    "files/bcb9d09d-82b2-480b-b59b-c34603e66d98.webp",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops",
     "Oneshots/Campeigns/StarWars",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
-    "Hunter Luyarnha Campaign/Quest Board/TODO Quests",
-    "Hunter Luyarnha Campaign/Quest Board/Completed Quests",
-    "Hunter Luyarnha Campaign/Quest Board/Active Quests",
-    "Hunter Luyarnha Campaign/Quest Board"
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas"
   ]
 }

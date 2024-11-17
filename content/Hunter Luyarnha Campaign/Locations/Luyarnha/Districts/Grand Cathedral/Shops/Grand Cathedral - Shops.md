@@ -11,7 +11,7 @@ Status: hub
 | [[The Enlightened Scholar]] |
 | [[Radiant Order Amenities]] |
 | [[The Sanctified Sinner]]   |
-| [[Triple IDE]]              |
+| [[Triple I'D]]              |
 | [[The Silver Wolf]]         |
 | [[Mother Lugru]]            |
 | [[Etchings of the Arcane]]  |

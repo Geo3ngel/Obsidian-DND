@@ -11,11 +11,6 @@ Status: permanent
 **Species**: ?
 **Met**: No
 #### Organization affiliation: 
-**Rank**: ?
-**Superior**: ?
-
-> [!info] Specialization
-?
 # Description:
 
 ---

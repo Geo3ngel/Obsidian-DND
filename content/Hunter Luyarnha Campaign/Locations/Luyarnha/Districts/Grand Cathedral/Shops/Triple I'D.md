@@ -7,6 +7,7 @@ Status: permanent
 ---
 > [!question] Is it actually Triple I, E? As in I.I.I.E?
 # Shop Details
+**Full Shop Name**: Industry Issued Instruments of Demise
 ## Specialization
 ## Organization affiliations
 # Shop Keep

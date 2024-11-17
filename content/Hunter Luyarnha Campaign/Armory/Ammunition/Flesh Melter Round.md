@@ -3,7 +3,7 @@ Created: 2024/11/09 22:19
 Status: fleeting
 "Tags:":
 ---
-![[Pasted image 20241109222002.png]]
+![[Fleshmelter-Round.png]]
 ---
 # References
 Can be bought at the following establishments:

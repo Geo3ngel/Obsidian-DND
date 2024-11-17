@@ -1,20 +1,18 @@
 ---
-Created: "{{date:YYYY/MM/DD}} {{time:HH:mm}}"
+Created: 2024/11/17 13:57
 Status: permanent
 "Tags:":
   - Location
   - Restaurant
 ---
+# Description
+A tea and bath house in the [[Sanctified District]].
 # Server(s):
 ## [[X]]
 ---
 # Menu
 
 ## House Special
-
-# Shop Details
-
-# Party Notes
 
 ---
 # References

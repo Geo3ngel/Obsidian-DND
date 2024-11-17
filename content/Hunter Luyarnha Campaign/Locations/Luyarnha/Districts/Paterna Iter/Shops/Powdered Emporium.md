@@ -18,9 +18,16 @@ Long ranged weaponry, ammunition, boomy things.
 None known
 ## Wares
 ### Ammunition
-[[Lead Bullet]]
-[[Shrapnel Bullet]]
-[[Explosive Bullet]]
+
+| Ammo Type                    | Cost per 10 rounds |
+| ---------------------------- | ------------------ |
+| [[Lead Bullet]]              | 1g                 |
+| [[Shrapnel Bullet]]          | 20g                |
+| [[Explosive Bullet]]         | 40g                |
+| [[Pure Silvered Bullet]]     | 30g                |
+| [[Laceration Round]]         | 60g                |
+| [[Frozen Holy Water Bullet]] | 50g                |
+| [[Armor-piercing-round.png]] | 90g                |
 
 ## Additional Services
 - Gun modification

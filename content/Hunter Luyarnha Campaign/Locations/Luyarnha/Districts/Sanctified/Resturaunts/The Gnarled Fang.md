@@ -1,20 +1,17 @@
 ---
-Created: "{{date:YYYY/MM/DD}} {{time:HH:mm}}"
+Created: 2024/11/17 13:45
 Status: permanent
 "Tags:":
   - Location
   - Restaurant
 ---
 # Server(s):
-## [[X]]
+## [[Zachariah Schröder]]
 ---
 # Menu
+![[Pasted image 20241117135024.png]]
 
 ## House Special
-
-# Shop Details
-
-# Party Notes
 
 ---
 # References
