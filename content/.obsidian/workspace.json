@@ -8,43 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e39d01ffc0e1f4cc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "68abfe367ec5c947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DND Session 13"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f0538bce51e9b312",
-        "type": "tabs",
-        "children": [
-          {
             "id": "8a5aac6ed2caae58",
             "type": "leaf",
             "state": {
@@ -56,6 +19,115 @@
               },
               "icon": "lucide-file",
               "title": "DND Session 36"
+            }
+          },
+          {
+            "id": "7c62c1d7945f515e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/Bit Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Bit Ideas"
+            }
+          },
+          {
+            "id": "b3ff00705812ff71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/NPCs/Enemies/The Veiled Hunter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Veiled Hunter"
+            }
+          },
+          {
+            "id": "0fd818bfbda44b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Waterfront District.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Waterfront District"
+            }
+          },
+          {
+            "id": "b43426722ac1acdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Armory/Ammunition/Shrapnel Bullet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shrapnel Bullet"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "f0538bce51e9b312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b01aac2bef2f4948",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DND Session 37"
+            }
+          },
+          {
+            "id": "215c75d9daf69462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Geiger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geiger"
+            }
+          },
+          {
+            "id": "2a170687fef50377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DND Session 23"
             }
           }
         ]
@@ -89,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Level",
+                "query": "Veiled Hunter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,35 +267,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68abfe367ec5c947",
+  "active": "b01aac2bef2f4948",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 14.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 15.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 17.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 16.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 11.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 7.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 8.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 9.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 10.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 12.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 3/DND Session 13.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 23.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 24.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 25.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 36.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 2/DND Session 6.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 18.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Waterfront District.md",
+    "Hunter Luyarnha Campaign/Armory/Tattoos/Elongating.md",
+    "files/Pasted image 20241116215156.png",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 2/DND Session 3.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 31.md",
+    "Hunter Luyarnha Campaign/Armory/Tattoos",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
+    "Hunter Luyarnha Campaign/Armory/Traps/Fire Trap.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Shrapnel Bullet.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Bullet.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Reinforced Ashwood Bullet.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Pure Silvered Bullet.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Lead Bullet.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Laceration Round.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloak of Protection (A).md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Hat trick.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Periapt of Health.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Silken socks of slickening.md",
+    "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Flesh Melter Round.md",
+    "Hunter Luyarnha Campaign/Armory/Traps",
+    "Hunter Luyarnha Campaign/NPCs/Enemies/The Veiled Hunter.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/Bit Ideas.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/The Veiled Hunter.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 23.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 1 - Train to Luyarnha/DND Session 2.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Level up planning.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Backstory Planning.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/Shrouded District - Restaurants.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron.md",
-    "index.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 36.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Geiger.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5",
     "TestPublish.canvas",
     "files/Pasted image 20241109232825.png",
     "files/Pasted image 20241026191313.png",
@@ -240,8 +315,6 @@
     "Hunter Luyarnha Campaign/Quest Board/TODO Quests",
     "Hunter Luyarnha Campaign/Quest Board/Completed Quests",
     "Hunter Luyarnha Campaign/Quest Board/Active Quests",
-    "Hunter Luyarnha Campaign/Quest Board",
-    "Hunter Luyarnha Campaign/NPCs/Scions",
-    "Hunter Luyarnha Campaign/NPCs/The Blood Cross"
+    "Hunter Luyarnha Campaign/Quest Board"
   ]
 }

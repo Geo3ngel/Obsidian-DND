@@ -17,7 +17,7 @@ Maybe we should seek out that hunter we rescued?
 The wendigo that Narissa's been seeing in visions is some kind of urban legend of the city...
 Known to have some sort of connection to people within the city?
 Reports sited all across?
-Known as [[The veiled Hunter]]
+Known as [[Hunter Luyarnha Campaign/NPCs/Unclassified/The Veiled Hunter]]
 - Sighted since the first war.
 - Highly classified
 Jaeger Meisters turn down the investigations into this creature.
@@ -56,7 +56,7 @@ Cello previously brought up that one of her mistress [[Mrs. Minerva]]'s was High
 $7k gold
 Militiaman tokens!
 - we can now get into the cathedral from any other district.
-### [[The veiled Hunter]] 
+### [[Hunter Luyarnha Campaign/NPCs/Unclassified/The Veiled Hunter]] 
 It's the apex predator of the city.
 It's patient.
 It waits for the right moment...

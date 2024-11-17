@@ -82,7 +82,7 @@ Verena's soul was put in a "box", that is isolated from the exterior world, whic
 
 She needs to find the locations where her 3 keys where initially manifested!
 - Those chosen by the greater beyond are knowledgeable of these locations!
- [[The veiled Hunter]] is brought up by Verena, which they react to.
+ [[Hunter Luyarnha Campaign/NPCs/Unclassified/The Veiled Hunter]] is brought up by Verena, which they react to.
  
 The Chosen Verena should seek are all:  
   - They are banished from the city...?

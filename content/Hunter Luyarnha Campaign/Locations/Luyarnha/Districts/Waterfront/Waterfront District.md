@@ -19,6 +19,8 @@ The once vibrant streets now lie desolate, a chilling silence replacing the hust
 
 The crisp river breeze, once a welcome respite on the sweltering plazas, now only instills shivers in the hearts of the few who dare to tread these deserted streets.
 
+The [[Abyssal Keep]] resides here.
+
 ---
 # References
 ### [[Luyarnha]]
