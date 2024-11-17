@@ -9,13 +9,13 @@ Status: permanent
 We're missing some players this time, so we're just going up to the point of the moon's beginning.
 - This will be a Waron heavy session most likely.
 ## Itinerary:
-- [ ] Shopping for Dur'zoga
+- [x] Shopping for Dur'zoga
 	- Retroactively going back to shop for her a bit?
-	- [ ] Also shopping at the [[Sanctified Sinner]]
-		- [ ] Refresh the Reborn Blood Vial
-- [ ] Regrouping with the Paladin of the Eldritch Hunt
+	- [x] Also shopping at the [[Sanctified Sinner]]
+		- [x] Refresh the Reborn Blood Vial
+- [x] Regrouping with the Paladin of the Eldritch Hunt
 	- We'll be with Thokk Bloodbather's group, Geiger Steelveins
-	- We're a tiny bit late
+	- We're a very late
 	
 ### Prepared spells for Waron:
 Wrathful Smite:
@@ -106,14 +106,32 @@ Waron, Marinus, Dur'zoga all get the special for 40g each, gaining +5 & advantag
 
 Keep some eye balls for him to cook with
 - and big, bloody meat
+Marinus tries to get the group to stay and sit down for their meal, but Waron pleads with them to hurry, as they're already *very* late for meeting up with the Paladins.
 ## Meeting up with the Paladins
 We fall into line, very late.
+The Paladins are already in formation, about to head out to their designated areas for the eldritch moon.
+- Our group has completely missed the planning phase for this moon.
+
+Waron's in deep shit, Ludwig doesn't even acknowledge him, and Geiger is fucking pissed as Waron tries to fall into line with the rest of the group in tow.
+
+Marinus starts mouthing off, irritating him further before Waron politely asks him to press his lips together tightly (Please shut up!)
+Ludwig snubs Waron, looking in his direction, past him intentionally not noticing his existence. And the rest of the pack follows suite. Everyone appears to be treating him like he's some form of garbage, whether it's due to him being late/missing planning, or due to him leaving off on a bad foot with Ludwig, who's to say.
+- Waron is anxious as shit at this point.
+
+The Paladins split off, Waron sticking with Geiger's group, until they reach near their destination.
+Geiger gives orders to the Other paladins, Waron follows in tow, but is stopped in his tracks by Geiger.
+Due to him not showing up in time, hence them having no idea if he'd be there for the moon, he's be relegated to Sewer duty at the back of the Cathedral.
+- Sewer duty is, as it sounds, ensuring nothing comes out of the sewers. Though given we're in the Grand Cathedral, it's basically where they put the most useless people, as it's not seen as a real concern.
+	- Make no mistake, this is a punishment.
+
 # References
 ---
-### Reading recommendations
-Romance killer?
-Love is war
 
-CANE TTRPG?
-- supernatural anime theme?
-- Wipe away the SINs?
+## Notes for next Session:
+Waron, Marinus, Dur'zoga all get the special for 40g each, gaining +5 & advantage to initiative rolls for the night
+
+We have some time to position ourselves in the sewers still.
+Verena also Wanted to cast a spell from one of her tattoos to buff 3 melee weapons to do +1d8 acid damage.
+- Dur'zoga is taking one for her Axe
+- Waron for his Scythe
+- Grey for his Spear
