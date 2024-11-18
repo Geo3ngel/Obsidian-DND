@@ -16,6 +16,11 @@ The servers here are familiars of the staff
 ![[Pasted image 20241117134930.png]]
 ## House Special
 
+# Notes
+We kind of broke a table here last time, due to Verena trying to mess with a sigil carved into the table, causing it to explode and injuring one of the server familiars (cute lil' fox guy)
+
+Also, they serve drinks in cute little familiar cups:
+![[fox-cup.png]]
 ---
 # References
 ## [[Location Restaurant Page]]
