@@ -41,4 +41,4 @@ Able to provide Spell scrolls of Abjuration, Conjuration, Divination, or Enchant
 
 ---
 # References
-## Located within [[Grand Cathedral - Shops]]
+## Located within the [[Grand Cathedral - Shops]]

@@ -27,4 +27,4 @@ Rusty appears to be the shop keeper due to his impartiality between the two fami
 
 ---
 # References
-## Located within [[Grand Cathedral]]
+## Located within the [[Grand Cathedral - Shops]]
