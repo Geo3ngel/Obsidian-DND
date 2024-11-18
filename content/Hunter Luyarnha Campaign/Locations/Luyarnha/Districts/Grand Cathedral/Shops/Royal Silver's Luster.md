@@ -6,15 +6,23 @@ Status: permanent
   - Shop
 ---
 # Shop Keep
-**Name**: Seshk
-**Description**:
-**Relationship with party**:
-
----
+**Name**: [[Seshk Dinonza]]
 # Shop Details
 ## Specialization
 ## Organization affiliations
+Sponsored by the [[Silverbloods]]
 ## Wares 
+
+| Item                         | Cost     |
+| ---------------------------- | -------- |
+| [[Bloodhound Amulet]]        | 75 gp    |
+| [[Hushed Ring]]              | 100 gp   |
+| [[Periapt of Health]]        | 180 gp   |
+| [[Ring of the Mute Mage]]    | 300 gp   |
+| [[Periapt of Wound Closure]] | 500 gp   |
+| [[Ring of Solar's Sight]]    | 1,200 gp |
+| [[Enchantment breaker]]      | 1,200 gp |
+### Descriptions of unowned items:
 ### The Periapt of Wound Closure (500g)
 Stabilizes at the beginning of your turn
 doubles hit dice recovery
@@ -22,7 +30,7 @@ doubles hit dice recovery
 - Advantage against madness throws
 - Immunity to contracting disease
 	- Suppresses diseases actively afflicting the wearer!
-### Ring of Solars sight (1200)
+### Ring of Solar's sight (1200)
 - 4 charges (regains 1d4 charges at dawn)
 - Allows you to use `Hunter's Mark` against a target!
 - +2 bonus to attack rolls against marked targets
@@ -40,6 +48,10 @@ doubles hit dice recovery
 - Whenever your affected by a spell that 
 - Shatter enchantment, can use enchantment to weaken the grip of the enchantment spell on myself and allies
 ## Additional Services
+Able to provide any gem worth up to 500 gp in value.
+- **This includes diamonds for revival**
+
+Can also provide any gold or silver bands/chains of up to 2,000 gp value.
 
 ---
 # Party Notes

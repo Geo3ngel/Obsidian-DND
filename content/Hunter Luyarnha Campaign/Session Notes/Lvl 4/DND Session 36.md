@@ -112,7 +112,7 @@ Jaeger Lebrond
 ## Back in the [[Grand Cathedral]]
 People seem to be light beastial incense
 
-Narissa visits [[Radiant Order Ammenities]] for some rosary bullets
+Narissa visits [[Radiant Order Amenities]] for some rosary bullets
 
 ## [[Daefied Deathbringers]]
 Co-sponsored by the [[Emberhearts]] and [[Moongolds]]

@@ -6,7 +6,6 @@
       {
         "id": "91ef53bc11ab6909",
         "type": "tabs",
-        "dimension": 62.737127371273715,
         "children": [
           {
             "id": "8a5aac6ed2caae58",
@@ -14,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firestorm Trap"
-            }
-          },
-          {
-            "id": "4e9d454e39682077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Etchings of the Arcane"
+              "title": "Mother Lugru"
             }
           },
           {
@@ -42,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Unclassified/Shop Keeps/Luna.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Daefied Death Bringers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luna"
+              "title": "Daefied Death Bringers"
             }
           },
           {
@@ -122,88 +107,41 @@
               "title": "Shrapnel Bullet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "f0538bce51e9b312",
+        "id": "7300d94bc50c7221",
         "type": "tabs",
-        "dimension": 37.262872628726285,
         "children": [
           {
-            "id": "b01aac2bef2f4948",
+            "id": "3c81602028c36bf8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "DND Session 37"
+              "title": "Powdered Emporium"
             }
           },
           {
-            "id": "215c75d9daf69462",
+            "id": "ecbe51c16d70fced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Shop Keepers/Ethel.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethel"
-            }
-          },
-          {
-            "id": "2a170687fef50377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/The Gnarled Fang.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Gnarled Fang"
-            }
-          },
-          {
-            "id": "2f81c981ea2b0ed6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/Oracle Tea House.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oracle Tea House"
-            }
-          },
-          {
-            "id": "0d5b57add960a4de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Shop Keepers/Chet Duley.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chet Duley"
+              "title": "Powdered Emporium"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -340,35 +278,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e9d454e39682077",
+  "active": "8a5aac6ed2caae58",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Ammenities.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Royal Silver's Luster.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple I'D.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Rusty.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Daefied Death Bringers.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Piirmisha Rhavin.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Luna.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
-    "Hunter Luyarnha Campaign/NPCs/Restaurant Servers/Planters Fix.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/The Busted Barrel.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/The Penitent Mage.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Seshk Dinonza.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Nezmis.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Idris Eisenthorp.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrant.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Ethel.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Chet Duley.md",
+    "Hunter Luyarnha Campaign/NPCs/Enemies/The Veiled Hunter.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/The Veiled Hunter.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Amenities.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/Nezmus.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Royal Silver's Luster.md",
     "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Beastial Incense.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 1 - Train to Luyarnha/DND Session 0.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
     "Hunter Luyarnha Campaign/NPCs/Restaurant Servers",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Cello's Mansion.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/The Gnarled Fang.md",
-    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Zachariah Schröder.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/Oracle Tea House.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/The Fruit of the Vine.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/Paterna Iter - Restaurants.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Barracks of the Battle Rest.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
-    "Hunter Luyarnha Campaign/NPCs/Unclassified/Shop Keeps/Luna.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Luna.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Grand Cathedral - Restaurants.md",
     "files/Cross-Bladed Crossbow.png",
     "Hunter Luyarnha Campaign/Armory/Weapons/Custom",
     "files/Firestorm Trap.png",

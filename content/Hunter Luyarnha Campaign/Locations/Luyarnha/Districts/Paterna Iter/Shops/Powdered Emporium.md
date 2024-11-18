@@ -28,10 +28,22 @@ None known
 | [[Laceration Round]]         | 60g                |
 | [[Frozen Holy Water Bullet]] | 50g                |
 | [[Armor-piercing-round.png]] | 90g                |
+### Weapons
+
+| Item                | Cost   |
+| ------------------- | ------ |
+| [[Flintlock]]       | 28 gp  |
+| [[Pistol]]          | 50 gp  |
+| [[Blunderbuss]]     | 70 gp  |
+| [[Rifle]]           | 100 gp |
+| [[Stake Driver]]    | 35 gp  |
+| [[Rifling Cleaver]] | 125 gp |
+| [[Rifle Spear]]     | 90 gp  |
 
 ## Additional Services
-- Gun modification
+- Gun modification services
 - Custom weapon creation services for fire arms and mechanisms
+- Allows the party to use a Tinkering station to improve their gear!
 ---
 # Party Notes
 

@@ -3,6 +3,7 @@ Created: 2024/11/18 00:23
 Status: permanent
 "Tags:":
   - NPC
+  - Merchant
 ---
 # Character Details
 **Full Name**: Chet Duley

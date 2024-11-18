@@ -4,7 +4,6 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
-  - "[[Grand Cathedral]]"
   - "[[Ministry of Light]]"
 ---
 # Shop Keep
@@ -23,7 +22,7 @@ Healing and holy goods.
 | -------------------------------- | --------------- | ------------ |
 | [[Celestial Tome of Healing]]    |                 | Members only |
 | [[Chapel Light]]                 | 250 gp          |              |
-| [[Bestial Incense]]              | 25 gp per block |              |
+| [[Beastial Incense]]             | 25 gp per block |              |
 | [[Potion of Radiant Resistance]] | 400 gp          |              |
 | [[Necklace of Prayer Beads]]     | 4,200 gp        |              |
 | [[Eyedrops of Clarity]]          | 350 gp          |              |

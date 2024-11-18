@@ -33,10 +33,10 @@ Waron wants to ask Narissa about the house of blood, in relation to the blood th
 ## Narissa at the Luminary Scribes
 [[Narissa]] is slandered by the Luminary Scribes upon trying to Karen her way to compensation for their prior aggression.
 
-Sanctified Sinner's Owner is [[Nezmus]], the white skinned tiefling.
+Sanctified Sinner's Owner is [[Hunter Luyarnha Campaign/NPCs/Unclassified/Nezmus]], the white skinned tiefling.
 > [!error] Create character sheet.
 
-### [[Nezmus]]
+### [[Hunter Luyarnha Campaign/NPCs/Unclassified/Nezmus]]
 A Jaeger? (Meister?)
 Seems to allude to having fought and lost a lot of men recently, not from the eldritch moon.
 

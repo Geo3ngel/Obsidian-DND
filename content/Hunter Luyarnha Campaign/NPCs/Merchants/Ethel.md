@@ -3,13 +3,14 @@ Created: 2024/11/18 01:10
 Status: permanent
 "Tags:":
   - NPC
+  - Merchant
 ---
 # Character Details
 **Full Name**: Ethel ???
 **Nickname**: ?
 **Gender**: ?
 **Species**: ?
-**Met**: No
+**Met**: Yas!
 #### Organization affiliation: 
 [[Bad Bitches With Mean Stitches]]
 # Description:

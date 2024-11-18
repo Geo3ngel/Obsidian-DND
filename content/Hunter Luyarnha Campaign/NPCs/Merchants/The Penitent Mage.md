@@ -3,6 +3,7 @@ Created: 2024/11/17 01:50
 Status: permanent
 "Tags:":
   - NPC
+  - Merchant
 ---
 # Character Details
 **Full Name**: ???
