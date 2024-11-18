@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mother Lugru"
+              "title": "Bad Bitches With Mean Stitches"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Daefied Death Bringers.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Savior's Servant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daefied Death Bringers"
+              "title": "The Savior's Servant"
             }
           },
           {
@@ -107,7 +107,8 @@
               "title": "Shrapnel Bullet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7300d94bc50c7221",
@@ -119,12 +120,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/Merchants/Niemy Iskolbru.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Powdered Emporium"
+              "title": "Niemy Iskolbru"
             }
           },
           {
@@ -133,12 +134,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/Merchants/Ethel Faldeho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Powdered Emporium"
+              "title": "Ethel Faldeho"
             }
           }
         ]
@@ -197,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 397.5
   },
   "right": {
     "id": "c6f9daeb4ff0dba5",
@@ -278,21 +279,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a5aac6ed2caae58",
+  "active": "82925fd13d7e0caf",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Rusty.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Niemy Iskolbru.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Savior's Servant.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Maribelle Faldeho.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Daefied Death Bringers.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Piirmisha Rhavin.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Luna.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/The Penitent Mage.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Seshk Dinonza.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Ethel Faldeho.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
     "Hunter Luyarnha Campaign/NPCs/Merchants/Nezmis.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Piirmisha Rhavin.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/The Penitent Mage.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Mother Luugru.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Luugru - shop.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Chet Duley.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Luna.md",
     "Hunter Luyarnha Campaign/NPCs/Merchants/Idris Eisenthorp.md",
     "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrant.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Ethel.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Chet Duley.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Seshk Dinonza.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Rusty.md",
     "Hunter Luyarnha Campaign/NPCs/Enemies/The Veiled Hunter.md",
     "Hunter Luyarnha Campaign/NPCs/Unclassified/The Veiled Hunter.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Amenities.md",
@@ -301,11 +307,6 @@
     "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
     "Hunter Luyarnha Campaign/Armory/Consumables/Beastial Incense.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 1 - Train to Luyarnha/DND Session 0.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Grand Cathedral - Shops.md",
     "Hunter Luyarnha Campaign/NPCs/Restaurant Servers",
     "files/Cross-Bladed Crossbow.png",
     "Hunter Luyarnha Campaign/Armory/Weapons/Custom",

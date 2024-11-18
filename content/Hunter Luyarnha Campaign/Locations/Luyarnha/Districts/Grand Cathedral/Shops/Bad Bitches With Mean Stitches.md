@@ -6,11 +6,12 @@ Status: permanent
 # Shop Details
 This shop specializes in clothing and leather work of all sorts. 
 Lots of fun goodies to be bought here!
-
-Additionally, this shop is sponsored by the Jaeger administration.
 # Shop Keeps
 ---
 The shop keeps are a pair of one armed older ladies, who appear to be a couple of sorts.
+[[Ethel Faldeho]] (the left arm) and [[Maribelle Faldeho]] (the right arm)
+## Organization affiliations
+Sponsored by the [[Jaeger Administration]]
 # Wares
 ---
 > [!error] Many more to be added! 
@@ -52,6 +53,9 @@ They can add the benefits of a hunters coat to any armor!
 + Advantage on dex saving throws
 + When rolling hit dice to recover hp on a short rest between the hours of X and Y (effectively night time), roll two dice per hit die and choose the higher. 
 	+ aka conditional advantage on hit dice recovery rolls
+
+They also have general clothing and tailoring accessories available!
+
 
 
 ---

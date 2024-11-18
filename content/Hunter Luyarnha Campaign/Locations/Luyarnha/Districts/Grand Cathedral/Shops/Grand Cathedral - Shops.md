@@ -13,7 +13,7 @@ Status: hub
 | [[The Sanctified Sinner]]   |
 | [[Triple I'D]]              |
 | [[The Silver Wolf]]         |
-| [[Mother Lugru]]            |
+| [[Mother Luugru - shop]]            |
 | [[Etchings of the Arcane]]  |
 
 ---

@@ -3,6 +3,7 @@ Created: 2024/11/18 03:04
 Status: permanent
 "Tags:":
   - NPC
+  - Merchant
 ---
 # Character Details
 **Full Name**: Rusty (reference vod for last name)
