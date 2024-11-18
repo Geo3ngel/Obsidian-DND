@@ -28,12 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Weapons/Custom/Cross-Bladed Crossbow.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross-Bladed Crossbow"
+              "title": "The Enlightened Scholar"
+            }
+          },
+          {
+            "id": "82925fd13d7e0caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/NPCs/Unclassified/Shop Keeps/Luna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luna"
             }
           },
           {
@@ -328,12 +342,27 @@
   },
   "active": "4e9d454e39682077",
   "lastOpenFiles": [
+    "Hunter Luyarnha Campaign/NPCs/Restaurant Servers/Planters Fix.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/The Busted Barrel.md",
+    "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
+    "Hunter Luyarnha Campaign/NPCs/Restaurant Servers",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Cello's Mansion.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/The Gnarled Fang.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Zachariah Schröder.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/Oracle Tea House.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/The Fruit of the Vine.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/Paterna Iter - Restaurants.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Barracks of the Battle Rest.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/Shop Keeps/Luna.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Luna.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Grand Cathedral - Restaurants.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "Hunter Luyarnha Campaign/Armory/Weapons/Custom/Cross-Bladed Crossbow.md",
     "files/Cross-Bladed Crossbow.png",
     "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Chain-linked Bale Hooks.md",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Custom/Cross-Bladed Crossbow.md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Beasthunter Saif.md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Blades of Mercy.md",
-    "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Custom",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
     "files/Firestorm Trap.png",
@@ -346,34 +375,19 @@
     "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Hat trick.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Rings",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Blood Crystal.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Silken socks of slickening.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Boots of the Cloud Jumper (A).md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear",
     "files/Boots of the Cloud Jumper (A).png",
-    "Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Mapping.md",
-    "Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Daylight.md",
-    "Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Burning Hands.md",
-    "Hunter Luyarnha Campaign/Armory/Key Items/Militiamen's badge.md",
     "files/Militiamen's Badge.png",
-    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Dragon’s Blood.md",
     "Hunter Luyarnha Campaign/Armory/Key Items",
-    "Hunter Luyarnha Campaign/NPCs/Shop Keepers/Chet Duley.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Chet's Drug Shop.md",
     "files/Dragon's Blood.png",
-    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Phantom Limb.md",
     "files/Phantom Limb (A).png",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Armor/Displacement Leather (A).md",
     "files/Displacement Leather (A).png",
     "files/Pasted image 20241118013131.png",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloaks/Cloak of Daggers (A).md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Armor",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Slippers of spider climbing.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Amulets",
-    "files/Slippers of Spider Climbing (A).png",
     "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Deceased",
     "Hunter Luyarnha Campaign/Armory/Defensive",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Cloaks",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Weapons",
     "TestPublish.canvas",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas"
   ]

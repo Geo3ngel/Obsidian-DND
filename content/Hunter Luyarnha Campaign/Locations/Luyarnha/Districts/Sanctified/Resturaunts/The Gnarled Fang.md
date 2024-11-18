@@ -5,6 +5,8 @@ Status: permanent
   - Location
   - Restaurant
 ---
+# Description:
+Rustic themed tavern with multiple mounted trophy heads of Scourge beasts. Run by an older human nobleman named Zachariah Schröder
 # Server(s):
 ## [[Zachariah Schröder]]
 ---
