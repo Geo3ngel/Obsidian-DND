@@ -12,7 +12,7 @@ Status: permanent
 **Met**: Yes
 #### Organization affiliation: 
 Initiate in the Paladins of the Eldritch Hunt.
-**Rank**: [[000 Scout]]
+**Rank**: [[Scout]]
 # Description:
 
 ---

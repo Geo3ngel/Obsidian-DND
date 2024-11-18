@@ -1,13 +1,25 @@
 ---
 Created: 2024/03/16 02:25
-Status: fleeting
+Status: permanent
 "Tags:":
   - DND
   - NPC
-  - Radiant Faith
-  - High Apostle
+  - "[[High Apostle]]"
+  - "[[Radiant Faith]]"
 ---
-Responsible for the 
+# Character Details
+**Full Name**: {title} ???
+**Nickname**: ?
+**Gender**: Male
+**Species**: ?
+**Met**: No
+#### Organization affiliation: 
+# Description:
+
+---
+# Notes
+## **Relationship with Party**:
+
 
 ---
 # References

@@ -42,4 +42,4 @@ Only appears to Verena, strangely enough.
 
 ---
 # References
-## Located within [[Grand Cathedral - Shops]]
+## Located within [[Golden Bazar]]

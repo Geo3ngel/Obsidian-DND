@@ -26,4 +26,4 @@ Follows Cona Organrender and is usually assigned infiltration missions to maneuv
 
 ---
 # References
-## [[000 Striker]]
+## [[Striker]]

@@ -12,8 +12,10 @@ Status: permanent
 **Species**: Dwarf
 **Met**: Yes
 #### Organization affiliation: 
+Shop Keep of [[Triple I'D]]
 # Description:
-An eye-eyepatch wearing dwarf with reddish-gray hair
+An eye-eyepatch wearing dwarf with reddish-gray hair and a rifle stock for a leg.
+- missing a leg
 
 ---
 # Notes

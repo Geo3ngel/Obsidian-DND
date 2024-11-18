@@ -29,4 +29,4 @@ Their team is the slow moving offense that pulls their defenses forward. They fo
 
 ---
 # References
-## [[000 Striker]]
+## [[Striker]]

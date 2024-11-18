@@ -59,4 +59,4 @@ Can also provide any gold or silver bands/chains of up to 2,000 gp value.
 
 ---
 # References
-## Located within the [[Grand Cathedral - Shops]]
+## Located within the [[Golden Bazar]]

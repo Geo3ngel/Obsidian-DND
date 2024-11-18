@@ -30,4 +30,4 @@ Provides refills of Silver Tonic for members of the Blood Cross.
 # Party Notes
 ---
 # References
-## Located within the [[Grand Cathedral - Shops]]
+## Located within the [[Golden Bazar]]

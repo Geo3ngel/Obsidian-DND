@@ -25,7 +25,7 @@ Built on multiple floors—as above, so below—the Cathedral is said to be able
 | Copper Pieces (CP)   | Toes            |
 
 # Layout
-## [[Grand Cathedral - Shops]]
+## [[Golden Bazar]]
 ## [[Grand Cathedral - Restaurants]]
 ---
 ![[grand-cathedral-layout.png]]

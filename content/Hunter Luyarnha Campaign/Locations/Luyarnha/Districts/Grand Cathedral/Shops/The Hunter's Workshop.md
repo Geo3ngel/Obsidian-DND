@@ -47,4 +47,4 @@ Apparently [[Gehram]] might be willing to make weapons for special customers tha
 
 ---
 # References
-## Located within the [[Grand Cathedral - Shops]]
+## Located within the [[Golden Bazar]]

@@ -3,6 +3,7 @@ Created: 2024/11/17 14:39
 Status: permanent
 "Tags:":
   - NPC
+  - "[[Jaeger Meister]]"
 ---
 # Character Details
 **Full Name**: Jaeger Meister Calvin

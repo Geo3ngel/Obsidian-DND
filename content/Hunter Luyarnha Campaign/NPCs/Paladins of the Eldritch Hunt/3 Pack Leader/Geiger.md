@@ -29,4 +29,4 @@ He uses the Barricade Shield.
 
 ---
 # References
-## [[000 Striker]]
+## [[Striker]]

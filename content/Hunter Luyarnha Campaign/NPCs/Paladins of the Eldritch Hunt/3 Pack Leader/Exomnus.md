@@ -30,4 +30,4 @@ Huge, even larger than me!
 
 ---
 # References
-## [[000 Striker]]
+## [[Striker]]

@@ -36,4 +36,4 @@ Rusty appears to be the shop keeper due to his impartiality between the two fami
 
 ---
 # References
-## Located within the [[Grand Cathedral - Shops]]
+## Located within the [[Golden Bazar]]

@@ -60,4 +60,4 @@ They also have general clothing and tailoring accessories available!
 
 ---
 # References
-## Located within [[Grand Cathedral - Shops]]
+## Located within [[Golden Bazar]]

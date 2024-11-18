@@ -36,4 +36,4 @@ Madness Removal services
 
 ---
 # References
-## Located within the [[Grand Cathedral - Shops]]
+## Located within the [[Golden Bazar]]

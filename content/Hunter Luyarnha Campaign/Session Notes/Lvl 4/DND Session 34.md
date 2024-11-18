@@ -113,7 +113,7 @@ Narissah is staring daggers into Waron, as he mentions his desperate interest in
 
 Thomathin then addresses Cello.
 Apparently he's made good on his promise to try and introduce her to [[...]]
-She apparently made a promise to [[Mrs. Minerva]], Cello's Mistress to ensure she and Cello never met.
+She apparently made a promise to [[Lady Minerva]], Cello's Mistress to ensure she and Cello never met.
 
 He did however manage to set up a meeting with Cello and Camilla
 

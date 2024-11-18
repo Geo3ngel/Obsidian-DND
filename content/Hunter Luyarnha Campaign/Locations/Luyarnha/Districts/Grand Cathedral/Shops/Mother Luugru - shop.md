@@ -33,4 +33,4 @@ Sponsored by the [[Obulus Scholare]]
 
 ---
 # References
-## Located within [[Grand Cathedral - Shops]]
+## Located within [[Golden Bazar]]

@@ -43,4 +43,4 @@ Specialized in +1 gear!
 
 ---
 # References
-## Located within [[Grand Cathedral - Shops]]
+## Located within [[Golden Bazar]]

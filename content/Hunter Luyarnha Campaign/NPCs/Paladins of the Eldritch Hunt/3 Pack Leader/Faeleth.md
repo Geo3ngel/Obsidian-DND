@@ -25,4 +25,4 @@ She follows Thokk Bloodbather.
 
 ---
 # References
-## [[000 Striker]]
+## [[Striker]]

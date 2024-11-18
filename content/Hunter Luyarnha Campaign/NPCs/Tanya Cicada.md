@@ -1,18 +1,18 @@
 ---
-Created: "{{date:YYYY/MM/DD}} {{time:HH:mm}}"
+Created: 2024/11/18 17:14
 Status: permanent
 "Tags:":
   - NPC
 ---
 # Character Details
-**Full Name**: {title} ???
+**Full Name**: Tanya Cicada?
 **Nickname**: ?
-**Gender**: ?
+**Gender**: Female
 **Species**: ?
-**Met**: No
+**Met**: Yes
 #### Organization affiliation: 
 # Description:
 
 ---
 # Notes
-## Relationship with Party:
+## **Relationship with Party**:

@@ -30,4 +30,4 @@ He seemed to be covered in blood, gruff, somewhat rude initially. Made a comment
 
 ---
 # References
-## [[000 Stalker]]
+## [[Stalker]]

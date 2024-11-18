@@ -1,15 +1,26 @@
 ---
-Created: 2024/03/16 02:45
-Status: fleeting
+Created: 2024/11/18 16:26
+Status: permanent
 "Tags:":
   - DND
   - NPC
-  - Radiant Faith
-  - High Apostle
+  - "[[High Apostle]]"
+  - "[[Radiant Faith]]"
 ---
-First encountered in the Shrouded district.
-Appears to be in contact with the white tiefling.
-Responsible for the high onclave, house of blood...
+# Character Details
+**Full Name**: Nevallah ???
+**Nickname**: ?
+**Gender**: ?
+**Species**: ?
+**Met**: ?
+#### Organization affiliation: 
+Responsible for overseeing the [[High Enclave]], [[The House of Blood]], and possibly one more organization
+# Description:
 
 ---
+# Notes
+First encountered in the Shrouded district.
+Appears to be in contact with the white tiefling.
+## **Relationship with Party**:
+
 # References

@@ -19,4 +19,4 @@ Status: permanent
 
 ---
 # References
-## [[000 Stalker]]
+## [[Stalker]]

@@ -31,4 +31,4 @@ Seems to have followers with sealed eyes, with bat esc feature based scourge?
 
 ---
 # References
-## [[000 Striker]]
+## [[Striker]]

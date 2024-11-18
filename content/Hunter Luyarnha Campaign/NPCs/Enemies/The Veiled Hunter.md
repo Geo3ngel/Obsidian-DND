@@ -8,7 +8,7 @@ Status: permanent
 **Full Name**: The Veiled Hunter
 **Nickname**: ?
 **Gender**: ?
-**Species**: ?
+**Species**: Some kind of Scourge Wendigo??
 **Met**: Encountered. Not "met"
 #### Organization affiliation: 
 ???

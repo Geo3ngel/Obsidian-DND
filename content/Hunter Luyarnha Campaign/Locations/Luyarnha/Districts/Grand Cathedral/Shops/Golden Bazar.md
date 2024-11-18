@@ -3,7 +3,9 @@ Created: 2024/10/09 23:58
 Status: hub
 "Tags:":
   - Shop
+  - "[[Grand Cathedral]]"
 ---
+This is the shopping center of the [[Grand Cathedral]].
 ## List of Shops
 
 | Shop Name                   |
@@ -15,7 +17,3 @@ Status: hub
 | [[The Silver Wolf]]         |
 | [[Mother Luugru - shop]]            |
 | [[Etchings of the Arcane]]  |
-
----
-# References
-## [[Grand Cathedral]]

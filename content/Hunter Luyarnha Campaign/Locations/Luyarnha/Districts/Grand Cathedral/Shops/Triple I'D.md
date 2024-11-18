@@ -7,6 +7,7 @@ Status: permanent
 ---
 # Shop Details
 **Full Shop Name**: Industry Issued Instruments of Demise
+The door to his shop is an engineering nightmare and is horribly inefficient.
 ## Specialization
 ## Organization affiliations
 Headquarters of [[The Militia]]
@@ -34,4 +35,4 @@ They did try and talk Waron into joining the [[Jaeger Program]] at one point in 
 
 ---
 # References
-## Located within [[Grand Cathedral - Shops]]
+## Located within [[Golden Bazar]]

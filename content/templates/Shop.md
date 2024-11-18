@@ -20,7 +20,4 @@ Status: permanent
 ---
 # Party Notes
 
-
----
-# References
 ## Located within [[X]]

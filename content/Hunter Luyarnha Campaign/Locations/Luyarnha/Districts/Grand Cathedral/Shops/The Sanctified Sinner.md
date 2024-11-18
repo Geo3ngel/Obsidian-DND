@@ -28,4 +28,4 @@ Able to provide a wide array of blood from various creatures.
 
 ---
 # References
-## Located within [[Grand Cathedral - Shops]]
+## Located within [[Golden Bazar]]
