@@ -2,6 +2,43 @@
 
 Currently the only entry here is for Hunter's Steinhardt's guide to the eldritch hunt campaign.
 
+# CURRENT NOTES MODIFICATION TODO:
+I want to enforce the following rough note guide:
+## Quest Board
+- Who's got what going on for their backstory
+	- What do we need to do/where do we need to go
+- Main vs side quests?
+- Most for tracking things we can/need to do, so we don't forget something
+- [ ] Write out current primary objectives
+- [ ] Also include secondary (not very important objectives)
+- [ ] And then have character specific objectives
+	- [ ] Stuff to forward a player's character arc!
+## PC Notes
+- [ ] Character descriptions, notes, etc.
+- [ ] What relationships need to be resolved/interact and why
+- [ ] Who needs to talk to who/about what
+	- [ ] Maybe also include a "Goals"/"Believes or values" Section?
+		- The idea being to help players justify aligning with one another for decisions and the like in character better.
+## NPC Org Chart/affiliations
+## Shop Notes
+- [ ] Shop keep(s)
+- [ ] specialization
+- [ ] Inventory/pricing
+- [ ] benefits
+- [ ] relation with part/party notes
+## Armory
+- Page for each item, as well as a link back to where it can be purchased/found for quick referencing for shopping
+	- [ ] Go through and back link to shops that have items available for purchase?
+## Lore
+- For more generic info dumps, like information we know about Eldritch moons, wars, etc.
+- [ ] Fill with details from Alessa's notes!
+## Session notes:
+- [x] Organized by Character Level
+- [ ] Should include a link to the respective session's YT video if published.
+	- [ ] Some need to be updated
+- [ ] Contains notes from that session.
+	- Fill out what I can from Alessa's notes!
+---
 #### This is a sub repo that restricts sensitive character info docs via gitignore
 So this repo can be the source of published information for things like Session notes, NPCs, Locations, etc.
 ### Features I'd like to add:

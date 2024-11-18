@@ -102,7 +102,7 @@ Waron to the Hunter:
 The beasts are moving in packs tonight, it's not safe to travel alone.
 Given your wounds, you ought to come with us to a safe location.
 
-We make it to [[Hugo Magmabrant]]
+We make it to [[Hugo Magmabrand]]
 
 The hunter we rescued is a member of the church's [[The Militia]]
 - has survived 7 hunts ("Let's see if we can make this your 8th")

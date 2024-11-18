@@ -5,18 +5,20 @@ Status: permanent
   - NPC
 ---
 # Character Details
-**Full Name**: {title} ???
+**Full Name**: Jaeger Meister Calvin
 **Nickname**: ?
-**Gender**: ?
+**Gender**: Male
 **Species**: ?
-**Met**: No
+**Met**: Yes
 #### Organization affiliation: 
 [[Jaegers]]
-- Also seems to be a patron of 
+- Also seems to be a patron of [[The Hunter's Workshop]]
 # Description:
 
 ---
 # Notes
+Lost his sight as a means to escape the wrath of [[The Veiled Hunter]]. Having carved his own eyes out to escape the visions of the beast, resulting in him being the only survivor.
+> [!question] Who gave us this information again?
 ## **Relationship with Party**:
 
 

@@ -9,7 +9,7 @@ Status: permanent
 Greek Pantheon Themed Tavern run by a rambunctious male half-elf named [[Ramses Petalmouth]] with a love for wine.
 # Server(s):
 [[Ramses Petalmouth]] 
-- A pretentious douche who hit on [[Verena]] during her date with [[Hugo Magmabrant]]
+- A pretentious douche who hit on [[Verena]] during her date with [[Hugo Magmabrand]]
 
 ---
 # Menu

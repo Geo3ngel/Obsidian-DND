@@ -7,4 +7,4 @@ Status: permanent
 # Description:
 ![[Cross-Bladed Crossbow.png]]
 # Notes:
-Custom ordered by [[Dur'zoga]] from [[Hugo Magmabrant]].
+Custom ordered by [[Dur'zoga]] from [[Hugo Magmabrand]].
