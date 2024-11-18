@@ -11,7 +11,14 @@ Can be used to summon a familiar (with no spell casting through) or to cast pres
 
 ![[hat-trick.png]]
 
+# Obtainable at:
 
+| Shop                               | Price |
+| ---------------------------------- | ----- |
+| [[Bad Bitches With Mean Stitches]] |       |
+
+# Additional Notes:
+Cello purchased these during [Some Session to go here] from [[Bad Bitches With Mean Stitches]]!
 ---
 # References
 ## [[Magic Item]]

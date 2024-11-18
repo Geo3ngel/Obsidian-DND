@@ -11,7 +11,7 @@ Status: permanent
 **Species**: Half-Elf
 **Met**: Yes
 #### Organization affiliation: 
-[[]]
+[[Chet's Drug Shop]]
 > [!question] Was it the Wayfairers? Need to double check which gang he's affiliated with!
 # Description:
  A half-elven man. Orange hair, bratty British boy aesthetic.

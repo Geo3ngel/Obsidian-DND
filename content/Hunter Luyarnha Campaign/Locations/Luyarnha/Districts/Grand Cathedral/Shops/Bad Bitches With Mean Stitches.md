@@ -34,7 +34,7 @@ Anywhere the wearer walks becomes a puddle of grease
 Recover any additional hit dice upon- 
 > [!error] (desc cut off half way. Refer to video of session 16 to update here)
 
-### Slippers of spider climbing
+### [[Slippers of spider climbing]]
 Enable the user to move vertically, and upside down on ceilings at their regular movement speed!
 **Price**: 350g
 

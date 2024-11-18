@@ -14,12 +14,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
+                "file": "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Hunter's Workshop"
+              "title": "Firestorm Trap"
+            }
+          },
+          {
+            "id": "4e9d454e39682077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Armory/Weapons/Custom/Cross-Bladed Crossbow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cross-Bladed Crossbow"
+            }
+          },
+          {
+            "id": "919146bda4b211da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Chet's Drug Shop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chet's Drug Shop"
             }
           },
           {
@@ -80,7 +108,8 @@
               "title": "Shrapnel Bullet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f0538bce51e9b312",
@@ -109,12 +138,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/Shop Keepers/Ethel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Powdered Emporium"
+              "title": "Ethel"
             }
           },
           {
@@ -191,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Damas",
+                "query": "Slippers ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,54 +326,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a5aac6ed2caae58",
+  "active": "4e9d454e39682077",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/The Fruit of the Vine.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/Oracle Tea House.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/The Gnarled Fang.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Saw Cleaver.md",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Hunter's Axe.md",
+    "files/Cross-Bladed Crossbow.png",
     "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Chain-linked Bale Hooks.md",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Blades of Mercy.md",
+    "Hunter Luyarnha Campaign/Armory/Weapons/Custom/Cross-Bladed Crossbow.md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Beasthunter Saif.md",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Armblade.md",
-    "Hunter Luyarnha Campaign/Armory/Defensive/Wood Shield.md",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Blunderbuss.md",
-    "Hunter Luyarnha Campaign/Armory/Defensive",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Flintlock.md",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Pistol.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Silken socks of slickening.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Defensive/Amulet of Proof against Detection and Location (A).md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Defensive/Cloak of Protection (A).md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Defensive/Periapt of Health.md",
+    "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Blades of Mercy.md",
+    "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
+    "Hunter Luyarnha Campaign/Armory/Weapons/Custom",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
+    "files/Firestorm Trap.png",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Rings/Ring of Solar's Sight.md",
+    "files/Ring of Solar's Sight.png",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Amulets/Amulet of Proof against Detection and Location (A).md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Amulets/Periapt of Health.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Rings/Hushed Ring.md",
+    "files/Hushed Ring (A).png",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Hat trick.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Rings",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Blood Crystal.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Beastial Incense.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Weapons/Battlechef Field Dresser (A).md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Defensive",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Silken socks of slickening.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Boots of the Cloud Jumper (A).md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear",
+    "files/Boots of the Cloud Jumper (A).png",
+    "Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Mapping.md",
+    "Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Daylight.md",
+    "Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Burning Hands.md",
+    "Hunter Luyarnha Campaign/Armory/Key Items/Militiamen's badge.md",
+    "files/Militiamen's Badge.png",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Dragon’s Blood.md",
+    "Hunter Luyarnha Campaign/Armory/Key Items",
+    "Hunter Luyarnha Campaign/NPCs/Shop Keepers/Chet Duley.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Chet's Drug Shop.md",
+    "files/Dragon's Blood.png",
+    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Phantom Limb.md",
+    "files/Phantom Limb (A).png",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Armor/Displacement Leather (A).md",
+    "files/Displacement Leather (A).png",
+    "files/Pasted image 20241118013131.png",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloaks/Cloak of Daggers (A).md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Armor",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Slippers of spider climbing.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Amulets",
+    "files/Slippers of Spider Climbing (A).png",
+    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Deceased",
+    "Hunter Luyarnha Campaign/Armory/Defensive",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloaks",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Weapons",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Utility",
-    "Hunter Luyarnha Campaign/Armory/Misc/Stick.md",
-    "Hunter Luyarnha Campaign/Armory/Misc",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Meat Hookshot.md",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Martial/Guillotine Shears.md",
-    "files/fox-cup.png",
-    "files/dream-lily.png",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Martial",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Magic",
-    "Hunter Luyarnha Campaign/Armory/Weapons/Ranged",
-    "Hunter Luyarnha Campaign/Armory/Consumables",
-    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs",
-    "files/Pasted image 20241117135128.png",
-    "files/Pasted image 20241117135024.png",
-    "files/Pasted image 20241117134930.png",
-    "files/bcb9d09d-82b2-480b-b59b-c34603e66d98.webp",
-    "files/fdbf2392-e288-448d-9817-4ede05564d7b.webp",
-    "files/31d26c07-45e8-4470-b856-37630904ec45.webp",
-    "files/Armory/amulet-of-proof-against-detection-and-location.png",
-    "files/Armory/silken-socks-of-slickening.png",
     "TestPublish.canvas",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas"
   ]

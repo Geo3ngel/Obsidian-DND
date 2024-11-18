@@ -13,11 +13,12 @@ Status: permanent
 ---
 # Shop Details
 ## Specialization
+Jaeger weaponry, and martial (non-ranged) weapons.
 ## Organization affiliations
 [[Jaegers]].
 The primary shop of the Jaeger program. Their special wares are only available to Jaegers, the rest Priscilla serves at the front for others to purchase from
 ## Wares 
-### Available to all
+### Weaponry
 
 | Item                  | Cost    |
 | --------------------- | ------- |
@@ -30,6 +31,12 @@ The primary shop of the Jaeger program. Their special wares are only available t
 | [[Blades of Mercy]]   | 125 gp  |
 | [[Guillotine Shears]] | 200 gp  |
 | [[Armblade]]          | 1000 gp |
+### Traps
+
+| Trap Type          | Cost         |
+| ------------------ | ------------ |
+| [[Firestorm Trap]] | (Review vod) |
+
 ### Jaegers/Gehram's friends only:
 ???
 ## Additional Services

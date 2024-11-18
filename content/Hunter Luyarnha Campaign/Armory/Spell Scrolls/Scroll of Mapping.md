@@ -7,6 +7,13 @@ Status: fleeting
 ---
 ![[scroll-of-mapping.png]]
 
+# Obtainable at:
+
+| Shop                        | Price |
+| --------------------------- | ----- |
+| [[The Enlightened Scholar]] |       |
+# Additional Notes:
+Cello purchased these during [Some Session to go here] from [[Bad Bitches With Mean Stitches]]!
 ---
 # References
 ## [[Spell Scrolls]]
