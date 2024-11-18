@@ -65,7 +65,7 @@ Luna, our table's server enters.
 After taking Dur'zoga's order, she attempts to place a hand on her shoulder. Dur'zoga not understanding her intend, leans away lightly, but upon Luna's fingertips brushing Dur'zoga's shoulder she experiences a wave of emotions that ease her mood, and lighten her spirits.
 
 Similarly, after taking Cello's order she touches Cello seemingly with the intent to try and understand what's bothering her and ease her worries similarly to what she had just done for Dur'zoga.
- Cello started seemingly unlocks some of her memory when coming into contact with [[Luna]].
+ Cello started seemingly unlocks some of her memory when coming into contact with [[Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Luna]].
  - Ballad of Moonlit princess runs through her in response to Luna's touch. (A piece by her mistress)
  - Cello thanks Luna for the pleasant memory of her Mistress being brought to surface.
 

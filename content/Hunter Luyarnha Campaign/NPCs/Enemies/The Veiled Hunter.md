@@ -9,19 +9,20 @@ Status: permanent
 **Nickname**: ?
 **Gender**: ?
 **Species**: ?
-**Met**: No
+**Met**: Encountered. Not "met"
 #### Organization affiliation: 
-**Rank**: ?
-**Superior**: ?
+???
 
 > [!info] Specialization
-?
+Creeping us the fuck out.
 # Description:
 A Wendigo of sorts, wearing a Veil to cover any facial form. Appearing as a void, rather than displaying any facial features.
 Darkened green robes, accents of jewels and horns.
 
 ---
 # Notes
+This... thing is a creature of local folk lore. A doom bringer of sorts.
+Notably the reason Jaeger [[Calvin]] clawed his own eyes out, to escape it's gaze. Apparently it's how he ended up being the lone survivor of it's hunts.
 ## **Relationship with Party**:
 Apparently Hunting the Party, waiting for some opportune moment...
 

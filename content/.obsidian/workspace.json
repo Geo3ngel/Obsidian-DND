@@ -6,7 +6,7 @@
       {
         "id": "91ef53bc11ab6909",
         "type": "tabs",
-        "dimension": 77.50677506775068,
+        "dimension": 62.737127371273715,
         "children": [
           {
             "id": "8a5aac6ed2caae58",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 36.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Chet's Drug Shop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Session 36"
+              "title": "Chet's Drug Shop"
             }
           },
           {
@@ -44,26 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Enemies/The Veiled Hunter.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Calvin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Veiled Hunter"
-            }
-          },
-          {
-            "id": "0fd818bfbda44b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Memes/Cello Knives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cello Knives"
+              "title": "Calvin"
             }
           },
           {
@@ -94,13 +80,12 @@
               "title": "Shrapnel Bullet"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "f0538bce51e9b312",
         "type": "tabs",
-        "dimension": 22.493224932249323,
+        "dimension": 37.262872628726285,
         "children": [
           {
             "id": "b01aac2bef2f4948",
@@ -152,16 +137,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/Oracle Tea House.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heaven's Hospice"
+              "title": "Oracle Tea House"
+            }
+          },
+          {
+            "id": "0d5b57add960a4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/NPCs/Shop Keepers/Chet Duley.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chet Duley"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Veiled Hunter",
+                "query": "Located within",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +212,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -298,34 +298,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca36b74f8aaa1b0a",
+  "active": "8a5aac6ed2caae58",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Silverblood Castle.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Shrapnel Bullet.md",
-    "Hunter Luyarnha Campaign/Misc Lore/Currency.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Sanctified District.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Grand Cathedral.md",
-    "Hunter Luyarnha Campaign/Locations/Beast Lands/Beastland’s Train Station.md",
-    "Hunter Luyarnha Campaign/Locations/Beast Lands/Beastland.md",
-    "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Bullet.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "templates/Shop.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Chet's Drug Shop.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Royal Silver's Luster.md",
+    "Hunter Luyarnha Campaign/NPCs/Shop Keepers/Chet Duley.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Bootlegged Holy Tonic.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Dragon’s Blood.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Dragon's Blood.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Beastial Incense Joint.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Fungal Tea.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Peculiar Puking Poison.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Dreamlily.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+    "Hunter Luyarnha Campaign/Armory/Consumables",
+    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/Oracle Tea House.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/Paterna Iter - Restaurants.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Restaurants",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Shops",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/The Fruit of the Vine.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Paterna Iter.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Barracks of the Battle Rest.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Silken socks of slickening.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Periapt of Health.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Hat trick.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloak of Protection (A).md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Amulet of Proof against Detection and Location (A).md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
-    "templates/DND NPC.md",
-    "templates/Core Idea.md",
-    "templates/Location.md",
-    "templates/Lore.md",
-    "templates/Organization.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Grand Cathedral - Restaurants.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Savior's Servant.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/Shop Keeps/Luna.md",
+    "Hunter Luyarnha Campaign/Organizations/Gangs/Wayfairers.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/Shop Keeps",
+    "Hunter Luyarnha Campaign/Organizations/Gangs/Fabricators.md",
+    "Hunter Luyarnha Campaign/Organizations/Gangs/Scavengers.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha.md",
+    "Hunter Luyarnha Campaign/Organizations/Gangs",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/The Gnarled Fang.md",
     "files/Pasted image 20241117135128.png",
     "files/Pasted image 20241117135024.png",
     "files/Pasted image 20241117134930.png",
@@ -340,13 +346,7 @@
     "files/Armory/Armor",
     "files/Armory/Cloak of Protection (A).png",
     "files/Memes",
-    "Hunter Luyarnha Campaign/Armory/Tattoos",
-    "Hunter Luyarnha Campaign/Armory/Traps",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5",
     "TestPublish.canvas",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops",
-    "Oneshots/Campeigns/StarWars",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas"
   ]
 }

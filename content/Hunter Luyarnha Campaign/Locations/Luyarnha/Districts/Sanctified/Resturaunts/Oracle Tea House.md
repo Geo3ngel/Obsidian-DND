@@ -8,10 +8,12 @@ Status: permanent
 # Description
 A tea and bath house in the [[Sanctified District]].
 # Server(s):
-## [[X]]
+## ## Owner: [[Clementine Orostead]]
+The servers here are familiars of the staff
+
 ---
 # Menu
-
+![[Pasted image 20241117134930.png]]
 ## House Special
 
 ---

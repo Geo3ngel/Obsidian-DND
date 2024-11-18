@@ -47,4 +47,4 @@ doubles hit dice recovery
 
 ---
 # References
-## Located within [[X]]
+## Located within the [[Grand Cathedral]]

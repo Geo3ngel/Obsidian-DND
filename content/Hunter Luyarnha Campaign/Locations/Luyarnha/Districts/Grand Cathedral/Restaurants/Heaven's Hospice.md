@@ -6,7 +6,7 @@ Status: permanent
   - Location
 ---
 # Server(s):
-## [[Luna]]
+## [[Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Luna]]
 Mute, doesn't appear to be able to speak, though communicates telepathically.
 Seems good for a chat when depressed/feeling rough?
 Semetra seems to really not like Luna's Psychic shit
