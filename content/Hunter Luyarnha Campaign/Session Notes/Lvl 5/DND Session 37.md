@@ -100,7 +100,7 @@ Due to him not showing up in time, hence them having no idea if he'd be there fo
 
 # References
 ---
-
+![](https://youtu.be/OBmeJEPhvgg?si=vC1JifMU_oBmSkya)
 ## Notes for next Session:
 Waron, Marinus, Dur'zoga all get the special for 40g each, gaining +5 & advantage to initiative rolls for the night
 

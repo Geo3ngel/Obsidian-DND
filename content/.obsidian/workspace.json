@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Pack Lord.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pack Lord"
+              "title": "DND Session 19"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 36.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Silver Wolf"
+              "title": "DND Session 36"
             }
           },
           {
@@ -272,32 +272,32 @@
   },
   "active": "b3ff00705812ff71",
   "lastOpenFiles": [
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 20.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 21.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 22.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 23.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 24.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 25.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 26.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 27.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 28.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 29.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 30.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 31.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 32.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 33.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 34.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 35.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 36.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
+    "README.md",
+    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Pack Lord.md",
     "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Scout.md",
     "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Stalker.md",
     "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Striker.md",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Pack Lord.md",
     "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Master of the Hunt.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants/The Fruit of the Vine.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Heaven's Hospice.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Barracks of the Battle Rest.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/The Chipped Shoulder.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Chet's Drug Shop.md",
-    "templates/Shop.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/Oracle Tea House.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Shops/Sanctified District - Shops.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/Sanctified District - Restaurants.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Resturaunts/The Gnarled Fang.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Shrouded - Shops.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Restaurants/Newbridge - Restaurants.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Daefied Death Bringers.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Amenities.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Luugru - shop.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Golden Bazar.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Restaurants",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Shops",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Ruby/Restaurants",

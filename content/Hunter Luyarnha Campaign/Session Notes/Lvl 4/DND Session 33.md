@@ -69,3 +69,4 @@ After emerging from the sewers and heading across the shrouded district to Thoma
 When they come across some men in black cloaks, that catch a skinned scourge beast
 # References
 ---
+![](https://youtu.be/XkodUBPit1s?list=PLmwaCUBw5TkIrGOm_CqB8MDqyrkhJmSse)
