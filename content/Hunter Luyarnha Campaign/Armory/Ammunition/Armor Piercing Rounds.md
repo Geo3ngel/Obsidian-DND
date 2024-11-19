@@ -11,6 +11,6 @@ Status: fleeting
 # References
 Can be bought at the following establishments:
 
-| **Shops**                 | Cost        |
-| ------------------------- | ----------- |
-| [[Daefied Deathbringers]] | 9 per round |
+| **Shops**                  | Cost        |
+| -------------------------- | ----------- |
+| [[Daefied Death Bringers]] | 9 per round |

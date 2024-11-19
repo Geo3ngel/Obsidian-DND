@@ -4,20 +4,17 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
----
-# Shop Keep
-**Name**: [[Rusty]]
-**Description**:
-**Relationship with party**:
-
+  - "[[Golden Bazar]]"
 ---
 # Shop Details
 The stand is interesting from a sponsorship perspective since both elven families fund the spot so that the other family cannot sell their weaponry within the church, creating a weird stalemate of profitable charity to the Church, which they are more than happy to accept.
 ## Specialization
 Ranged Martial Weapons
-## Organization affiliations
+### Organization affiliations
 Joint-sponsored by the [[Emberhearts]] & [[Moongolds]]
-## Wares 
+## Shop Keep
+**Name**: [[Rusty]]
+# Wares 
 Firearms, cannons, ammunitions
 
 | Item                   | Cost     |
@@ -31,9 +28,5 @@ Firearms, cannons, ammunitions
 ## Additional Services
 
 ---
-# Party Notes
+# Notes
 Rusty appears to be the shop keeper due to his impartiality between the two families that sponsor the shop, to keep a balance.
-
----
-# References
-## Located within the [[Golden Bazar]]

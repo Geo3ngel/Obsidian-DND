@@ -21,6 +21,5 @@ Described as being scraggly looking with talons for nails and large wolf like in
 ## **Relationship with Party**:
 Goes way back with [[Waron]], seems to be keeping an eye out for him.
 
-
 ---
 # References

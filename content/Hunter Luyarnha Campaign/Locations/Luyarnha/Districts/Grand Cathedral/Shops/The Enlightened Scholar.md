@@ -4,13 +4,14 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
+  - "[[Golden Bazar]]"
 ---
 # Shop Details
 ## Specialization
-## Organization affiliations
+### Organization affiliations
 Sponsored by [[The Luminary Scribes]].
 - Also doubles as their HQ.
-# Shop Keep
+## Shop Keep
 **Name**: [[Nezmis]]
 **Description**: 
 **Relationship with party**:
@@ -29,16 +30,9 @@ Sponsored by [[The Luminary Scribes]].
 | [[Mobius Scroll]]                   | 900 gp |                                                     |
 | [[Incredible Mending Tape]]         | 400 gp |                                                     |
 | [[Scroll of the Skyfallen]]         | 700 gp |                                                     |
-
-
-# Additional Services
+## Additional Services
 Able to provide Spell scrolls of Abjuration, Conjuration, Divination, or Enchantment up to 3rd level (50-500 gp).
 - Higher levels and different spell schools are available, but only to higher ranked members of the Luminary Scribes exclusively.
 > [!question] Can we also purchase information here?
 > Kind of? They do have a library we can get varying degrees of access to...
 # Party Notes
-
-
----
-# References
-## Located within the [[Golden Bazar]]

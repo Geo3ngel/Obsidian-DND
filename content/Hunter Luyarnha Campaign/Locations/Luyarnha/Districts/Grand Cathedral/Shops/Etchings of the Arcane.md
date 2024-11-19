@@ -4,6 +4,7 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
+  - "[[Golden Bazar]]"
 ---
 # Shop Details
 A wicked shop which only appears when Verena is present.
@@ -15,11 +16,11 @@ However, their captors saw this transformation as more than enough punishment fo
 [[Osteomancy]] 
 Magical Tattoos
 - and regular tattoos/etchings!
-## Organization affiliations:
+### Organization affiliations:
 Sponsored by the [[Abyssal Keep]]
 Seems to be associated with a certain group of osteomancers, which we don't currently know the name of.
 
-# Shop Keep
+## Shop Keep
 **Name**: [[The Penitent Mage]]
 # Wares
 | Item                        | Tattoo Cost | Design Cost |
@@ -35,11 +36,6 @@ Seems to be associated with a certain group of osteomancers, which we don't curr
 | [[Life Charm Tattoo]]       | 6,000 gp    |             |
 | [[Weathering Tattoo]]       | 25,000 gp   |             |
 | [[Hampering Tattoo]]        | 400 gp      |             |
-# Additional Services
+## Additional Services
 # Party Notes
 Only appears to Verena, strangely enough.
-
-
----
-# References
-## Located within [[Golden Bazar]]

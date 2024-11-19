@@ -12,7 +12,7 @@ Status: permanent
 **Species**: Mannequin
 **Met**: Yes
 #### Organization affiliation: 
-Neutral party meant to keep the balance between the [[Emberhearts]] and the [[Moongolds]] co-ownership over [[Daefied Deathbringers]].
+Neutral party meant to keep the balance between the [[Emberhearts]] and the [[Moongolds]] co-ownership over [[Daefied Death Bringers]].
 # Description:
 battle-damaged janitor-design Manikin named Rusty whose appearance lives up to the name. He has a slightly automated feel for small talk and haggling, but when the talk of violence comes up, his eyes turn red and he becomes extremely emphatic about the most brutal forms of damage that can be inflicted, stuttering speech occasionally before returning to his normal state
 

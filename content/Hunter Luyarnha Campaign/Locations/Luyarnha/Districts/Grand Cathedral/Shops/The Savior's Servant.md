@@ -4,17 +4,16 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
----
-# Shop Keep
-**Name**: [[Niemy Iskolbru]]
-
+  - "[[Golden Bazar]]"
 ---
 # Shop Details
 ## Specialization
 Healing items, mostly
-## Organization affiliations
+### Organization affiliations
 This also doubles as the Headquarters of [[The Blood Cross]].
-## Wares 
+## Shop Keep
+**Name**: [[Niemy Iskolbru]]
+# Wares 
 
 | Item                         | Cost     |
 | ---------------------------- | -------- |
@@ -28,6 +27,3 @@ Provides refills of Silver Tonic for members of the Blood Cross.
 
 ---
 # Party Notes
----
-# References
-## Located within the [[Golden Bazar]]

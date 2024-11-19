@@ -4,20 +4,18 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
----
-# Shop Keep
-**Name**: [[Chet Duley]]
-
+  - "[[Shrouded - Shops]]"
 ---
 # Shop Details
 Drug Dealer: A half-elven man named Chet Duley, He has the following drugs available:
 ## Specialization
 Drugs.
-## Organization affiliations
+### Organization affiliations
 [[]]
 > [!question] Was it the Wayfairers? Need to double check which gang he's affiliated with!
-## Wares 
-> [!error] Turn this into a table
+## Shop Keep
+**Name**: [[Chet Duley]]
+# Wares
 
 | Drug of Choice             | Cost   |
 | -------------------------- | ------ |
@@ -34,8 +32,3 @@ Who knows? He's a shady fucker who
 # Party Notes
 Rat faced fucker that tricked us in the one Shot campaign into the trap with the Rats, in which we all died. To a Rat.
 - To be fair, we did stab out his eye... but that's not in this campaign/timeline, so he's fine.
-
-
----
-# References
-## Located somewhere within the [[Shrouded District]]

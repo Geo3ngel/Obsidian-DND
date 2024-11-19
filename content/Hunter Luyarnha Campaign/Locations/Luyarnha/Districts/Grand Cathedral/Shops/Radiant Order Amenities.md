@@ -5,19 +5,18 @@ Status: permanent
   - Location
   - Shop
   - "[[Ministry of Light]]"
----
-# Shop Keep
-**Name**: [[Piirmisha Rhavin]]
-**Description**: A scourgeborne Vespertilio (bat) with poufy white hair and soft features. Her gentle expression and demeanor help to fend off the off-putting nature of her being a scourgeborne
-**Relationship with party**:
-
+  - "[[Golden Bazar]]"
 ---
 # Shop Details
 ## Specialization
 Healing and holy goods.
-## Organization affiliations
+### Organization affiliations
 [[Ministry of Light]] Headquarters
-## Wares
+## Shop Keep
+**Name**: [[Piirmisha Rhavin]]
+**Description**: A scourgeborne Vespertilio (bat) with poufy white hair and soft features. Her gentle expression and demeanor help to fend off the off-putting nature of her being a scourgeborne
+**Relationship with party**:
+# Wares
 | Item                             | Cost            | Members only |
 | -------------------------------- | --------------- | ------------ |
 | [[Celestial Tome of Healing]]    |                 | Members only |
@@ -32,8 +31,3 @@ Madness Removal services
 
 ---
 # Party Notes
-
-
----
-# References
-## Located within the [[Golden Bazar]]

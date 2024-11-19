@@ -4,20 +4,19 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
----
-# Shop Keep
-**Name**: [[Priscilla]]
-**Description**: A doll-faced Manikin, aid to [[Gehram]], and responsible for serving non-jaegers. She has a calm, emotionless demeanor who treats each person with a gentle voice, a harsh contract to the violent weaponry she sells.
-**Relationship with party**: Neutral
-
+  - "[[Golden Bazar]]"
 ---
 # Shop Details
 ## Specialization
 Jaeger weaponry, and martial (non-ranged) weapons.
-## Organization affiliations
+### Organization affiliations
 [[Jaegers]].
 The primary shop of the Jaeger program. Their special wares are only available to Jaegers, the rest Priscilla serves at the front for others to purchase from
-## Wares 
+## Shop Keep
+**Name**: [[Priscilla]]
+**Description**: A doll-faced Manikin, aid to [[Garum Keenseeker]], and responsible for serving non-jaegers. She has a calm, emotionless demeanor who treats each person with a gentle voice, a harsh contract to the violent weaponry she sells.
+**Relationship with party**: Neutral
+# Wares 
 ### Weaponry
 
 | Item                  | Cost    |
@@ -37,14 +36,10 @@ The primary shop of the Jaeger program. Their special wares are only available t
 | ------------------ | ------------ |
 | [[Firestorm Trap]] | (Review vod) |
 
-### Jaegers/Gehram's friends only:
+### Jaegers/Garum's friends only:
 ???
 ## Additional Services
 
 ---
 # Party Notes
-Apparently [[Gehram]] might be willing to make weapons for special customers that aren't Jaegers, provided they do some favors, or are friends with him through some other means.
-
----
-# References
-## Located within the [[Golden Bazar]]
+Apparently [[Garum Keenseeker]] might be willing to make weapons for special customers that aren't Jaegers, provided they do some favors, or are friends with him through some other means.

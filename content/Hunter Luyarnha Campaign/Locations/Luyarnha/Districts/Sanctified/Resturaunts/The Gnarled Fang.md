@@ -4,6 +4,7 @@ Status: permanent
 "Tags:":
   - Location
   - Restaurant
+  - "[[Sanctified District - Restaurants]]"
 ---
 # Description:
 Rustic themed tavern with multiple mounted trophy heads of Scourge beasts. Run by an older human nobleman named Zachariah Schröder
@@ -14,7 +15,4 @@ Rustic themed tavern with multiple mounted trophy heads of Scourge beasts. Run b
 ![[Pasted image 20241117135024.png]]
 
 ## House Special
-
----
-# References
-## [[Location Restaurant Page]]
+# Notes

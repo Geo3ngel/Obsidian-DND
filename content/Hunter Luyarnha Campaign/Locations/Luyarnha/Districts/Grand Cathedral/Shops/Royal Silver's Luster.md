@@ -4,14 +4,15 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
+  - "[[Golden Bazar]]"
 ---
-# Shop Keep
-**Name**: [[Seshk Dinonza]]
 # Shop Details
 ## Specialization
-## Organization affiliations
+### Organization affiliations
 Sponsored by the [[Silverbloods]]
-## Wares 
+## Shop Keep
+**Name**: [[Seshk Dinonza]]
+# Wares 
 
 | Item                         | Cost     |
 | ---------------------------- | -------- |
@@ -55,8 +56,3 @@ Can also provide any gold or silver bands/chains of up to 2,000 gp value.
 
 ---
 # Party Notes
-
-
----
-# References
-## Located within the [[Golden Bazar]]

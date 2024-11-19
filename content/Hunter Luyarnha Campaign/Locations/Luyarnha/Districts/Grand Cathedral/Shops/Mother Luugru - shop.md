@@ -4,11 +4,12 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
+  - "[[Golden Bazar]]"
 ---
 # Shop Details
 ## Specialization
 Standard adventuring equipment
-## Organization affiliations
+### Organization affiliations
 Sponsored by the [[Obulus Scholare]]
 # Shop Keep
 **Name**: [[Mother Luugru]]
@@ -26,11 +27,6 @@ Sponsored by the [[Obulus Scholare]]
 | [[Ring of Seething]]     | 240 gp |
 | [[Life Tether Ankh]]     | 300 gp |
 
-# Additional Services
+## Additional Services
 > [!question] Did she also sell potion ingredients?
 # Party Notes
-
-
----
-# References
-## Located within [[Golden Bazar]]

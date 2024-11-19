@@ -4,6 +4,7 @@ Status: permanent
 "Tags:":
   - Location
   - Restaurant
+  - "[[Sanctified District - Restaurants]]"
 ---
 # Description
 A tea and bath house in the [[Sanctified District]].
@@ -21,6 +22,3 @@ We kind of broke a table here last time, due to Verena trying to mess with a sig
 
 Also, they serve drinks in cute little familiar cups:
 ![[fox-cup.png]]
----
-# References
-## [[Location Restaurant Page]]

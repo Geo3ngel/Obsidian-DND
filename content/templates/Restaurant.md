@@ -4,18 +4,15 @@ Status: permanent
 "Tags:":
   - Location
   - Restaurant
+  - "[[Location Restaurant Page]]"
 ---
+# Description
 # Server(s):
 ## [[X]]
 ---
 # Menu
 
 ## House Special
+### Effect
 
-# Shop Details
-
-# Party Notes
-
----
-# References
-## [[Location Restaurant Page]]
+# Notes

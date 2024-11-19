@@ -114,7 +114,7 @@ People seem to be light beastial incense
 
 Narissa visits [[Radiant Order Amenities]] for some rosary bullets
 
-## [[Daefied Deathbringers]]
+## [[Daefied Death Bringers]]
 Co-sponsored by the [[Emberhearts]] and [[Moongolds]]
 The shop keep is a mannequin of sorts!
 - rather decayed/rusted

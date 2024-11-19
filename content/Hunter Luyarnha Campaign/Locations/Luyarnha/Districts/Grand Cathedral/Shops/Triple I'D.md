@@ -4,15 +4,16 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
+  - "[[Golden Bazar]]"
 ---
 # Shop Details
 **Full Shop Name**: Industry Issued Instruments of Demise
 The door to his shop is an engineering nightmare and is horribly inefficient.
 ## Specialization
-## Organization affiliations
+### Organization affiliations
 Headquarters of [[The Militia]]
 Apparently offers free higher tier trick weapons for those willing to join the [[Jaeger Program]].
-# Shop Keep
+## Shop Keep
 **Name**: [[Randalph Ironhands]]
 # Wares
 All simple weapons available for purchase, martial weapons available for Militia members and trick weapons for anyone recognized by The Radiant Church as a Hunting Party.
@@ -27,12 +28,8 @@ All simple weapons available for purchase, martial weapons available for Militia
 | [[Guillotine Shears]]   | 200 gp   |
 | [[Sanctified Partisan]] | 200 gp   |
 | [[Dream Executioner]]   | 1,500 gp |
-# Additional Services
+## Additional Services
 # Party Notes
 We have a 10% discount here on purchases over 100g! Courtesy of Vicor [[Abraham]]
 They did try and talk Waron into joining the [[Jaeger Program]] at one point in exchange for obtaining the [[Dream Executioner]] for free.
 - We instead later negotiated a 1000g discount as a result of doing the Church the favor of Hunting down the [[Cleric Beast]]. Since they claimed to be short on funds to reward us aptly, we asked if we might get a discount on a weapon that's been collecting dust in their stores.
-
----
-# References
-## Located within [[Golden Bazar]]

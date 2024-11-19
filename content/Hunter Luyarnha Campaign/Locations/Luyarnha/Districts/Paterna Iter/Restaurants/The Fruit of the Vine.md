@@ -4,6 +4,7 @@ Status: permanent
 "Tags:":
   - Location
   - Restaurant
+  - "[[Paterna Iter - Restaurants]]"
 ---
 # Description
 Greek Pantheon Themed Tavern run by a rambunctious male half-elf named [[Ramses Petalmouth]] with a love for wine.
@@ -19,7 +20,4 @@ Greek Pantheon Themed Tavern run by a rambunctious male half-elf named [[Ramses 
 The house special is some of the rarest wine that can ever be found in Luyarnha, Aged Goodberry Wine from 900 AD, when the [[Silverbloods]] first took power. [240 gp]
 ### Effect: 
 Unknown
-
----
-# References
-## [[Location Restaurant Page]]
+# Notes

@@ -4,12 +4,7 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
----
-# Shop Keep
-**Name**:
-**Description**:
-**Relationship with party**:
-
+  - "[[Shrouded - Shops]]"
 ---
 # Shop Details
 A shop specializing in mining equipment.
@@ -17,9 +12,14 @@ A shop specializing in mining equipment.
 - Or can we buy boomie things here?
 ## Specialization
 Mining gear
-## Organization affiliations
-### [[Abyss Wardens]]
-## Wares 
+### Organization affiliations
+#### [[Abyss Wardens]]?
+## Shop Keep
+**Name**:
+**Description**:
+**Relationship with party**:
+
+# Wares 
 ## Additional Services
 
 ---
@@ -28,8 +28,4 @@ This shop has some notable connection to the [[Abyss Wardens]] supposedly.
 - Useful as a means of contacting their group potentially.
 
 Upon entering, patrons are asked a simple question to gauge their affiliation with the Abyss Wardens:
-- **Answer**: A second Canary: the first one warns you, the second one saves you
-
----
-# References
-## Located within the [[Shrouded District]]
+- **Answer**: "A second Canary: the first one warns you, the second one saves you"
