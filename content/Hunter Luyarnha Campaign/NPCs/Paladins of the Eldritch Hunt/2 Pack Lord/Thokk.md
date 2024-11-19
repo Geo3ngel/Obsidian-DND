@@ -28,4 +28,4 @@ Dual wields the aberrant aegis.
 
 ---
 # References
-## [[000 Pack Lord]]
+## [[Pack Lord]]

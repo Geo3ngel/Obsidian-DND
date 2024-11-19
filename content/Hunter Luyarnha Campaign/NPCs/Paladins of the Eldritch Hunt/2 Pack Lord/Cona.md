@@ -29,4 +29,4 @@ She uses Adrenal Blades.
 
 ---
 # References
-## [[000 Pack Lord]]
+## [[Pack Lord]]

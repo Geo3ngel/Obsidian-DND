@@ -21,3 +21,6 @@ The house special is some of the rarest wine that can ever be found in Luyarnha,
 ### Effect: 
 Unknown
 # Notes
+[[Hugo Magmabrand]] and [[Verena]] had a date here.
+- The shop keep may or may not have banned the party from the restaurant after the fact. 
+	- We haven't yet made a re-appearance.
