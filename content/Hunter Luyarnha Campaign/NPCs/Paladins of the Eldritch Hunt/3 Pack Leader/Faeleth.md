@@ -13,7 +13,7 @@ Status: permanent
 **Species**: Elf
 **Met**: Yes
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Pack Leader/Striker
+**Rank**:  [[Striker]]
 **Under Pack Lord**: [[Thokk]]
 
 > [!info] Specialization
@@ -22,7 +22,3 @@ Spear expert, holds choke points
 A spear specialist that helps hold the line with her strike team, usually acting in a small centurion-like station to hold a tactical position or choke point that’s given to her. 
 
 She follows Thokk Bloodbather.
-
----
-# References
-## [[Striker]]

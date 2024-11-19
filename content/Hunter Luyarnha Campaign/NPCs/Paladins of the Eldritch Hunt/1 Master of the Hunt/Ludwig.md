@@ -7,7 +7,7 @@ Status: permanent
   - Paladins of the Eldritch Hunt
 ---
 # Character Details
-**Full Name**: Ludwig Kronengvought
+**Full Name**: Ludwig Kroening
 **Nickname**:
 **Gender**: Male
 **Species**: 

@@ -20,7 +20,3 @@ Initiate in the Paladins of the Eldritch Hunt.
 ## **Relationship with Party**:
 [[Waron]] saved his life on the night he party was brought into Luyarnha.
 - He's incredibly thankful.
-
-
----
-# References

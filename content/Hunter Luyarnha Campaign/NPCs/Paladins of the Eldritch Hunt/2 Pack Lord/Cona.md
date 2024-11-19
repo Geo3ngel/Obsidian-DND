@@ -15,7 +15,7 @@ Status: permanent
 **Species**: Belua Scourgeborne
 **Met**: Yes
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Pack Leader/Striker
+**Rank**: Pack Lord
 **Under Pack Lord**: ???
 
 > [!info] Specialization

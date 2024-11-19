@@ -1,6 +1,11 @@
 # George's Compendium of DND Notes
 
 # CURRENT NOTES MODIFICATION TODO:
+Org structures still need work
+Manny NPCs are still missing/Need to be added
+- And organized at somepoint?
+- How are we going to link these to their respective districts?
+
 I want to enforce the following rough note guide:
 ## Quest Board
 - Who's got what going on for their backstory

@@ -14,7 +14,7 @@ Status: permanent
 **Species**: Vespertilio Scourgeborne
 **Met**: No
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Pack Leader/Striker
+**Rank**:  [[Striker]]
 **Under Pack Lord**: [[Thokk]]
 
 > [!info] Specialization
@@ -28,7 +28,3 @@ Also gives roof-top perspectives and only engages in combat when expressly told 
 He follows Thokk Bloodbather.
 
 Seems to have followers with sealed eyes, with bat esc feature based scourge?
-
----
-# References
-## [[Striker]]
