@@ -19,3 +19,6 @@ The current Pack Lord for **offense** is [[Cona]] Organrender who is responsible
 ???
 # Notes
 > TODO: Note where this fits in with the org chart structure of the Paladins of the Eldritch Hunt!
+
+Both Pack Lords always wear the  [[Mantle of the Pack Lord]] into Hunts as a show of their place in power:
+![[Mantle of the Pack Lord.png]]

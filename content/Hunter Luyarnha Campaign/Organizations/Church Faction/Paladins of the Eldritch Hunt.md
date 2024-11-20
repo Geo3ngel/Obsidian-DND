@@ -8,7 +8,7 @@ Status: hub
 ---
 # Chain of command
 ### **Commander/Master of the Hunt: 
-The executive decision maker of the legion and proof of his leadership being shown through a beautiful great sword, wielded by their current Master of the Hunt, Ludwig Kroening. 
+The executive decision maker of the legion and proof of his leadership being shown through a beautiful great sword, wielded by their current Master of the Hunt, [[Ludwig]] Kroening. 
 
 ### Captain/Pack Lord: 
 Responsible for the tactical planning of their respective responsibilities within the order, with two Pack Lords always being chosen. One specializes in defense, the other in offense. The current Pack Lord for defense is [[Thokk]] who is responsible for choke points, blockade building, and reconnaissance/real time information gathering. The current Pack Lord for offense is [[Cona]] Organrender who is responsible for frontal assaults, flanking strikes, and hunting/assassination missions. 
