@@ -8,35 +8,53 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7b0dbddb9534a960",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/Bit Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Bit Ideas"
+            }
+          },
+          {
+            "id": "b64b3e07f218b3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DND Session 37"
+            }
+          },
+          {
+            "id": "8f04c20359903330",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 38.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DND Session 38"
+            }
+          },
+          {
             "id": "4170512b50feac48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Master of the Hunt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Master of the Hunt"
-            }
-          },
-          {
-            "id": "c64c613f47fdcde8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Pack Lord.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pack Lord"
-            }
-          },
-          {
-            "id": "461452e21e755bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +68,47 @@
             }
           },
           {
-            "id": "b3b02a40cdfac834",
+            "id": "68dcf80f7777c8c6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dream Executioner"
+            }
+          },
+          {
+            "id": "aa31c8a4c43ff545",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7a8e4d185374f69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Striker.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 39.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Striker"
+              "title": "DND Session 39"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Daefied deathbring",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,35 +245,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3b02a40cdfac834",
+  "active": "8f04c20359903330",
   "lastOpenFiles": [
-    "files/Sword of the Pack Leader.png",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Stalker.md",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Scout.md",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Pack Lord.md",
-    "files/Mantle of the Pack Lord.png",
-    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Geiger.md",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Striker.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/s37.md",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/s38.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Quilandros Estate.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Paladins of the Eldritch Hunt.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Ministry of Light.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Radiant Church.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Blood Cross.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/The House of Blood.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Luminary Scribes.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Militia.md",
-    "Hunter Luyarnha Campaign/Organizations/Families/Silver Bloods/Silverbloods.md",
-    "Hunter Luyarnha Campaign/Organizations/Families/Moon Golds/Moongolds.md",
-    "Hunter Luyarnha Campaign/Organizations/Families/Ember Hearts/Emberhearts.md",
-    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Greisha Bearknuckle.md",
-    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/1 Master of the Hunt/Ludwig.md",
-    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Calvin.md",
-    "Hunter Luyarnha Campaign/NPCs/Enemies/Ormiir.md",
-    "Hunter Luyarnha Campaign/NPCs/Enemies/The Veiled Hunter.md",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Master of the Hunt.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 39.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 38.md",
+    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Blood Crystal.md",
+    "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Golden Bazar.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
+    "Ramses Petalmouth.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
+    "Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/Glouring Moon.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Blessed Rosaries.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Rings/Ring of Solar's Sight.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Rings/Hushed Ring.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/Bit Ideas.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Physical Description.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Level up planning.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron.md",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/Kysus Borovir.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple I'D.md",
+    "Hunter Luyarnha Campaign/Armory/Tattoos/Elongating Tatto.md",
+    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Scout.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
+    "Hunter Luyarnha Campaign/Armory/Ammunition/Frozen Holy Water Bullet.md",
+    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks/Stalker.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
+    "files/772526e41d4cf7ddc0dafd33c02ece5a.jpg",
+    "Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating/Character inspiration.canvas",
+    "files/Geiger's followers - Tower Shield.png",
+    "files/Sword of the Pack Leader.png",
+    "files/Mantle of the Pack Lord.png",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Restaurants",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Shops",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Ruby/Restaurants",
@@ -246,10 +295,6 @@
     "files/Hushed Ring (A).png",
     "files/Boots of the Cloud Jumper (A).png",
     "files/Militiamen's Badge.png",
-    "files/Dragon's Blood.png",
-    "files/Phantom Limb (A).png",
-    "files/Displacement Leather (A).png",
-    "TestPublish.canvas",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas"
+    "TestPublish.canvas"
   ]
 }

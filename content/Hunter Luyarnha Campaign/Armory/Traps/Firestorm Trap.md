@@ -7,6 +7,7 @@ Status: permanent
 ---
 # Description:
 ![[Firestorm Trap.png]]
+**Dex DC is 11**
 # Obtainable at:
 
 | Shop                      | Price |

@@ -15,5 +15,5 @@ The leaders of each smaller team that carries out orders from the their respecti
 ### Promotion
 ???
 # Notes
-Each lieutenant is gifted a respective sword to demonstrate their place in the leadership, a literaly Sword of the Pack Leader
+Each lieutenant is gifted a respective sword to demonstrate their place in the leadership, a literally Sword of the Pack Leader
 ![[Sword of the Pack Leader.png]]
