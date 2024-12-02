@@ -6,51 +6,40 @@ Status: fleeting
 ---
 # Session Intro
 ---
-Waron can hear again!
-
-We're just outside the water works right now, and need to deal with the bodies still...
-- We need to investigate the runic structuring/what was going on with the bodies
-- Maybe separate the bodies into piles, one to burn (infected), and ones to return
-
+The party investigates the aqueduct following the defeat of the Cleric Beast. They encounter a masked enemy and some dogs. 
 ### We're 1/3rd of the way through the eldritch moon!
 ---
 # Session Notes
 ---
+The session opens with the party still within the greenhouse terrarium.  Waron regains his hearing. The party decides to search the bodies on the lake and burn the skurge infected water along with the splurge bodies. As the party emerges on the streets, stealthing back to the aqueduct, Narissa notices a creature seemingly stalking them on the roof. It seems to match pace with them to keep hidden. Subtly, she informs the party that they are being stalked.  Waron notices their follower as well. As she turns around, she briefly sees a creature that seems to be dawning an aggregation of earth and vine mound, almost like a cape, covered creatures stalking them on the rooftops. After the individual lets loose a shingle, it hides.  The party decide to keep moving warily, and come back to the puddle to see three doberman-like dogs lapping up the water and investigating the bodies. They seem to have pustules and milky eyes. They try to approach unseen, but Waron steps on a potted plant “Shit!” One of the dogs seems to edge closer. 
 
-Waron notices something appears to be... watching us.
-- Kind of a given, ngl.
-- Hears a newer sound closer to us...
-	- Dogs howling coming from the water way.
+Waron uses divine senses to tell if they are skurge infected and he detects that there is one in front of them (the dog) and the creature on the roof. Narissa shoots the dog and they continue, leaving the one stalking them to be hidden. Marinus goes to investigate the aqueduct. Waron uses divine senses to try and determine which of the bodies were infected by skurge as he, Verina, Dur’zhoga, Cello and Gray approach the bodies. He determines every single body is skurge.
 
-Narissa detects the heavy trodden footsteps of something heavy and bi-pedal heading in our direction...
-- Traveling in lock-step with us.
-- We're being hunted.
-Narissa shoots a scourge dog at the water way that begins approaching the party, killing it in one shot and scaring away the other 2 dogs...
+Marinus determines that the aqueduct was destroyed in such a way to divert the water to pool the water in a certain area, not to deprive water. He also determines it was done by the Cleric Beast. As Marinus prepares to use the socks, he sees the figure of moss and earth creature with a bird bone mask watching them against the moon. The figure seems composed of decaying mass and uses a staff. It has the outline of broken anatomical wings, roots that seem to emanate from it. It tilts its head. Marinus activates the socks and a voice suddenly echoes in his head. 
+  
 
-There is a creature of some sort stalking us here, that we know about...
-- Brid mask, decaying, with mushrooms growing out...
-	- A member of [[The Circle of Symbiosis]]?
-Waron casts Divine sense on top of using his usual discernment to detect scourge bodies vs non infected bodies in the water ways.
-- They are all infected.
+“This is where you stop. You trifle with plans and means that do not concern you. Step back and your lives will be spared. You have slain the beast, leave this to work.” a chorus of rasping voices says in Marinus’s head. Marinus says that they are too invested and that they need more compensation if they are going to be convinced to leave. 
 
-The being appears to the party, warning them to back off investigating/interfering 
-The being appears to make a trade of loyalty to Marinus...
-It warns us to back off, threatening that it will call more hounds.
+  
+
+“How about we exchange something between us? Something that cannot be weighed on a scale.” The creature suggests. “Something a hound gives free but am would rather ride than offer; an equal trade of loyalty.” Marinus declines. 
+
+“Well I have other hounds that will heed my beckon call.” The figure says/. The dogs that had fled return, growling. The oil begins to slowly spread over the lake, the party.  Waron tells Narissa that he will watch her back if she attacks the creature on the roof tops. Combat begins. 
 
 Marinus's oil starts spreading outwards on the water
 
 ---
 # Combat
 ---
-Waron shouts at Narissa to focus on the big bad guy, who's calling the wolves here, since they're far away, while he covers her.
-- She heckin' nails him twice, wounding him in the process.
+ Waron tells Narissa that he will watch her back if she attacks the creature on the roof tops. She heckin' nails him twice, wounding him in the process.  A dog attacks Verena and Dur’zhoga. Gray runs to Dur’zoga as she is attacked and bitten. Waron cheerleader style launches Narissa up into the air and onto a building.  Narissa shoots the creature on the roof tops twice, making it look wounded. It’s eyes burning red, he throws off his cape to repeal a perpetually hunched 7 ft tall creature. It cracks off his bone beak mask and screams, as if calling for something. As a dog attacks Verena, she uses burning hands to scorch the beast.**Waron shouts at Narissa to focus on the big bad guy, who's calling the wolves here, since they're far away, while he covers her. 
 
-Dur'zoga and Grey team up on a wolf, bloodying it rather quickly.
+Cello uses a spell to make the Cleric Beast to smell like a succulent rotting meat for the incoming dogs. “If the monsters come here, we can light them on fire!” She shouts. The druid throws his staff and summons a different tentacled hound from the body of a dead one. The tentacle hound bounds off, attacking Marinus. It makes Marinus go unconscious and the creature takes his body in his mouth. Narissa’s gun misfires and the druid beasts laughs, saying “I was being charitable. But the Circle has lost its patience with all of you.” It says before he runs away.  Waron rushes to the top of the building. Waron manages to wrench Marinus’s body from him. The dog goes to Cello who is holding some cooked steak. The dog seems to love the meat and let’s Cello pet it. “Do you want some more boy?” they ask the beast. 
 
-Verena and Cello deal with another down below.
+  
 
-It appears as though there is only the creature/man calling the beasts, and two other hounds here currently...
-- I presume he'll be calling more to the vicinity shortly...
+
+
+
 
 The birdman creature is pissed at Narissa's shots, and cracks his little skull item, which screeches and cries, appearing to call something...
 - His shoulders chuckle wickedly.

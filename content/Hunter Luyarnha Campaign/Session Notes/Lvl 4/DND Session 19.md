@@ -1,9 +1,10 @@
 ---
 Created: 2024/04/20 19:42
 Status: fleeting
-"Tags:":
+"Tags:": 
+title:
 ---
----
+
 # Session Intro
 ---
 We're about to fight the [[cleric beast]] in [[Paterna Iter]]'s [[Water works]]

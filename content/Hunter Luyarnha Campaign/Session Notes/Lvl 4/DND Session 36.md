@@ -20,43 +20,20 @@ Status: permanent
 # Session Notes
 ---
 ## Narissa's Dream
-Her consciousness brings her to her arcane study in her family home.
-- Looking for a book on mechanical engineering of some sort
-As she searches for her books, she comes across her brother, having completed his morning workout
-- [[Cornelius]]
-He sounds like a total bro!
-- Appears to be a grappler of sort
 
-She finds an artificers trove of gears and the like to tinker with, until her mother's disgruntled cough disturbs her from her work.
-- She's supposed to be studying arcane transmutation, but is caught red handed tinkering again
-- She's been in here for 7 hours apparently.
-Her mother grills her over her lack of study of spells and the arcane.
-"You want to be a Shaw, yes? How is this sensical?"
+Narissa wakes in her family’s library. She remembered being assigned my her mother to study arcane. She instead locates books about the mechanics of ruin casting and transmutation. Her [[Uncle Cornelius]] comes in looking for uncle emit as he has a box of gears and pieces for him. Narissa volunteers to take care of the box and get it to [[Uncle Emmet.]] This man appears to have been a big source of inspiration for Narissa.  She ends up making a transmutation spring trap using the books she was studying and the gears. 
 
-[[Uncle Emmet]] apparently is a big source of inspiration for Narissa, able to work the mechanical and the arcane together.
-Narissa seems to protest to her mother that her creations could prove useful for her father
-
-Uncle Emmet being a more rotund sort of fellow.
-He managed to save Narissa from the situation, and pulls her over into studying/learning with him!
-- he seems to be trying to hide what he's teacher her how to build stuff from the rest of the family
-[[Acuta Shaw]]
-- Name of Narissa's mother
-[[Aunt Marina]]
-- presumably [[Uncle Emmet]]'s spouse?
-- Emmet is apparently try to build her an arcane pocket watch for her to summon
-
-Her dream fades out, with feelings of Narissa missing her [[Uncle Emmet]].
+Her mother [[Acuta Shaw]] catches her and is angry that she has spent the last 7 hours on this and has effectively learned nothing. Acuta is about to destroy the project when Emmet arrives and intervenes awkwardly. As Narissa is about to leave with him to go finish her project and continue studying, 
+Acuta grabs Narissa with a dark look saying “You are better than this.” 
+Emmet reacts and places an equally threatening hand on Acuta saying “She’s better than both of us.” Acuta let's go and Narissa goes with him. He managed to save Narissa from the situation, and pulls her over into studying/learning with him! He seems to be trying to hide what he's teacher her how to build stuff from the rest of the family. The two go to a seperate house area where Narissa's[[Aunt Marina]] is . She  presumably [[Uncle Emmet]]'s spouse. - Emmet is apparently try to build her an arcane pocket watch for her to summon. Her dream fades out, with feelings of Narissa missing her [[Uncle Emmet]].
 ## Verena
-Her eyes burn with the intensity of light showering over her.
-She finds herself wearing a cocktail dress, as a maid of honor at her sister's wedding
-
+Her eyes burn with the intensity of light showering over her. She finds herself wearing a cocktail dress, as a maid of honor at her sister's wedding. 
 [[Alluna Harrow]] eyeing Verena, seemingly ready to pounce on her should she step out of bounds.
 Her father, looking on with pride.
+
 Her brother, Herdo
 - wishing someone demise?
-Some blonde who's blood pumps poison, just waiting for Verena to fuck up, to snicker at her.
-
-She's given a speech for her sister, as her bridesmaid.
+Some blonde who's blood pumps poison, just waiting for Verena to fuck up, to snicker at her. Verena is given a speech for her sister, as her bridesmaid.
 - she seems to be doing ok, until she makes a wisdom saving throw...
 	- NVM! 21, she seems to be ok, but detects something poking and prodding at her mind...
 		- Not the glares of those in the crowd, but, something else.
@@ -84,21 +61,11 @@ She collects herself, and heads back out into the party, ready to be ripped a ne
 
 However her dream's vision shifts to that of a city chapel spire of sorts... (burning?)
 ## Marinus
-He's awoken by [[Bloody Henry]], to take his shift of watch for the night.
-Henry passes out basically right away.
-He checks up on the prisoner we have tied up.
-- knots seem good
-- He doesn't seem to be awake at present.
-Marinus goes out to splash some water in his face for a sec.
-*window smashes*
-Marinus goes back to the room.
-The guy is gone. *Whoops*
+He's awoken by [[Bloody Henry]], to take his shift of watch for the night. Henry passes out basically right away. Marinus  checks up on the prisoner we have tied up. The knots appear to good and the prisoner appears to be unconscious still.  Marinus goes out to splash some water in his face for a sec. Suddenly, he hears a window smash. He runs back to the room and finds the prisoner escaped. *Whoops* he thinks before returning to his spot, letting everyone rest, 
 
 ## Breakfast at [[The Busted Barrel]]
-Secret Ingredient
-- Evermint leaf!
-Glowering moon!
-- don't step out into the moonlight!
+The party goes to the Buster Barrel for breakfast where they recall that the upcoming moon is a [[Glowering Moon]]. During a Glowering Moon you must cover your skin from the moonlight, which appears to be poisonsous. For each hour that passes, you have the urge to fall asleep while the moon appears to stare at you. 
+
 
 for each hour that passes within the night of the moon, there is the urge to fall asleep.
 - The light itself appears to be poisonous.
@@ -128,17 +95,14 @@ Waron wants to chat with the folk at [[Triple I'D]], chat about the scythe's per
 Ooooh, or the socks of spider climbing!
 
 ## [[Ranyha]] Pelicos's office
-- She's responsible for the [[Obulis Scholare]]
-We're making our report
-Michaelangelo
-They care for arcane relics, from prior wars, etc. (Historians)
-- The luminous scribes are investigators, under the divine enclave.
+
 She is accusing [[Orastophelis]] 
+Ranyha Pelicose - into the ministry of Light.  Narissa tells her about Vikar Henry, the fake silver tonic, the beasts with the silver tonic, as well as the false gold that has infiltrated the Church’s gold. Michelangelo is responsible for the [[Obulis Scholare]]. Upon her mentioning this, Marinus feels whispers and a cold sensation on the back of his neck. They carry a responsibility for historical arcane artifacts.  She talks about trying to do the work of the other vikars as they seem to be failing.  They agree upon the party receiving access to her library for  29 hours at their choosing, only consecutive. 
 
-She gives us 3k gold
+They also tell her of the compromised gold that they have been paid with by the Church. Tiredly  she says that she supposes she must also now manage the sanctity of the churches funds now as well. She gives them a 3,000 GP  Gold bar from the Church’s Private Treasury, something that she states that cannon be fabricated or fake.
 
-WTF is [[The Black Goat]]
-- some elder God?
+Marinus asks Ranya if the name “[[The Black Goat]]” means anything to her.  She says no, but they do not believe her. Marinus recalls that when Orrimir was killed it might have been mentioned. But he knows he heard it during the end of his live one, Marinus manages to deceive Ranhya that he heard it from Orimiir rather than from when he has died.**
+
 # LEVEL UP!
 We're all level 5 now! Woohoo
 # References

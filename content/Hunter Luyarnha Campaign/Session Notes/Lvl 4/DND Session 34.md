@@ -18,32 +18,12 @@ They successfully managed to create fake gold, and distribute it through the cen
 - It even got inside the grand cathedral
 ## [[Lord Thomathin]]'s Manor
 
-It is reveled to the party that excessive horn growth is a sign of scourge infection for tieflings.
+It is reveled to the party that excessive horn growth is a sign of scourge infection for tieflings. Verena describes her vision as [[Vargus]] to Thomathin to question him of what she saw, including lord Thomethin's involvement. Thomathin claims the cells in Verena's vision must be from one of two places: a cell from inside  [[The Abyssal Keep]] within the Waterfront District OR an experimental holding cell belonging to [[The Scions]] in the [[Newbridge District]].  Thomathin warns them that [[The Scions]] are very dangerous people. 
 
-Verena describes her vision as [[Vargus]] to Thomathin to question him of what she saw.
-- including his involvement
+They ask Thomathin more about Viicor Henry. He apparently had another brother names [[Inundale]]. who was stillborn Vicar Henry had also come to the shrouded district 5 years go after opening disagreeing with the quarantining of [[Ruby District]]. Somehow he thought he could help with the scourge activity in the [[Shrouded District]] but soon it became a hot spot for scourge activity. Lord Thomathin appears to believe that Vicor Henry is simply doing his best for the people, even if he is misguided, or causing more harm than good in the end.
 
-The cells in Verena's vision Thomathin claims must be from one of two places:
-- Locked door inside of the Abyssal keep, the prison in the [[Waterfront District]].
-- Experimental holding cells in the [[Newbridge District]] of Scions
+Thomathin thinks the Church is trying to turn the Shrouded district into the next Ruby district by cordoning them off,. They also have extablished that Thomathic was friends with [[Lord Philip]]. 
 
-He warns us that the Scions are *very* dangerous people.
-
-Psions craft the mannequins.
-
-Apparently Vicor Henry had another brother... that was supposedly stillborn at birth.
-- named [[Inundale]]? (Check spelling)
-He was established as the Vicor in the shrouded district 5 years ago.
-Apparently he suffered something quite brutally.
-He didn't like the Ruby district being quarantined.
-Thought he could help from the Shrouded district...
-- So the Shrouded district became a hot spot of scourge activity.
-
-Lord Thomathin appears to believe that Vicor Henry is simply doing his best for the people, even if he is misguided, or causing more harm than good in the end.
-
-Thomathin thinks the Church is trying to turn the Shrouded district into the next Ruby district. Cordoning them off
-- Thomathin seemed to allude to the Vicor not being himself, or something?
-Thomathin friends with Lord Phillip?
 > [!note] Make a page for Lord Phillip
 
 **Verena asks Thomathin**: Why doesn't the church approve of Alchemists?

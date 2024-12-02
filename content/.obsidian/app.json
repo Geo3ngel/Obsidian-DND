@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "files",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": false
 }

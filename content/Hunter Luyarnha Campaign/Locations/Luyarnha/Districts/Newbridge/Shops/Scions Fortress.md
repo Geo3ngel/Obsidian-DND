@@ -1,0 +1,1 @@
+The crowning jewel of the Newbridge District and the home of [[The Scions]]. It was constructed from the last surviving spire, a wonder of gothic architecture, igniting a transformation from that solitary point
