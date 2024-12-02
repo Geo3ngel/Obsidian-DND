@@ -10,14 +10,37 @@
           {
             "id": "09e15412844b9fd5",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 39.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DND Session 39"
+            }
+          },
+          {
+            "id": "d04fe29ee4d53d1d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/s39.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "s39"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,8 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09e15412844b9fd5",
+  "active": "d04fe29ee4d53d1d",
   "lastOpenFiles": [
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 39.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/s39.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/s38.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 40.md",
     "Oneshots/Campeigns/StarWars/Smuggling Vessel Crew.md",
     "Oneshots/Campeigns/StarWars/Session notes.md",
     "Oneshots/Campeigns/StarWars/Explorer Droid.md",
@@ -171,17 +198,13 @@
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Golden Bazar.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Grand Cathedral.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 40.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 39.md",
     "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/1 Master of the Hunt/Ludwig.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/s38.md",
     "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
     "Ramses Petalmouth.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
     "Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/Glouring Moon.md",
     "Hunter Luyarnha Campaign/Armory/Ammunition/Blessed Rosaries.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Rings/Ring of Solar's Sight.md",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
     "files/772526e41d4cf7ddc0dafd33c02ece5a.jpg",
     "Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating/Character inspiration.canvas",
