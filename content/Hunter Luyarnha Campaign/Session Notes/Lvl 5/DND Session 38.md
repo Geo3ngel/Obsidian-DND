@@ -18,7 +18,7 @@ Verena also Wanted to cast a spell from one of her tattoos to buff 3 melee weapo
 ---
 We open session with the light of the Eldritch moon descending....
 Madness rolls ensue!
-- Aand Dur'zoga fails! Badly!
+- And Dur'zoga fails! Badly!
 - She responds to the party now in another language! (What language?)
 Marinus passes the wisdom saving throw
 Grey talks his way out of it
@@ -28,7 +28,6 @@ Cello also makes a roll, and fails!
 	- She will auto fail charm saves.
 
 Massive clusters of Scourge Sewer Rats pour down the sewer
-
 
 [[Dream Weaver]] monster impacting memory loss from dreams for Waron?
 # References
