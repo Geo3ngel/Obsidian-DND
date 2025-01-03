@@ -13,7 +13,7 @@ Status: permanent
 **Species**: Male Half-orc
 **Met**: Yes
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Pack Lord
+**Rank**: [[Pack Lord]]
 
 > [!info] Specialization
 Defense
@@ -25,7 +25,3 @@ Thokk Bloodbather, The Armored Wall (Male Half-orc): A walking fortress of armor
 A gentle giant outside of combat and when in combat, prioritizing nearly everyone but his own safety, no one can remember a time he was seen killing a Scourge outside of self defense. 
 
 Dual wields the aberrant aegis.
-
----
-# References
-## [[000 Pack Lord]]

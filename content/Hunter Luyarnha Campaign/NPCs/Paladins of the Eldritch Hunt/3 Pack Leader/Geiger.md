@@ -14,7 +14,7 @@ Status: permanent
 **Species**: Human
 **Met**: Yes
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Pack Leader/Striker
+**Rank**:  [[Striker]]
 **Under Pack Lord**: [[Thokk]]
 
 > [!info] Specialization
@@ -26,7 +26,3 @@ A man who wears little to no armor, but carries a massive tower shield that he u
 He follows Thokk Bloodbather. 
 
 He uses the Barricade Shield.
-
----
-# References
-## [[000 Striker]]

@@ -14,7 +14,7 @@ Status: permanent
 **Species**: Belua Scourgeborne
 **Met**: No
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Pack Leader/Striker
+**Rank**:  [[Striker]]
 **Under Pack Lord**: [[Cona]]
 
 > [!info] Specialization
@@ -27,7 +27,3 @@ However, he hones his team’s sense of smell so they can tell each other apart 
 Follows Cona Organrender and is usually assigned frontal assaults.
 
 Huge, even larger than me!
-
----
-# References
-## [[000 Striker]]

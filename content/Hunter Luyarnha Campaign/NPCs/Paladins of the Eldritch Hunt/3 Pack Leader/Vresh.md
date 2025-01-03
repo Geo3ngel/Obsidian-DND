@@ -14,7 +14,7 @@ Status: permanent
 **Species**: Cervus Scourgeborne
 **Met**: Yes?
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Pack Leader/Striker
+**Rank**:  [[Striker]]
 **Under Pack Lord**: [[Cona]]
 
 > [!info] Specialization
@@ -26,7 +26,3 @@ A quiet, but aggressive leader whose short-spoken speeches make them a menacing 
 They are devoutly religious as well, often repeating scripture of The Radiant Faith and having it inscribed on the Kirkhammer they use. 
 
 Their team is the slow moving offense that pulls their defenses forward. They follow Cona’s orders.
-
----
-# References
-## [[000 Striker]]

@@ -5,7 +5,7 @@ Status: fleeting
   - Armory
   - Armor
 ---
-![[Pasted image 20240331012841.png]]
+![[Hunter's Coat.png]]
 
 ---
 # References

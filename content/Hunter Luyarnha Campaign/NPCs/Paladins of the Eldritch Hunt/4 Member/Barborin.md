@@ -12,7 +12,7 @@ Status: permanent
 **Nickname**: ???
 **Met**: Yes
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Stalker/Member?
+**Rank**: [[Stalker]]
 **Under Pack Leader/Striker**: [[Vresh]]
 
 > [!info] Specialization
@@ -25,9 +25,3 @@ He seemed to be covered in blood, gruff, somewhat rude initially. Made a comment
 - Seemed to imply he was fighting a monster in the water ways that was getting bigger no matter how much he cut them down.
 - So naturally Waron recommended him a bigger Axe for cutting down bigger monsters 
 	- He liked that. A lot lmao.
-
-
-
----
-# References
-## [[000 Stalker]]

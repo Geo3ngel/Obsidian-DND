@@ -4,6 +4,5 @@ Status: fleeting
 "Tags:":
   - Lore
 ---
-## WIP TEMPLATE!
----
-# References
+# Lore
+# Notes

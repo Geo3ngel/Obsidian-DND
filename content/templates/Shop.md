@@ -4,23 +4,17 @@ Status: permanent
 "Tags:":
   - Location
   - Shop
----
-# Shop Keep
-**Name**:
-**Description**:
-**Relationship with party**:
-
+  - "[[Shop Location Page]]"
 ---
 # Shop Details
 ## Specialization
-## Organization affiliations
-## Wares 
+### Organization affiliations
+## Shop Keep
+**Name**:
+**Description**:
+**Relationship with party**:
+# Wares 
 ## Additional Services
 
 ---
 # Party Notes
-
-
----
-# References
-## Located within [[X]]

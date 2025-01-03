@@ -17,7 +17,9 @@ Upon touch, they convey feelings of relief/euphoria.
 ![[heavens-hospice-menu.png]]
 
 ## House Special
-### The Celestial Sunrise
+### The Celestial Sunrise [150gp]
+The house special is her unique drink, The Celestial Sunrise, served with sunny-side up eggs, bacon and toast. (Gains the benefits of drinking the uncommon version of Celestial Sunrise [150 gp])
+#### Effect:
 Dark vision, magical & non-magical
 Can cast bright light out 40 feet from our mouth.
 - casts dim light for up to an additional 40 feet

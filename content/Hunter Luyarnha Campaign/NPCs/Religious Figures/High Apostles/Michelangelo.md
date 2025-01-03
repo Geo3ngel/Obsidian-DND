@@ -1,14 +1,28 @@
 ---
-Created: 2024/03/14 04:53
-Status: fleeting
+Created: 2024/11/18 16:24
+Status: permanent
 "Tags:":
   - DND
   - NPC
-  - Radiant Faith
-  - High Apostle
+  - "[[High Apostle]]"
+  - "[[Radiant Faith]]"
 ---
+# Character Details
+**Full Name**: Michelangelo ???
+**Nickname**: ?
+**Gender**: Male
+**Species**: ?
+**Met**: Encountered
+#### Organization affiliation: 
+The high apostle responsible for the [[Obulus Scholare]]
+# Description:
+
+---
+# Notes
 Some association with the sanctified district?
-- And Cello's master ([[Mrs. Minerva]])
+- And Cello's master ([[Lady Minerva]])
+	- one of the associates that was close with Minerva in her last days...
+## **Relationship with Party**:
 
 ---
 # References

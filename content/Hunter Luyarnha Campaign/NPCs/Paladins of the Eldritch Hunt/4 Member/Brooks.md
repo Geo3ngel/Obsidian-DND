@@ -12,12 +12,8 @@ Status: permanent
 **Nickname**: The Doorman
 **Met**: Yes
 #### Member of the Paladins of the Eldritch Hunt.
-**Rank**: Stalker/Member?
+**Rank**: [[Stalker]]
 **Under Pack Leader/Striker**: [[Faeleth]]
 
 > [!info] Specialization
 ???
-
----
-# References
-## [[000 Stalker]]

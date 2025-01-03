@@ -11,17 +11,8 @@ Status: permanent
 **Species**: ?
 **Met**: No
 #### Organization affiliation: 
-**Rank**: ?
-**Superior**: ?
-
-> [!info] Specialization
-?
 # Description:
 
 ---
 # Notes
-## **Relationship with Party**:
-
-
----
-# References
+## Relationship with Party:

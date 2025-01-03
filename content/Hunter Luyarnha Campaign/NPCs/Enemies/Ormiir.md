@@ -3,9 +3,10 @@ Created: 2024/03/10 03:49
 Status: fleeting
 "Tags:":
   - NPC
+  - "[[The Circle of Symbiosis]]"
 ---
 ### Current Status:
-Deceased. Killed by [[Semetra]] in her Possessed form during our initial encounter.
+*Deceased*. Killed by [[Semetra]] in her Possessed form during our initial encounter.
 ### Species:
 Some kind of Lichen[needs spelling check] (possibly wendigo variant?)
 #### Organizational affiliations:

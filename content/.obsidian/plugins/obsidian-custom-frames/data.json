@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "www.dndbeyond.com/characters/106269172/cyUMnB",
+      "displayName": "DnD-Beyond-Waron",
+      "icon": "dog",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
