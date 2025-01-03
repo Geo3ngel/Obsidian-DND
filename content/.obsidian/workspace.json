@@ -13,12 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DND Session 33"
+              }
             }
           }
         ]
@@ -38,9 +36,7 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "DND Session 34"
+              "pinned": true
             }
           }
         ]
@@ -63,9 +59,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -80,9 +74,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -90,9 +82,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -115,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +113,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for DND Session 34"
+              }
             }
           },
           {
@@ -134,12 +122,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from DND Session 34"
+              }
             }
           },
           {
@@ -150,9 +136,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -161,10 +145,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of DND Session 34"
+                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md"
+              }
             }
           }
         ]
@@ -184,11 +166,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96ce3e65f6f4ba9e",
+  "active": "683e6ab30b058ffd",
   "lastOpenFiles": [
+    "Hunter Luyarnha Campaign/Player Characters/Verena.md",
+    "Hunter Luyarnha Campaign/Player Characters/Narissa/How to play Narissah.md",
+    "Hunter Luyarnha Campaign/Player Characters/000 Luyarnha PC.md",
+    "Hunter Luyarnha Campaign/Player Characters/Cello.md",
+    "Hunter Luyarnha Campaign/Player Characters/Da'ul.md",
+    "Hunter Luyarnha Campaign/Player Characters/Dr. Dire (Backup Character).md",
+    "Hunter Luyarnha Campaign/Player Characters/Dur'zoga.md",
+    "Hunter Luyarnha Campaign/Player Characters/Grey.md",
+    "Hunter Luyarnha Campaign/Player Characters/Marinus.md",
+    "index.md",
+    "Pasted image 20241012215833.png",
+    "README.md",
+    "Hunter Luyarnha Campaign/Misc Lore/Types of Eldritch Moons/Untitled.canvas",
+    "Hunter Luyarnha Campaign/Misc Lore/Types of Eldritch Moons/Howling Moon.md",
+    "Hunter Luyarnha Campaign/Misc Lore/The War.md",
+    "Hunter Luyarnha Campaign/Misc Lore/Types of Eldritch Moons/Eldritch Moon.md",
+    "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
     "Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
     "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
-    "Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Amulet of Proof against Detection and Location (A).md",
@@ -198,21 +196,6 @@
     "Hunter Luyarnha Campaign/Armory/Weapons/Chain-linked Bale Hooks.md",
     "Hunter Luyarnha Campaign/Session Notes/DND Session 32.md",
     "Hunter Luyarnha Campaign/Armory/Weapons/Damascena.md",
-    "Pasted image 20241012215833.png",
-    "templates/Shop.md",
-    "Hunter Luyarnha Campaign/Session Notes/DND Session 4.md",
-    "Hunter Luyarnha Campaign/Session Notes/Memes/Narissa Banned Poster.md",
-    "Hunter Luyarnha Campaign/Session Notes/Memes/P.S.I Wyre.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Shops/Powdered Emporium.md",
-    "templates/DND NPC.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Newbridge District.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Savior's Servant.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Grand Cathedral.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple IDE.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Lugru.md",
     "Hunter Luyarnha Campaign/NPCs/Scions",
     "Hunter Luyarnha Campaign/NPCs/The Blood Cross",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Paterna Iter/Restaurants"

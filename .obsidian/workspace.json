@@ -1,110 +1,22 @@
 {
   "main": {
-    "id": "e62dbd42d4704e5d",
+    "id": "04359def41cd548a",
     "type": "split",
     "children": [
       {
-        "id": "fae65037ca2793db",
+        "id": "611fee5c22714198",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5f854eacbab2a5",
+            "id": "7a2fa014d254c301",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/Hunter Luyarnha Campaign/Session Notes/DND Session 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11df83d931eace36",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
-                "mode": "source",
-                "source": false
+                "file": "content/files/Armory/Ammunition/Bullets/blessed-rosaries.png"
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ae7735c29a3577e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Organizations/Scourge Faction/The Circle of Symbiosis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bab77aab84e0a528",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Physical Description.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "aa040afc7cc9fba5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
-                "viewState": {
-                  "x": -2710.6533808075915,
-                  "y": 1328.4714187757854,
-                  "zoom": -2.333333333333333
-                }
-              },
-              "pinned": true
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "9f724b8a19eb39af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f853ce074028f85d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Projects/Magic Item Concepts/Face Changing Mask.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d3a2d99c7846d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
-                "mode": "source",
-                "source": false
-              }
+              "icon": "lucide-image",
+              "title": "blessed-rosaries"
             }
           }
         ]
@@ -113,25 +25,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ad2c5cbd9b15714a",
+    "id": "780831bcf5c047aa",
     "type": "split",
     "children": [
       {
-        "id": "f50030e42c98ebd2",
+        "id": "c1f3320d54fbd6a9",
         "type": "tabs",
         "children": [
           {
-            "id": "2b28a1e35213969c",
+            "id": "cc3da018934f8177",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "f788f242a79c7f48",
+            "id": "c2dc1870e72e8494",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -142,38 +56,42 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "475115dbff7e5c95",
+            "id": "6b1d3d34e131cbab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 300
   },
   "right": {
-    "id": "6cfbeb9752a437f1",
+    "id": "b5fd7de7445593c3",
     "type": "split",
     "children": [
       {
-        "id": "3db492721462fac0",
+        "id": "bc2c946fca60eac5",
         "type": "tabs",
         "children": [
           {
-            "id": "96d61e05eb0c66e2",
+            "id": "85c420886a7fee3e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Projects/Magic Item Concepts/Face Changing Mask.md",
+                "file": "content/files/Armory/Ammunition/Bullets/blessed-rosaries.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,40 +99,48 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for blessed-rosaries"
             }
           },
           {
-            "id": "50c0b2dc4ca68dff",
+            "id": "c8e080cde1751608",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Projects/Magic Item Concepts/Face Changing Mask.md",
+                "file": "content/files/Armory/Ammunition/Bullets/blessed-rosaries.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from blessed-rosaries"
             }
           },
           {
-            "id": "4ce57c9aa42fcfeb",
+            "id": "a801b2650705ca21",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "247de46384732961",
+            "id": "d43cee269cd08ff3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Projects/Magic Item Concepts/Face Changing Mask.md"
-              }
+                "file": "content/files/Armory/Ammunition/Bullets/blessed-rosaries.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of blessed-rosaries"
             }
           }
         ]
@@ -231,57 +157,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "f853ce074028f85d",
+  "active": "cc3da018934f8177",
   "lastOpenFiles": [
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Pistol.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Flintlock.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Chain-linked Bale Hooks.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Blunderbuss.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Battlechef Field Dresser (A).md",
-    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Rifle Spear.md",
-    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Reiterpallasch.md",
-    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
-    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Church Pick.md",
-    "content/Hunter Luyarnha Campaign/Armory/Tools/Torture Tools.md",
-    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Mapping.md",
-    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Daylight.md",
-    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Burning Hands.md",
-    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Silken socks of slickening.md",
-    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Hat trick.md",
-    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Cloak of Protection (A).md",
-    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
-    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Amulet of Proof against Detection and Location (A).md",
-    "content/Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
-    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Shrapnel Bullet.md",
-    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Reinforced Ashwood Bullet.md",
-    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Pure Silvered Bullet.md",
-    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Lead Bullet.md",
-    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Laceration Round.md",
-    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Frozen Holy Water Bullet.md",
-    "content/Hunter Luyarnha Campaign/Armory/Ammunition/Explosive Bullet.md",
-    "content/files/comic-cello-learns-to-loot.png",
-    "content/files/hunters-coat.png",
-    "content/files/Armory/silken-socks-of-slickening.png",
-    "content/files/Armory/Pasted image 20240331012841.png",
-    "content/files/Armory/Pasted image 20240331012726.png",
-    "content/files/Armory/hat-trick.png",
-    "content/files/Armory/Utility/Bestial Incense.png",
-    "content/files/Armory/Utility/torture-tools.png",
-    "content/files/Armory/Utility",
-    "content/files/Armory/Utility/scroll-of-mapping.png",
-    "content/files/Armory/Weapons/rifle-spear.png",
-    "content/files/Armory/Ammunition/Bullets",
-    "content/files/Armory/Ammunition",
-    "content/files/Armory/Weapons",
+    "content/files/Armory/Ammunition/Bullets/shrapnel-bullet.png",
+    "content/files/Armory/Ammunition/Bullets/reinforced-ashwood.png",
+    "content/files/Armory/Ammunition/Bullets/blessed-rosaries.png",
+    "content/files/Armory/Ammunition/Bullets/pure-silver-bullets.png",
+    "content/files/Armory/Ammunition/Bullets/lead-bullet.png",
+    "content/files/Armory/Ammunition/Bullets/laceration-round.png",
+    "content/files/Armory/Ammunition/Bullets/frozen-holy-water-bullets.png",
+    "content/Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating/Sparks Fly Video.md",
+    "content/Hunter Luyarnha Campaign/Misc Lore/Types of Eldritch Moons/Untitled.canvas",
+    "content/Oneshots/Campeigns/Escape from the Asylum/Nisovin Campaign bits.md",
+    "content/Oneshots/Campeigns/Escape from the Asylum/Nisovin.md",
+    "content/Oneshots/Campeigns/Escape from the Asylum/Escape from the Asylum.md",
+    "content/Oneshots/Campeigns/Escape from the Asylum/ACT 2.md",
+    "content/Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/Cona.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Waterfront District.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shrouded District.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Sanctified District.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Quilandros Estate.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Oracle Tea House.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Central Park.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Cello's Mansion.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Ruby/Ruby District.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Ruby",
+    "content/templates/Shop.md",
+    "content/templates/Session.md",
+    "content/templates/Restaurant.md",
+    "content/templates/Organization.md",
+    "content/templates/Lore.md",
+    "content/templates/Location.md",
+    "content/templates/DND NPC.md",
+    "content/templates/Core Idea.md",
+    "content/templates",
+    "content/files/Nisovin-temp.png",
+    "content/files/Menus/LunaMenu.png",
+    "content/files/Menus/heavens-hospice-menu.png",
+    "content/files/Menus/battlechef-menu.png",
     "content/files/Menus",
-    "Menus",
-    "content/files/Armory",
     "content/files/Church",
-    "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
-    "DALLE2~1.web",
-    "Untitled"
+    "content/files/Armory/Ammunition/Bullets",
+    "content/files/Armory/Utility",
+    "content/files/Armory/Weapons",
+    "content/Hunter Luyarnha Campaign/Session Notes/Lvl 1 - Train to Luyarnha/DND Session 2.md",
+    "content/Hunter Luyarnha Campaign/Session Notes/Lvl 1 - Train to Luyarnha/DND Session 1.md",
+    "content/Hunter Luyarnha Campaign/Session Notes/Lvl 1 - Train to Luyarnha/DND Session 0.md",
+    "Untitled.canvas"
   ]
 }
