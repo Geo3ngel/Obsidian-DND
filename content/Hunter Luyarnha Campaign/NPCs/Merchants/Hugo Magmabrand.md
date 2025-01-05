@@ -7,7 +7,7 @@ Status: permanent
   - Merchant
 ---
 # Character Details
-**Full Name**: Hugaby Magmabrand
+**Full Name**: Hugaby Melvin Magmabrand
 **Nickname**: Hugo Magmabrand
 **Gender**: Male
 **Species**: Human
