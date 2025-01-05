@@ -10,6 +10,7 @@ Status: permanent
 # Character Details
 **Full Name**: Gorrix the Immortal
 **Met**: No
+![[Gorrix.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: [[Stalker]]
 **Under Pack Leader/Striker**: ???

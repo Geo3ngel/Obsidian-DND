@@ -11,7 +11,7 @@ TODO: Describe what rank this is effectively within the Radiant Church.
 # Cohort
 ## [[Legarious]]
 ## [[Michelangelo]]
-## [[Nevallah]]
+## [[Nevella]]
 
 # Notes
 

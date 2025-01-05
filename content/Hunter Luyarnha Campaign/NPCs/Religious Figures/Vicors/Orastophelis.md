@@ -8,12 +8,10 @@ Status: fleeting
   - Vicor
 ---
 A high ranking member of the Radiant church.
-Under the command of high Apostle [[Nevallah]]
-
+Under the command of high Apostle [[Nevella]]
+![[Vicor Orastophelis.png]]
 #### Species: 
 Manakin
-
-Is this the jackass that initially refused to revive Marinus?
 
 
 

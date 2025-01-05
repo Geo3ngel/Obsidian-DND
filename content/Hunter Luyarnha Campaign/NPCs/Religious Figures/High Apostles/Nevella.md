@@ -8,11 +8,12 @@ Status: permanent
   - "[[Radiant Faith]]"
 ---
 # Character Details
-**Full Name**: Nevallah ???
+**Full Name**: High Apostle Nevella ???
 **Nickname**: ?
-**Gender**: ?
+**Gender**: Male
 **Species**: ?
-**Met**: ?
+**Met**: Yes
+![[High Apostle Nevella.png]]
 #### Organization affiliation: 
 Responsible for overseeing the [[High Enclave]], [[The House of Blood]], and possibly one more organization
 # Description:

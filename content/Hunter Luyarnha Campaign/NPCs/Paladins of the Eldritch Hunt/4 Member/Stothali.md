@@ -11,6 +11,7 @@ Status: permanent
 **Full Name**: Stothali ???
 **Nickname**: Stothali the Masked Menace
 **Met**: No
+![[Stothali.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: [[Stalker]]
 **Under Pack Leader/Striker**:

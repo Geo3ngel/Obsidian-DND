@@ -154,7 +154,7 @@ He claims that these services (treatments) can save me... though he will not act
 - Waron responded: "But I don't want to be perfect. I *want* to be Waron."
 > [!info] Waron's decision
 > Waron seeks further understanding of his curse/predicament before he's willing to continue with these procedures...
-> - I should also seek out high apostle [[Nevallah]]
+> - I should also seek out high apostle [[Nevella]]
 > So he walked out mid-procedure after having his blood drawn.
 > - Some aspect of "Her" left him.
 > 	- Just what are they doing though with his blood...?
