@@ -13,6 +13,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Human
 **Met**: Yes
+![[Geiger Steelveins.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**:  [[Striker]]
 **Under Pack Lord**: [[Thokk]]

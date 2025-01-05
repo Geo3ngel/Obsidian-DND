@@ -12,6 +12,7 @@ Status: permanent
 **Gender**: Male
 **Species**: 
 **Met**: Yes
+![[Ludwig.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: Master (Head of the organization)
 #### Specialization

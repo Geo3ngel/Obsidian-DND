@@ -10,6 +10,7 @@ Status: permanent
 **Gender**: ?
 **Species**: Some kind of Scourge Wendigo??
 **Met**: Encountered. Not "met"
+![[Veiled Hunter.png]]
 #### Organization affiliation: 
 ???
 

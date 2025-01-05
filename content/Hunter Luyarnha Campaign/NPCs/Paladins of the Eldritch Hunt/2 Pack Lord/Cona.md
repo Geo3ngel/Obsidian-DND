@@ -14,6 +14,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Belua Scourgeborne
 **Met**: Yes
+![[Cona Organrender.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: Pack Lord
 **Under Pack Lord**: ???

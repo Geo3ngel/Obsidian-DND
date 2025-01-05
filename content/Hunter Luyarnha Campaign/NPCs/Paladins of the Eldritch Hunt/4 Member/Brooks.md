@@ -11,9 +11,11 @@ Status: permanent
 **Full Name**: Brooks Veekskraut
 **Nickname**: The Doorman
 **Met**: Yes
+![[Brooks.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: [[Stalker]]
-**Under Pack Leader/Striker**: [[Faeleth]]
+**Under Pack Leader/Striker**: [[Geiger]]
 
 > [!info] Specialization
-???
+Big Sheild
+

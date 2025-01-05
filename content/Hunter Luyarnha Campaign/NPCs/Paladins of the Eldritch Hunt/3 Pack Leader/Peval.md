@@ -13,6 +13,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Vespertilio Scourgeborne
 **Met**: No
+![[Peval Hollowcrest.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**:  [[Striker]]
 **Under Pack Lord**: [[Thokk]]

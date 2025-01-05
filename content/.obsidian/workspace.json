@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "aade37317b8eeaad",
+        "id": "da5e418363f1cb65",
         "type": "tabs",
         "children": [
           {
-            "id": "09e15412844b9fd5",
+            "id": "448c434937d463f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 40.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Session 40"
+              "title": "Hugo Magmabrand"
+            }
+          },
+          {
+            "id": "2c2ab132beec7dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 41.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DND Session 41"
+            }
+          },
+          {
+            "id": "6f3a4dee4cbb41e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dream Executioner"
+            }
+          },
+          {
+            "id": "97afc4ffe260db8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/NPCs/Scions/Delihlah Carmichael.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Delihlah Carmichael"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 318.5
   },
   "right": {
     "id": "c6f9daeb4ff0dba5",
@@ -158,56 +201,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09e15412844b9fd5",
+  "active": "97afc4ffe260db8c",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Scions.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Shops/Scions Fortress.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Newbridge District.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/Scions.md",
-    "Oneshots/Campeigns/StarWars/Smuggling Vessel Crew.md",
-    "Oneshots/Campeigns/StarWars/Session notes.md",
-    "Oneshots/Campeigns/StarWars/Explorer Droid.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/Bit Ideas.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 38.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Hat trick.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Blood Crystal.md",
-    "Hunter Luyarnha Campaign/NPCs/Enemies/Ormiir.md",
-    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
-    "Hunter Luyarnha Campaign/NPCs/Unclassified/Kysus Borovir.md",
-    "templates/DND NPC.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Golden Bazar.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Grand Cathedral.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 40.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 39.md",
+    "files/Delihlah Carmichael.png",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/The Curator.md",
+    "Hunter Luyarnha Campaign/NPCs/Scions/Delihlah Carmichael.md",
+    "files/The Curator.png",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/4 Member/Valypsis.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/4 Member/Stothali.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/4 Member/Gorrix.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/4 Member/Brooks.md",
+    "files/Brooks.png",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/5 Initiate/Jenson.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/5 Initiate/Karolin Kipper.md",
+    "files/Pasted image 20250104204531.png",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Einala.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Exomnus.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Faeleth.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Geiger.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Peval.md",
+    "files/Peval Hollowcrest.png",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/3 Pack Leader/Vresh.md",
+    "files/Vresh.png",
+    "files/Faeleth Crimsonrest.png",
+    "files/Geiger Steelveins.png",
+    "files/Einala Tongueless.png",
+    "files/Exomnus Beastbreaker.png",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/Thokk.md",
+    "files/Thokk Bloodbather.png",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/2 Pack Lord/Cona.md",
     "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/1 Master of the Hunt/Ludwig.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/s38.md",
-    "Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Enlightened Scholar.md",
-    "Ramses Petalmouth.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Stoneshakers/Gor'daoz Stoneshaker.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Stoneshakers/Galena Smoothhide.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws",
+    "Hunter Luyarnha Campaign/NPCs/Unclassified/Kysus Borovir.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Stoneshakers",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Leyia.md",
+    "Hunter Luyarnha Campaign/Organizations/Families/Shaws/Shaws.md",
+    "Hunter Luyarnha Campaign/Organizations/Families/Silver Bloods/Silverbloods.md",
+    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Abraham.md",
+    "Hunter Luyarnha Campaign/Organizations/Families/Shaws",
+    "Hunter Luyarnha Campaign/NPCs/Families/Shaws",
+    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Rania Pelecos.md",
+    "Hunter Luyarnha Campaign/NPCs/Families",
+    "Oneshots/Campeigns/StarWars/Sessions",
+    "Oneshots/Campeigns/StarWars/Team mates",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
-    "files/772526e41d4cf7ddc0dafd33c02ece5a.jpg",
     "Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating/Character inspiration.canvas",
-    "files/Geiger's followers - Tower Shield.png",
-    "files/Sword of the Pack Leader.png",
-    "files/Mantle of the Pack Lord.png",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Restaurants",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Shops",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Ruby/Restaurants",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Ruby/Shops",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Ranks",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/The Radiant Fath/Ranks",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders/The Radiant Fath",
-    "Hunter Luyarnha Campaign/Lore/Religious Orders",
-    "Hunter Luyarnha Campaign/NPCs/Restaurant Servers",
-    "files/Cross-Bladed Crossbow.png",
-    "files/Firestorm Trap.png",
-    "files/Ring of Solar's Sight.png",
-    "files/Hushed Ring (A).png",
-    "files/Boots of the Cloud Jumper (A).png",
-    "files/Militiamen's Badge.png",
     "TestPublish.canvas"
   ]
 }

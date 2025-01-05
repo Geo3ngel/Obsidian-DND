@@ -13,6 +13,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Arachnea Scourgeborne
 **Met**: No
+![[Einala Tongueless.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: [[Striker]]
 **Under Pack Lord**: [[Cona]]

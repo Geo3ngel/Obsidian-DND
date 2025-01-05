@@ -8,11 +8,12 @@ Status: permanent
   - Vicor
 ---
 # Character Details
-**Full Name**: Abraham ???
+**Full Name**: Abraham Quilldon
 **Nickname**: ?
 **Gender**: Male
 **Species**: ?
 **Met**: Yes
+![[Abraham Quilldon.png]]
 #### Organization affiliation: 
 Head of [[The Luminary Scribes]]
 - Works in the [[Luminary Repository]]

@@ -6,11 +6,12 @@ Status: permanent
   - "[[Jaeger Meister]]"
 ---
 # Character Details
-**Full Name**: Jaeger Meister Calvin
+**Full Name**: 1. Jaegermeister Calvin Ettelebrooke
 **Nickname**: ?
 **Gender**: Male
 **Species**: ?
 **Met**: Yes
+![[Calvin Ettelebrooke.png]]
 #### Organization affiliation: 
 [[Jaegers]]
 - Also seems to be a patron of [[The Hunter's Workshop]]

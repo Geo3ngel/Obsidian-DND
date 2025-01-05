@@ -13,6 +13,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Belua Scourgeborne
 **Met**: No
+![[Exomnus Beastbreaker.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**:  [[Striker]]
 **Under Pack Lord**: [[Cona]]

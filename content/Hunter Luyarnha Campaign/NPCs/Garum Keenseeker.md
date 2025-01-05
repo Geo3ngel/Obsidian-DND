@@ -19,5 +19,5 @@ He's the creator of custom gear for Jaegers in [[The Hunter's Workshop]]
 A famous inventor and rival of Hugo.
 - Apparently he's known as "The Man" for custom arms creation.
 	- Hugo's clearly jealous of his reputation
-Invented [[Greisha Bearknuckle]]’s brass knuckles called “The Fists of Greisha”.
+Invented [[Gratia Bearknuckle]]’s brass knuckles called “The Fists of Greisha”.
 ## **Relationship with Party**:

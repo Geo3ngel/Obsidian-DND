@@ -12,6 +12,8 @@ Status: permanent
 **Gender**: Male
 **Species**: Male Half-orc
 **Met**: Yes
+![[Thokk Bloodbather - face.png]]
+![[Thokk Bloodbather.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: [[Pack Lord]]
 

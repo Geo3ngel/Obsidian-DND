@@ -13,6 +13,7 @@ Status: permanent
 **Gender**: Non-binary
 **Species**: Cervus Scourgeborne
 **Met**: Yes?
+![[Vresh.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**:  [[Striker]]
 **Under Pack Lord**: [[Cona]]

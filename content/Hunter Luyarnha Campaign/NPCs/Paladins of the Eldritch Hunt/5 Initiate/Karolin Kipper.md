@@ -1,20 +1,18 @@
 ---
-Created: 2024/11/18 17:13
+Created: 2025/01/04 20:46
 Status: permanent
 "Tags:":
   - NPC
 ---
 # Character Details
-**Full Name**: Rania Pelecos
+**Full Name**: Initiate Karolin Kipper
 **Nickname**: ?
 **Gender**: Female
 **Species**: ?
-**Met**: Yes
-![[Pasted image 20250104201523.png]]
+**Met**: No
 #### Organization affiliation: 
 # Description:
 
 ---
 # Notes
-## **Relationship with Party**:
-Begrudgingly cooperative.
+## Relationship with Party:

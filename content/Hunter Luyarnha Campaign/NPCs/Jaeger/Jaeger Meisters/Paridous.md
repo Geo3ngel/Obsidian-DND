@@ -11,9 +11,9 @@ Status: permanent
 **Gender**: ?
 **Species**: [[Demidritch]]
 **Met**: Yes
-#### Organization affiliation: [[The Blood Cross]]
-**Rank**: ?
-**Superior**: ?
+#### Organization affiliation: 
+The [[Jaeger Program]]/[[Jaegers]]
+**Rank**: Jaegermeister
 
 > [!info] Specialization
 > Healing/Summoning. Presumably a Cleric of sorts.

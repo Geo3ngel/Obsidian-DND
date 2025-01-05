@@ -13,6 +13,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Elf/Half-elf?
 **Met**: Yes
+![[Jaeger Meister Symetra Starseer.png]]
 #### Organization affiliation:
 # Description:
 

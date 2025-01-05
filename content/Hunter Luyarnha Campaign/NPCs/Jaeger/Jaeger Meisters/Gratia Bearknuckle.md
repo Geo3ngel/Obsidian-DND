@@ -8,11 +8,12 @@ Status: permanent
   - "[[Paterna Iter]]"
 ---
 # Character Details
-**Full Name**: Greisha Bareknuckle
+**Full Name**: Gratia Bareknuckle
 **Nickname**: ?
 **Gender**: Female
 **Species**: Half Orc
 **Met**: Yes
+![[Jaeger Meister Gratia Bareknuckle.png]]
 #### Organization affiliation: 
 # Description:
 A hulking, well muscles, half orc woman

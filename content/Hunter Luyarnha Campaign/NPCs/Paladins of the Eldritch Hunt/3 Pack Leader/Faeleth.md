@@ -12,6 +12,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Elf
 **Met**: Yes
+![[Faeleth Crimsonrest.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**:  [[Striker]]
 **Under Pack Lord**: [[Thokk]]

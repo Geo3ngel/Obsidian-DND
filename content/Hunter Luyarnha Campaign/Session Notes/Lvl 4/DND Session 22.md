@@ -10,7 +10,7 @@ Status: fleeting
 We start off in Hugo's shop, [[The powdered Emporium]] at the end of the moon.
 
 Maybe we should seek out that hunter we rescued?
-- The wounded hunter, named [[Borast]] under [[Greisha Bearknuckle]]'s command
+- The wounded hunter, named [[Borast]] under [[Gratia Bearknuckle]]'s command
 ---
 # Session Notes
 ---
@@ -69,7 +69,7 @@ A single squad survived this beast's madness...
 - with a single survivor
 - Jaeger Meister Calvin. He's not mad, he's not sane... just, different.
 	- He managed to avoid whatever that creature did to him by removing his own eyes.
-	- He's the assistant to [[Greisha Bearknuckle]]
+	- He's the assistant to [[Gratia Bearknuckle]]
 
 [[Vicor Rhanya]] was one of the best luminary scribes...
 - she seems cold

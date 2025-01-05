@@ -5,11 +5,12 @@ Status: permanent
   - NPC
 ---
 # Character Details
-**Full Name**: {title} ???
+**Full Name**: Initiate Lucas Jenson
 **Nickname**: ?
-**Gender**: ?
+**Gender**: Male
 **Species**: ?
 **Met**: Yes
+![[Pasted image 20250104204531.png]]
 #### Organization affiliation: 
 Initiate in the Paladins of the Eldritch Hunt.
 **Rank**: [[Scout]]
