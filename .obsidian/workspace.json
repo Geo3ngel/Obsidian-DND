@@ -1,117 +1,20 @@
 {
   "main": {
-    "id": "e62dbd42d4704e5d",
+    "id": "04359def41cd548a",
     "type": "split",
     "children": [
       {
-        "id": "fae65037ca2793db",
+        "id": "90bb240e3d3c4a38",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5f854eacbab2a5",
+            "id": "1cd66406a59d9f6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Session Notes/DND Session 32.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DND Session 32"
-            }
-          },
-          {
-            "id": "11df83d931eace36",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "The Sanctified Sinner"
-            }
-          },
-          {
-            "id": "ae7735c29a3577e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Organizations/Scourge Faction/The Circle of Symbiosis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Circle of Symbiosis"
-            }
-          },
-          {
-            "id": "bab77aab84e0a528",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Physical Description.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Waron - Physical Description"
-            }
-          },
-          {
-            "id": "a22b76260f38e8b7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "9f724b8a19eb39af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dab43eb055b865a2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "DND Session 34"
-            }
-          },
-          {
-            "id": "30d3a2d99c7846d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cello Learns to Loot"
+              "title": "New tab"
             }
           }
         ]
@@ -120,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ad2c5cbd9b15714a",
+    "id": "780831bcf5c047aa",
     "type": "split",
     "children": [
       {
-        "id": "f50030e42c98ebd2",
+        "id": "c1f3320d54fbd6a9",
         "type": "tabs",
         "children": [
           {
-            "id": "2b28a1e35213969c",
+            "id": "cc3da018934f8177",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -140,7 +43,7 @@
             }
           },
           {
-            "id": "f788f242a79c7f48",
+            "id": "c2dc1870e72e8494",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -157,7 +60,7 @@
             }
           },
           {
-            "id": "475115dbff7e5c95",
+            "id": "6b1d3d34e131cbab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -170,22 +73,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 300
   },
   "right": {
-    "id": "6cfbeb9752a437f1",
+    "id": "b5fd7de7445593c3",
     "type": "split",
     "children": [
       {
-        "id": "3db492721462fac0",
+        "id": "bc2c946fca60eac5",
         "type": "tabs",
         "children": [
           {
-            "id": "96d61e05eb0c66e2",
+            "id": "85c420886a7fee3e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/files/Armory/Ammunition/Bullets/blessed-rosaries.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,24 +99,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for blessed-rosaries"
             }
           },
           {
-            "id": "50c0b2dc4ca68dff",
+            "id": "c8e080cde1751608",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/files/Armory/Ammunition/Bullets/blessed-rosaries.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from blessed-rosaries"
             }
           },
           {
-            "id": "4ce57c9aa42fcfeb",
+            "id": "a801b2650705ca21",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -225,13 +130,15 @@
             }
           },
           {
-            "id": "247de46384732961",
+            "id": "d43cee269cd08ff3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "content/files/Armory/Ammunition/Bullets/blessed-rosaries.png"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of blessed-rosaries"
             }
           }
         ]
@@ -248,56 +155,61 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a22b76260f38e8b7",
+  "active": "cc3da018934f8177",
   "lastOpenFiles": [
-    "content/Hunter Luyarnha Campaign/Session Notes/DND Session 34.md",
-    "content/files/Armory/BloodCrystal.png",
     "content/Hunter Luyarnha Campaign/Quest Board/Active Quests/Durzoga's Father.md",
-    "content/Hunter Luyarnha Campaign/Quest Board/Active Quests/Untitled.md",
     "content/Hunter Luyarnha Campaign/Quest Board/Active Quests/Cello's Box.md",
-    "content/Hunter Luyarnha Campaign/Quest Board/TODO Quests",
-    "content/Hunter Luyarnha Campaign/Quest Board/Untitled",
-    "content/Hunter Luyarnha Campaign/Quest Board/Completed Quests",
     "content/Hunter Luyarnha Campaign/Quest Board/Active Quests",
     "content/Hunter Luyarnha Campaign/Quest Board",
-    "content/Hunter Luyarnha Campaign/Untitled",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Restaurants/Luna.md",
-    "content/files/comic-cello-learns-to-loot.png",
-    "content/files/hunters-coat.png",
-    "content/files/luyarnha-city-overview.png",
-    "content/files/Narissa-banned-meme.png",
-    "content/files/Nisovin-temp.png",
-    "content/files/paladin-oath-of-eldritch-hunt-desc.png",
-    "content/files/Pasted image 20240615203658.png",
-    "content/files/Menus/battlechef-menu.png",
-    "content/files/Menus/heavens-hospice-menu.png",
-    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Blood Crystal.md",
-    "content/Hunter Luyarnha Campaign/Armory/Magic Items/Beastial Incense.md",
-    "content/Hunter Luyarnha Campaign/Session Notes/DND Session 33.md",
-    "content/Hunter Luyarnha Campaign/Session Notes/DND Session 3.md",
-    "content/Projects/Magic Item Concepts/Face Changing Mask.md",
-    "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron - Physical Description.md",
-    "content/Hunter Luyarnha Campaign/Organizations/Scourge Faction/The Circle of Symbiosis.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Pistol.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Flintlock.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Chain-linked Bale Hooks.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Blunderbuss.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Battlechef Field Dresser (A).md",
-    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Rifle Spear.md",
-    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Reiterpallasch.md",
-    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
-    "content/Hunter Luyarnha Campaign/Armory/Trick Weapons/Church Pick.md",
-    "content/Hunter Luyarnha Campaign/Armory/Tools/Torture Tools.md",
-    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Mapping.md",
-    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Daylight.md",
-    "content/Hunter Luyarnha Campaign/Armory/Spell Scrolls/Scroll of Burning Hands.md",
-    "content/files/Armory/Utility",
-    "content/files/Armory/Ammunition/Bullets",
-    "content/files/Armory/Ammunition",
-    "content/files/Armory/Weapons",
-    "content/Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas"
+    "content/Hunter Luyarnha Campaign/Organizations/Gangs/Wayfairers.md",
+    "content/Hunter Luyarnha Campaign/Organizations/Gangs/Scavengers.md",
+    "content/Hunter Luyarnha Campaign/Organizations/Gangs/Fabricators.md",
+    "content/Hunter Luyarnha Campaign/Organizations/Gangs",
+    "content/Hunter Luyarnha Campaign/Organizations/Families/Silver Bloods/Silverbloods.md",
+    "content/Hunter Luyarnha Campaign/Organizations/Families/Silver Bloods",
+    "content/Hunter Luyarnha Campaign/Organizations/Families/Moon Golds/Moongolds.md",
+    "content/Hunter Luyarnha Campaign/Organizations/Families/Moon Golds",
+    "content/Hunter Luyarnha Campaign/Organizations/Families/Ember Hearts/Emberhearts.md",
+    "content/Hunter Luyarnha Campaign/Organizations/Families/Ember Hearts",
+    "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Zachariah Schröder.md",
+    "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Semetra.md",
+    "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Greisha Bearknuckle.md",
+    "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Calvin.md",
+    "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Shops/Waterfront - Shops.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Shops",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Restaurants/Waterfront - Restaurants.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Restaurants",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/The Chipped Shoulder.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Shrouded - Shops.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Chet's Drug Shop.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/The Busted Barrel.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/Shrouded District - Restaurants.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Shops/Sanctified District - Shops.md",
+    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Restaurants/Newbridge - Restaurants.md",
+    "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Pistol.md",
+    "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Blunderbuss.md",
+    "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Damascena.md",
+    "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Flintlock.md",
+    "content/Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
+    "content/files/fox-cup.png",
+    "content/files/dream-lily.png",
+    "content/files/Sword of the Pack Leader.png",
+    "content/files/Slippers of Spider Climbing (A).png",
+    "content/files/Ring of Solar's Sight.png",
+    "content/files/Phantom Limb (A).png",
+    "content/files/Pasted image 20241118013131.png",
+    "content/files/Pasted image 20241118012602.png",
+    "content/files/Pasted image 20241117135128.png",
+    "content/files/Pasted image 20241117135024.png",
+    "content/Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/Untitled.canvas",
+    "content/Hunter Luyarnha Campaign/Misc Lore/Types of Eldritch Moons/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }
