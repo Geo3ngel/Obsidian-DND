@@ -11,6 +11,7 @@ Status: permanent
 **Full Name**: Barborin Yorgin
 **Nickname**: ???
 **Met**: Yes
+![[Barborin-Yorgrim.png]]
 #### Member of the Paladins of the Eldritch Hunt.
 **Rank**: [[Stalker]]
 **Under Pack Leader/Striker**: [[Vresh]]
