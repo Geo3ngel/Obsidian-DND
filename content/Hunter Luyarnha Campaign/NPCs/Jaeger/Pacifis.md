@@ -7,12 +7,14 @@ Status: permanent
 # Character Details
 **Full Name**: Pacifis
 **Nickname**: ?
-**Gender**: Female
+**Gender**: Male
 **Species**: ?
 **Met**: No
 ![[Pacifis.png]]
 #### Organization affiliation: 
+[[Jaegers]]
 # Description:
+Jaeger in charge of manning the gate to the Sanctified district.
 
 ---
 # Notes
