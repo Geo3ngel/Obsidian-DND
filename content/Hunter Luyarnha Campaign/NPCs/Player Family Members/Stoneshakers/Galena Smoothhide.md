@@ -11,7 +11,7 @@ Status: permanent
 **Species**: ?
 **Met**: No
 ![[Galena Smoothhide.png]]
-#### Organization affiliation: 
+#### Familial affiliation: [[Dur'zoga]]'s mother
 # Description:
 
 ---

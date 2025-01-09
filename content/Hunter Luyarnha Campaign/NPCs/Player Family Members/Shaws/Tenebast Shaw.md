@@ -1,17 +1,17 @@
 ---
-Created: 2025/01/04 20:26
+Created: 2025/01/05 01:04
 Status: permanent
 "Tags:":
   - NPC
 ---
 # Character Details
-**Full Name**: Gor'daoz Stoneshaker
+**Full Name**: Tenebast Shaw
 **Nickname**: ?
 **Gender**: Male
-**Species**: Orc
+**Species**: Tiefling
 **Met**: No
-![[Gor'daoz Stoneshaker.png]]
-#### Familial affiliation: [[Dur'zoga]]'s Father
+![[Tenebast Shaw.png]]
+#### Familial affiliation: [[Narissa]]'s father
 # Description:
 
 ---
