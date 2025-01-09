@@ -12,7 +12,7 @@ The Busted Barrel (originally called The Bustling Barrel): This humble tavern is
 ## [[Planters Fix]]
 ---
 # Menu
-![[Pasted image 20241117135128.png]]
+![[Busted-barrel-menu.png]]
 
 ## House Special
 The house special is a shot of Wispy Sour from the previous owner’s private stash, which Planters tries to pass off as his own recipe, the common version is his recipe, the uncommon version is the original recipe. (Gain the benefits of the uncommon variant to Wispy Sour) [100 gp]

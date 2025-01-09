@@ -10,7 +10,7 @@ Status: permanent
 **Gender**: Male
 **Species**: ?
 **Met**: Yes
-![[Pasted image 20250104204531.png]]
+![[Initiate-Jenson.png]]
 #### Organization affiliation: 
 Initiate in the Paladins of the Eldritch Hunt.
 **Rank**: [[Scout]]

@@ -14,7 +14,7 @@ Greek Pantheon Themed Tavern run by a rambunctious male half-elf named [[Ramses 
 
 ---
 # Menu
-![[Pasted image 20241117134930.png]]
+![[Oracles-Tea-house-menu.png]]
 
 ## House Special
 The house special is some of the rarest wine that can ever be found in Luyarnha, Aged Goodberry Wine from 900 AD, when the [[Silverbloods]] first took power. [240 gp]

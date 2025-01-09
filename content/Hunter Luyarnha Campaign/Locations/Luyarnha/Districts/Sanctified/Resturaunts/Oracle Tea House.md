@@ -14,7 +14,7 @@ The servers here are familiars of the staff
 
 ---
 # Menu
-![[Pasted image 20241117134930.png]]
+![[Oracles-Tea-house-menu.png]]
 ## House Special
 
 # Notes
