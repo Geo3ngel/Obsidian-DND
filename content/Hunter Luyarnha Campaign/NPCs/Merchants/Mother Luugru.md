@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Scourgeborne (elk variant)
 **Met**: Yes
+![[Mother-Lugru.png]]
 #### Organization affiliation: 
 Her shop is sponsored by the [[Obulus Scholare]]
 # Description:

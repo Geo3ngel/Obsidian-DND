@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Mannequin
 **Met**: Yes
+![[Rusty.png]]
 #### Organization affiliation: 
 Neutral party meant to keep the balance between the [[Emberhearts]] and the [[Moongolds]] co-ownership over [[Daefied Death Bringers]].
 # Description:

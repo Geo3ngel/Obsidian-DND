@@ -6,11 +6,12 @@ Status: permanent
   - Merchant
 ---
 # Character Details
-**Full Name**: Luna (Last name not currently known)
+**Full Name**: Luna (Last name not currently known) Vakshire
 **Nickname**: ?
 **Gender**: Female
 **Species**: Aasimar
 **Met**: Yes
+![[Luna Vakshire.png]]
 #### Organization affiliation: [[Heaven's Hospice]]
 # Description:
 The server at the Heaven's Hospice.

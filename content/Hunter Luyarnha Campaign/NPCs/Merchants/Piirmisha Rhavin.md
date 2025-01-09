@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Scourgeborne Vespertilio (bat)
 **Met**: Yes
+![[Piirmisha Rhavin.png]]
 #### Organization affiliation: 
 Shop keep of [[Radiant Order Amenities]]
 # Description:

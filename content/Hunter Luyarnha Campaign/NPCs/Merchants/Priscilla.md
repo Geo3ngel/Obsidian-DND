@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Mannequin
 **Met**: Yes (Marinus only)
+![[Priscilla.png]]
 #### Organization affiliation: 
 Shop keep for [[The Hunter's Workshop]]'s front desk.
 She deals with non-jaeger customers.

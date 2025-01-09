@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Male
 **Species**: ? (Human presumably?)
 **Met**: Yes
+![[Idris-Eisenthorp.png]]
 #### Organization affiliation: 
 [[The House of Blood]]
 Shop keep of [[The Sanctified Sinner]]

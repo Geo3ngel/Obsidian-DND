@@ -1,16 +1,16 @@
 ---
-Created: 2025/01/04 20:20
+Created: 2025/01/09 09:54
 Status: permanent
 "Tags:":
   - NPC
 ---
 # Character Details
-**Full Name**: Leyia
+**Full Name**: {title} ???
 **Nickname**: ?
-**Gender**: Female
-**Species**: human
-**Met**: No (In Waron's dreams)
-![[Leyia.png]]
+**Gender**: ?
+**Species**: ?
+**Met**: Yes
+![[Bravish-Deepfist.png]]
 #### Organization affiliation: 
 # Description:
 

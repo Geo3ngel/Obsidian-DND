@@ -14,7 +14,7 @@ Jaeger weaponry, and martial (non-ranged) weapons.
 The primary shop of the Jaeger program. Their special wares are only available to Jaegers, the rest Priscilla serves at the front for others to purchase from
 ## Shop Keep
 **Name**: [[Priscilla]]
-**Description**: A doll-faced Manikin, aid to [[Garum Keenseeker]], and responsible for serving non-jaegers. She has a calm, emotionless demeanor who treats each person with a gentle voice, a harsh contract to the violent weaponry she sells.
+**Description**: A doll-faced Manikin, aid to [[Gehram Keenseeker]], and responsible for serving non-jaegers. She has a calm, emotionless demeanor who treats each person with a gentle voice, a harsh contract to the violent weaponry she sells.
 **Relationship with party**: Neutral
 # Wares 
 ### Weaponry
@@ -42,4 +42,4 @@ The primary shop of the Jaeger program. Their special wares are only available t
 
 ---
 # Party Notes
-Apparently [[Garum Keenseeker]] might be willing to make weapons for special customers that aren't Jaegers, provided they do some favors, or are friends with him through some other means.
+Apparently [[Gehram Keenseeker]] might be willing to make weapons for special customers that aren't Jaegers, provided they do some favors, or are friends with him through some other means.

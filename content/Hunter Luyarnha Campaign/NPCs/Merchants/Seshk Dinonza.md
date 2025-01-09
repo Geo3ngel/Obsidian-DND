@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: ?
 **Species**: Mirage cursed blood
 **Met**: Yes
+![[Seshk Dinonza.png]]
 #### Organization affiliation:
 Shop keep of [[Royal Silver's Luster]]
 # Description:

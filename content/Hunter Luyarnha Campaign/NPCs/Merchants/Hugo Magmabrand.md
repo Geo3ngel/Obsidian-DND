@@ -13,6 +13,8 @@ Status: permanent
 **Species**: Human
 Real Age: 26
 **Met**: Yes
+![[Hugo-magmabrand.png]]
+![[Hugo-Magmabrand-fake-beard.png]]
 #### Organization affiliation:
 Shop keep of the [[Powdered Emporium]]
 # Description:

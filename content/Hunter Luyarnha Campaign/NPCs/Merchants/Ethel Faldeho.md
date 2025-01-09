@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Human
 **Met**: Yas!
+![[Ethel Faldeho.png]]
 #### Organization affiliation: 
 One of the two shop keeps of [[Bad Bitches With Mean Stitches]]
 # Description:

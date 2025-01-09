@@ -10,6 +10,7 @@ Status: permanent
 **Gender**: Female
 **Species**: ?
 **Met**: Yes
+![[Tanya Cicada.png]]
 #### Organization affiliation: 
 # Description:
 

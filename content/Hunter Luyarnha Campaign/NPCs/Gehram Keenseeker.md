@@ -5,11 +5,12 @@ Status: permanent
   - NPC
 ---
 # Character Details
-**Full Name**: Garum KeenSeeker
+**Full Name**: Gehram Keenseeker
 **Nickname**: "The Man"
 **Gender**: Male
 **Species**: ?
 **Met**: No?
+![[Gehram Keenseeker.png]]
 #### Organization affiliation: 
 He's the creator of custom gear for Jaegers in [[The Hunter's Workshop]]
 # Description:

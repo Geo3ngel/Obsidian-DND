@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Human?
 **Met**: Yes
+![[Vanessa Quilandros.png]]
 #### Organization affiliation:
 # Description:
 

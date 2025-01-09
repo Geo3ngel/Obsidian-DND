@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Dwarf
 **Met**: Yes
+![[Randalph-Ironhands.png]]
 #### Organization affiliation: 
 Shop Keep of [[Triple I'D]]
 # Description:

@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Female
 **Species**: Half-elf
 **Met**: (Marinus only)
+![[Niemy-Iskolbru.png]]
 #### Organization affiliation: 
 Member of [[The Blood Cross]]
 # Description:

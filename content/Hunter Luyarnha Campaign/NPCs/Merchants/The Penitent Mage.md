@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: ? (Presumably?)
 **Species**: ? (Some form of Osteomancer)
 **Met**: Yes
+![[Penitent-Mage.png]]
 #### Organization affiliation: 
 **Rank**: ?
 **Superior**: ?

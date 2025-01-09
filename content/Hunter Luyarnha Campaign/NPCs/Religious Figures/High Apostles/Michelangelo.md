@@ -13,6 +13,8 @@ Status: permanent
 **Gender**: Male
 **Species**: ?
 **Met**: Encountered
+![[High-Apostle-Michelangelo.png]]
+![[High-apostle-Michelangelo-unmasked.png]]
 #### Organization affiliation: 
 The high apostle responsible for the [[Obulus Scholare]]
 # Description:

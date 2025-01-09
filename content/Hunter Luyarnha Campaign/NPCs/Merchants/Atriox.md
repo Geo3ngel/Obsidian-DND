@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Scourgeborne Belua
 **Met**: Yes
+![[Atriox-Ruugvir.png]]
 #### Organization affiliation:
 Shop keep for [[The Silver Wolf]], and inactive member of the [[Paladins of the Eldritch Hunt]].
 # Description:

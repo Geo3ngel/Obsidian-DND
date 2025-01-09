@@ -10,6 +10,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Human? (Might have something *else* in there)
 **Met**: Yes
+![[Bloody-Henry.png]]
 #### Organization affiliation: [[The Blood Cross]]
 **Rank**: ?
 **Superior**: ?

@@ -11,6 +11,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Half-Elf
 **Met**: Yes
+![[Chet-Duley.png]]
 #### Organization affiliation: 
 [[Chet's Drug Shop]]
 > [!question] Was it the Wayfairers? Need to double check which gang he's affiliated with!

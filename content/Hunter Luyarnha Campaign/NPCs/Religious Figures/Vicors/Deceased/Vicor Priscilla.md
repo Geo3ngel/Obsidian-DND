@@ -12,6 +12,7 @@ Status: permanent
 **Gender**: Female
 **Species**: ?
 **Met**: Yes, via possession.
+![[Vicor-Priscilla.png]]
 #### Organization affiliation:
 A Previous Vicar of the [[Radiant Church]]
 # Description:
