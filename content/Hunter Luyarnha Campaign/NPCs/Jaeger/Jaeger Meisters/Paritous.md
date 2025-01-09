@@ -6,20 +6,20 @@ Status: permanent
 ---
 >[!question]  Or is it Paratis, as Alessa spells it?
 
-**Full Name**: Paridous ???
+**Full Name**: Paritous ???
 **Nickname**: ?
 **Gender**: ?
 **Species**: [[Demidritch]]
 **Met**: Yes
 #### Organization affiliation: 
 The [[Jaeger Program]]/[[Jaegers]]
-**Rank**: Jaegermeister
+**Rank**: Jaeger Meister
 
 > [!info] Specialization
 > Healing/Summoning. Presumably a Cleric of sorts.
 # Description:
 Like a peacock thing with white feathers and green eyes on the feathers.
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcwqQqqxTE3Aj9JLy0UKHY5JfWREqMxwP4DrULs5PhtK7K1MYXLMmpe13UID-VJPTtUKvaYOwkrtdsCsWfQ02HMcpjJVPszFPYrX-ykq3i9i1_KRkyTnTsPoJT-KUYDu-eNXq0p51jthMgmpT1lmel11yQ?key=zhXLT_ZKqJSkF81R6_Nj_A)
+![[Jaeger-meister-Paritous.png]]
 
 ---
 # Notes

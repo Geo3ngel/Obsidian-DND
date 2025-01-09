@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Unclassified/Zohan.md",
+                "file": "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Zachariah Schröder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zohan"
+              "title": "Zachariah Schröder"
             }
           },
           {
@@ -83,13 +83,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ea008e763ff4d74",
+            "id": "7bc2787655b38db2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines/Missing - Sumetra.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Missing - Sumetra"
             }
           }
         ]
@@ -229,48 +233,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ea008e763ff4d74",
+  "active": "7bc2787655b38db2",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/NPCs/Unclassified/Zohan.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Orastophelis.md",
-    "files/Characters/Barborin-Yorgrim.png",
-    "files/Characters/772526e41d4cf7ddc0dafd33c02ece5a.jpg",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Zachariah Schröder.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Paritous.md",
+    "files/Jaeger-meister-Paritous.png",
+    "files/Characters/Zachariah Schröder.png",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Untitled.md",
     "files/Characters/Pasted image 20250104202009.png",
     "files/Characters/Pasted image 20250104201523.png",
-    "files/Characters/Pasted image 20250104200758.png",
+    "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines/Missing - Sumetra.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Semetra.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Karlyle the White.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Gratia Bearknuckle.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Formind.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Calvin.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Formind.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Kabir.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Lorenzo.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Moralis.md",
+    "Hunter Luyarnha Campaign/NPCs/Jaeger/Pacifis.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/The Penitent Mage.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Seshk Dinonza.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Rusty.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Randalph Ironhands.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Priscilla.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Piirmisha Rhavin.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Niemy Iskolbru.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Nezmis.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Mother Luugru.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Maribelle Faldeho.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Idris Eisenthorp.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrand.md",
+    "files/Characters/Barborin-Yorgrim.png",
+    "files/Characters/772526e41d4cf7ddc0dafd33c02ece5a.jpg",
     "files/locations/luyarnha-city-overview.png",
     "files/locations",
     "files/Menus/Pasted image 20241117135024.png",
     "files/Menus/Busted-barrel-menu.png",
     "files/Notes-snippets/Pasted image 20240615203658.png",
-    "files/Notes-snippets/paladin-oath-of-eldritch-hunt-desc.png",
     "files/Notes-snippets",
-    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/5 Initiate/Karolin Kipper.md",
-    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/5 Initiate/Jenson.md",
     "files/Misc",
     "files/Characters",
-    "Hunter Luyarnha Campaign/Lore/Anarta.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Radiant Church.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Paladins of the Eldritch Hunt.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Ministry of Light.md",
-    "Hunter Luyarnha Campaign/Organizations/Organizations of Luyarnha.md",
-    "Hunter Luyarnha Campaign/Organizations/Abyss Wardens.md",
-    "Hunter Luyarnha Campaign/Organizations/Gangs/Wayfairers.md",
-    "Hunter Luyarnha Campaign/Organizations/Gangs/Scavengers.md",
-    "Hunter Luyarnha Campaign/Organizations/Gangs/Fabricators.md",
-    "Hunter Luyarnha Campaign/Organizations/Families/Ember Hearts/Emberhearts.md",
-    "Hunter Luyarnha Campaign/NPCs/Vanessa Quilandros.md",
-    "Hunter Luyarnha Campaign/NPCs/Tanya Cicada.md",
-    "Hunter Luyarnha Campaign/NPCs/Philip Quilandros.md",
-    "Hunter Luyarnha Campaign/NPCs/Lady Minerva.md",
-    "Hunter Luyarnha Campaign/NPCs/Garum Keenseeker.md",
-    "Hunter Luyarnha Campaign/NPCs/Unclassified/The Curator.md",
-    "Hunter Luyarnha Campaign/NPCs/Unclassified/Kysus Borovir.md",
-    "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Pirmisha.md",
-    "Hunter Luyarnha Campaign/NPCs/The Blood Cross/Bloody Henry.md",
-    "Hunter Luyarnha Campaign/NPCs/Scions/Delihlah Carmichael.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Henri Inonder.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Abraham.md",
     "Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/Untitled.canvas",
     "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws",
     "Hunter Luyarnha Campaign/NPCs/Player Family Members/Stoneshakers",

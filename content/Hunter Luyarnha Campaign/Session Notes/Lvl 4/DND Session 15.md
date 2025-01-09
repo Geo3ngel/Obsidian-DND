@@ -43,7 +43,7 @@ Luminary scribes that tried to dig into the case seemingly got bumped off the ca
 
 #### Side note
 Semetra mentions the name of the (cleric?) that refused to resurrect Marinus.
-- Their name is [[Paridous]]
+- Their name is [[Paritous]]
 
 ## Waron/Cello/Dur'zoga
 After sitting silence for a moment following Semetra and Marinus going out for a drink (not specifying were to the rest of the party), Waron seeing Cello and Dur'zoga in low spirits, suggests going to get some food/refreshments to wind down/process everything that just occurred.

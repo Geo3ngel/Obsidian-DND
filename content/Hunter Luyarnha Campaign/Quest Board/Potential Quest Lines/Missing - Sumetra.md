@@ -8,7 +8,7 @@ Status: fleeting
 [[Sumetra]] is missing.
 ## Leads
 ## Notes
-She mysteriously went missing after having owed ___ a favor of some sort, for having revived [[Marinus]] upon her request, despite his initial refusal.
+She mysteriously went missing after having owed [[Paritous]] a favor of some sort, for having revived [[Marinus]] upon her request, despite his initial refusal.
 - Who did we hear that she was missing from? [[Abraham]]?
 
 

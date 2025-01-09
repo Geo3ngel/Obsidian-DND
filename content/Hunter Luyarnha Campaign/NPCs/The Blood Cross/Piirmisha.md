@@ -7,7 +7,7 @@ Status: permanent
 # Character Details
 > [!TODO] Spell check name!
 
-**Full Name**: Pirmisha
+**Full Name**: Piirmisha
 **Nickname**: ?
 **Gender**: Female
 **Species**: ? (Some bat based scourgeborne presumably?)

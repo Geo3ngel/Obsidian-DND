@@ -12,7 +12,7 @@ Status: permanent
 **Gender**: Male
 **Species**: Human
 **Met**: Yes, briefly.
-![[Pasted image 20250104200758.png]]
+![[Zachariah Schröder.png]]
 #### Organization affiliation:
 The [[Jaeger Program]]/[[Jaegers]]
 # Description:
