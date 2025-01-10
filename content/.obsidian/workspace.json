@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines/Verena's Missing Luggage.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 42.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verena's Missing Luggage"
+              "title": "DND Session 42"
             }
           },
           {
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "c6f9daeb4ff0dba5",
@@ -247,9 +248,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bc2787655b38db2",
+  "active": "de11a7ad9f717b94",
   "lastOpenFiles": [
     "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines/Verena's Missing Luggage.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 42.md",
     "templates/Quest.md",
     "templates/Organization.md",
     "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrand.md",
@@ -278,7 +280,6 @@
     "files/Seshk Dinonza.png",
     "Hunter Luyarnha Campaign/NPCs/Merchants/Priscilla.md",
     "files/Priscilla.png",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/The Penitent Mage.md",
     "files/Penitent-Mage.png",
     "files/Tanya Cicada.png",
     "files/Dominic Hoffman.png",
