@@ -22,6 +22,7 @@ A Previous Vicar of the [[Radiant Church]]
 > [!TODO] Fill in notes here from prior sessions!
 ## **Relationship with Party**:
 Killed [[Marinus]] and [[Dur'zoga]] in a single shot, so not chill.
+- She was really just aiming at Marinus, but clearly didn't care to clear her line of sight to avoid killing Dur'zoga with the same shot.
 
 ---
 # References

@@ -50,7 +50,7 @@ Vicor Abraham's assistant
 - Appearance is very sickly, but she's very energetic.
 - Vicor Rhania Peracos, under High apostle Michelangelo
 
-Cello previously brought up that one of her mistress [[Lady Minerva]]'s was High apostle.
+Cello previously brought up that one of her mistress [[Minerva Gershwin]]'s was High apostle.
 
 ## We received: 
 $7k gold

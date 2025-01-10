@@ -12,8 +12,9 @@ Status: permanent
 **Species**: Human => Mushroom esc Scourgeborne?
 **Met**: Encountered
 ![[Minerva Gershwin.png]]
-#### Organization affiliation: 
+#### Organization affiliation:
 # Description:
+Currently being taken over by a mushroom-esc scourge infection. Still technically "alive", but in a coma-like state.
 
 ---
 # Notes

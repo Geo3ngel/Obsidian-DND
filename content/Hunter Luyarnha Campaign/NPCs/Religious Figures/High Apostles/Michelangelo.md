@@ -22,7 +22,7 @@ The high apostle responsible for the [[Obulus Scholare]]
 ---
 # Notes
 Some association with the sanctified district?
-- And Cello's master ([[Lady Minerva]])
+- And Cello's master ([[Minerva Gershwin]])
 	- one of the associates that was close with Minerva in her last days...
 ## **Relationship with Party**:
 

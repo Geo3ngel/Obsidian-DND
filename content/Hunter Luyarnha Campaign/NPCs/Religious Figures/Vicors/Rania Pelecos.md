@@ -3,6 +3,8 @@ Created: 2024/11/18 17:13
 Status: permanent
 "Tags:":
   - NPC
+  - "[[Radiant Faith]]"
+  - "[[Vicor]]"
 ---
 # Character Details
 **Full Name**: Rania Pelecos

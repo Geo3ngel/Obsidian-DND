@@ -17,4 +17,7 @@ Status: permanent
 
 ---
 # Notes
+She's the scion that was hired to check that Cello's memory was in working order, but refused to properly do her job.
+- Was very aggressive/threatening about it as well.
 ## Relationship with Party:
+Passive-aggressive

@@ -3,7 +3,7 @@ Created: 2024/11/18 00:02
 Status: permanent
 "Tags:":
   - NPC
-  - Merchant
+  - Restaurant-Owner
 ---
 # Character Details
 **Full Name**: Luna (Last name not currently known) Vakshire

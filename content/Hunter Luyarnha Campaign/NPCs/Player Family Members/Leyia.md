@@ -12,8 +12,10 @@ Status: permanent
 **Met**: No (In Waron's dreams)
 ![[Leyia.png]]
 #### Organization affiliation: 
+Potentially a former member of the [[Paladins of the Eldritch Hunt]]
 # Description:
 
 ---
 # Notes
 ## Relationship with Party:
+[[Waron]]'s wife.
