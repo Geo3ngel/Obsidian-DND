@@ -67,5 +67,29 @@ Her hair changes color, to an intense, deep, FULL RED.
 Verena mentions she's developed a tattoo to dissuade madness based on the bond between comrades!
 - Immunity to madness, and pause madness effects if we're all in the same district! (With 7 people with the tattoo!)
 
+## That night, before bed.
+Waron was offered a scroll, as invitation to the Ceremony for his initiation as an official member!
+- He'll be leaving that night, at sunset. (The ceremony requires a full moon)
+## Verena and Hugo
+They have a tender moment talking about Hugo's family. The story of what happened to his parents.
+His sister died during childbirth, so his father drowned himself in work to cope.
+- His farmer didn't want this life for his son, and actually always wanted to be a farmer.
+Him and Verena talk about maybe someday leaving this life behind.
+
+He lost his parents on the [[33rd hunt]].
+For whatever reason, Hugo seemed to be under the impression that the militia would shut him down one day.
+- Due to him not... paying all the tithes...
+She ends up giving him one of our group's tattoos.
+He thanks her for letting him be part of something again.
+
+Hugo confessed his feelings.
+# The scribe's library
+We have access for 27 hours approximately.
+- Waron has to head out early for his ceremony.
+He wants to ask about:
+- The paladins of the eldritch hunt 
+- The abyss wardens, and what they worship.
+
+
 # References
 ---

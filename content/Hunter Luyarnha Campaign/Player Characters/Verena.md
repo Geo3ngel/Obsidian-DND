@@ -6,6 +6,7 @@ Status: permanent
   - PC
 ---
 # Verena
+**Full name**: Verena Tera Harrow
 Tattooed goddess
 
 
