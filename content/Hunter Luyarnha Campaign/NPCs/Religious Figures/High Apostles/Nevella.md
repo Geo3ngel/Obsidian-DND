@@ -2,7 +2,6 @@
 Created: 2024/11/18 16:26
 Status: permanent
 "Tags:":
-  - DND
   - NPC
   - "[[High Apostle]]"
   - "[[Radiant Faith]]"
