@@ -70,7 +70,7 @@ Is this something we need to worry about keeping away from the church...?
 Verena is meant to bring about some calling/awakening?
 The church tried to... contain this before apparently, but failed.
 
-Penny is a former osteomancy mage, capable of bringing about incredible feats of magic, such as perceiving magic into being, or cultivating immortality...
+Penny is a former Osteomancy mage, capable of bringing about incredible feats of magic, such as perceiving magic into being, or cultivating immortality...
 - The connection with the being that enabled this though has since been broken.
 After the great war, the silver bloods gained popularity due to steinheardt's contributions
 - A Silverblood queen was recognized by the radiant church, and in turn the radiant church became the "voice of the people".

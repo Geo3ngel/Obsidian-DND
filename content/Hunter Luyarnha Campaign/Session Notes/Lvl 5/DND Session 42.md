@@ -16,7 +16,7 @@ Narissa
 - [[Lumina Raywolt]] (creation of Jaegers)
 Waron
 - Abyss Wardons
-- Paladins of the Eldritch Hunt
+- Paladins of the Eldritch Hunt/Ludwig's background/Lydia
 Dur'zoga
 - Wayfairers
 - Ruby district
