@@ -6,6 +6,6 @@ Status: fleeting
   - PC
 ---
 # Grey
-
+Nickname: Big baby.
 ---
 # References
