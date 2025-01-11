@@ -115,12 +115,64 @@ Potion of healing! Better than their silver tonics
 
 Cello and Waron offered a contingent alliance/support for the Alchemists, if they can manage to help/cure [[Minerva Gershwin]], Cello's Mistress.
 
+Cello also expresses interest in trying to convince Ludwig/The Paladins of the potential cure for the scourge.
+- They might not be interested, so Waron's hesitant to approach them, until he's of higher rank at least...
+	- Would he be willing to sacrifice himself for power, to enable others to gain a cure?
+		- Furthering his corruption to fight the church, to allow for a proper cure to be distributed.
+
+
 ## Grey's search in the Sanctified District
 He's searching for a woman partially covered by a cape of some sort.
 - right hand carries something sharp at all times, seemingly to ward off would be assailants.
+
 # The Poster in the Grand Cathedral 
 It says :" Come one Come All for the Ballad of Blood Sports is among us-” posted in the Grand Cathedral. . Come the start if the Bloodmoon. Apparently The Bloodmoon lasts for 5 nights  The fifth night is the worst night. 
 Verena talks to Hugo again when he seems off put by the Bloodmoon. Hugo killed his dad, Verena killed her ex fiance when he was getting violent. She killed him in an uncontrolled release of her power, which is not controlled by a tattoo on her sleeve 
 There are events during the Blood Moon and some sort of competition that competitors can have sponsors.. The main reward is a Luminous Tear -Church must grant a wish to the best of their abilities. =2000 GP.**
+=======
+
+She appears to have some "history" with Grey (possible past romantic fling?)
+
+She seems surprised to hear he was one of those responsible for the "train incident".
+
+Opens a pathway with her stiletto.
+- To Grey's "Home"?
+Seemingly some sort of training hall...
+- Weapon, but also "escort" training.
+They refer to Grey as "Maximus"
+
+The place is clearly some form of whore house.
+
+She seems to be insinuating that Grey is dying of something...
+- it impacts him more, the more frequently she's around him?
+## Verena and Hugo quick chat
+What did hugo regret? Who did he kill?
+His father, who was infected with scourge, asked him to take his life in this last moments.
+
+Hugo feels like he "ended" his family. And he doesn't want to have to do that for any of us....
+
+Hugo notes that she also drank... and asks who she killed.
+- Her former "fiancé", the arranged marriage guy.
+She claims to have not meant to, he was just getting very aggressive, and she managed to... successfully cast a spell, and.... he blew up.
+
+Her tattoo on her sleave helps her control that magic.
+
+The blood moon is apparently broken up into hunting events...
+1st day is individuals
+2nd day is partners
+3rd day is 
+4th day is 
+5th day is 
+
+The Grand Prize is something interesting apparently!
+- Luminous Tear: the greatest gift that could be given by the Radiant Church! (And 2k gold pieces)
+- Said to be teared by the Radiant one himself!
+	- When he was crucified
+	- A guaranteed wish from the church 
+Only 5 tears have every been given in the history of the church!
+
+## The Library
+We entered, after a brief spat with [[Vicor Rhanya]].
+
 # References
 ---
