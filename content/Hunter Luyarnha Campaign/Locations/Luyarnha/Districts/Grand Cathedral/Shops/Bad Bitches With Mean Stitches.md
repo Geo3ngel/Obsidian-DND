@@ -9,6 +9,7 @@ Status: permanent
 # Shop Details
 This shop specializes in clothing and leather work of all sorts. 
 Lots of fun goodies to be bought here!
+![[Bad-bitches-with-mean-stitches-logo.png]]
 ## Specialization
 Clothing, Leather work, and the like.
 ### Organization affiliations

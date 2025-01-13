@@ -129,7 +129,6 @@ He's searching for a woman partially covered by a cape of some sort.
 It says :" Come one Come All for the Ballad of Blood Sports is among us-” posted in the Grand Cathedral. . Come the start if the Bloodmoon. Apparently The Bloodmoon lasts for 5 nights  The fifth night is the worst night. 
 Verena talks to Hugo again when he seems off put by the Bloodmoon. Hugo killed his dad, Verena killed her ex fiance when he was getting violent. She killed him in an uncontrolled release of her power, which is not controlled by a tattoo on her sleeve 
 There are events during the Blood Moon and some sort of competition that competitors can have sponsors.. The main reward is a Luminous Tear -Church must grant a wish to the best of their abilities. =2000 GP.**
-=======
 
 She appears to have some "history" with Grey (possible past romantic fling?)
 

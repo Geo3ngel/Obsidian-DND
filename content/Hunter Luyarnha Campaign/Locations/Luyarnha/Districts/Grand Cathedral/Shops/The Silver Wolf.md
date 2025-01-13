@@ -32,5 +32,9 @@ All `armor` and `simple weapons` are also available for purchase.
 Can Silver weapons as a service.
 Specialized in +1 gear!
 
+
+1035
+
+535
 ---
 # Party Notes

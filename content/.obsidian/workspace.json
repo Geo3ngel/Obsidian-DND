@@ -6,6 +6,7 @@
       {
         "id": "da5e418363f1cb65",
         "type": "tabs",
+        "dimension": 39.53125,
         "children": [
           {
             "id": "448c434937d463f6",
@@ -49,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 42.md",
+                "file": "Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Damascena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Session 42"
+              "title": "Damascena"
             }
           }
         ],
@@ -63,33 +64,52 @@
       {
         "id": "4ccae975431be8b9",
         "type": "tabs",
+        "dimension": 60.46875000000001,
         "children": [
           {
-            "id": "de11a7ad9f717b94",
+            "id": "97bc1658daa6ed5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Tattoos/Retten Von Terror Crest.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Memes/Cello-red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retten Von Terror Crest"
+              "title": "Cello-red"
             }
           },
           {
-            "id": "6f3a4dee4cbb41e9",
+            "id": "f0a1773ea85a72b6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Peeking on Verena and Hugo.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 43.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Peeking on Verena and Hugo"
+              "title": "DND Session 43"
+            }
+          },
+          {
+            "id": "b4616ae86b03de62",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Armory/Magic Items/Mercenary's Pauldron.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Mercenary's Pauldron"
             }
           }
         ],
@@ -124,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Borov",
+                "query": "Mercen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "right": {
     "id": "c6f9daeb4ff0dba5",
@@ -232,42 +252,42 @@
   },
   "active": "97afc4ffe260db8c",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Session Notes/Comics/Peeking on Verena and Hugo.md",
-    "Hunter Luyarnha Campaign/Session Notes/Comics/You're just a little hater.md",
-    "Hunter Luyarnha Campaign/Session Notes/Comics/2 bros.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 42.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Orastophelis.md",
-    "Hunter Luyarnha Campaign/Session Notes/Comics/Be not afraid.md",
-    "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
-    "Hunter Luyarnha Campaign/Session Notes/Comics/Cello-knives.md",
-    "Hunter Luyarnha Campaign/Session Notes/Comics/Verena and Hugo.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 43.md",
+    "Hunter Luyarnha Campaign/Armory/Armor/Hunter's Coat.md",
+    "Hunter Luyarnha Campaign/Armory/Armor/Adamantine Armor.md",
+    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Mercenary's Pauldron.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+    "files/Bad-bitches-with-mean-stitches-logo.png",
+    "Hunter Luyarnha Campaign/Session Notes/Memes/Pink Paladins.md",
+    "Hunter Luyarnha Campaign/Session Notes/Memes/Cello-red.md",
+    "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/5 Initiate/Jenson.md",
+    "Hunter Luyarnha Campaign/Session Notes/Memes/Narissa Banned Poster.md",
+    "files/Cello-red.png",
+    "files/Pink-Paladins.png",
+    "Hunter Luyarnha Campaign/Session Notes/Memes/P.S.I Wyre.md",
+    "files/Adamantine Armor.png",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws/Edwin Shaw.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws/Emmerain Shaw.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws/Cornelius Shaw.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws/Acuta Shaw.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws/Tenebast Shaw.md",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws/Emmet Shaw.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Maribelle Faldeho.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Mother Luugru.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Nezmis.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Niemy Iskolbru.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Piirmisha Rhavin.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Amenities.md",
+    "Hunter Luyarnha Campaign/Lore/Ballad of Bloodsports.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/Seshk Dinonza.md",
+    "Hunter Luyarnha Campaign/NPCs/Merchants/The Penitent Mage.md",
+    "files/Mercenarys Pauldron.png",
+    "files/The-defiled-librarian.png",
     "files/spying-on-verena-and-hugo.png",
-    "Hunter Luyarnha Campaign/Armory/Tattoos/Retten Von Terror Crest.md",
-    "Hunter Luyarnha Campaign/Player Characters/Verena.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Minerva Gershwin.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Leyia.md",
-    "Hunter Luyarnha Campaign/NPCs/Philip Quilandros.md",
-    "Hunter Luyarnha Campaign/NPCs/Vanessa Quilandros.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/High Apostles/Tulio.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/High Apostles/Nevella.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/High Apostles/Michelangelo.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/High Apostles/Legarious.md",
-    "templates/Quest.md",
-    "Hunter Luyarnha Campaign/NPCs/Unclassified/Kysus Borovir.md",
-    "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines/Verena's Missing Luggage.md",
-    "templates/Organization.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrand.md",
-    "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines/Missing - Sumetra.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Lady Minerva.md",
     "files/Bravish-Deepfist.png",
     "files/Luna Vakshire.png",
     "files/Seshk Dinonza.png",
-    "files/Priscilla.png",
-    "files/Penitent-Mage.png",
-    "files/Tanya Cicada.png",
-    "files/Dominic Hoffman.png",
-    "files/Vanessa Quilandros.png",
-    "files/Philip Quilandros.png",
     "files/locations",
     "files/Notes-snippets",
     "files/Misc",
