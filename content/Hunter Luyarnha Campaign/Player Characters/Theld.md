@@ -11,6 +11,7 @@ Status: permanent
 **Nickname**: Hotter Hugo
 **Gender**: Male
 **Species**: Human
+**Age**: 42
 
 ----
 

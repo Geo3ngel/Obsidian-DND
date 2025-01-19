@@ -5,6 +5,13 @@ Status: permanent
   - DND
   - PC
 ---
+# Character Details
+**Full Name**: Marinus Cotter
+**Nickname**: 
+**Gender**: Male
+**Species**: Human
+**Age**: 42
+
 Duncan's Player DND character for Hunter's [[Hunter's - Steinhardt's guide to the eldritch hunt DND campaign]]
 
 ChatGPT Intro to Marinus
