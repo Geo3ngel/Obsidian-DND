@@ -5,9 +5,9 @@ Status: permanent
   - PC
   - DND
 ---
-
+![[Theld 1.jpg]]
 # Character Details
-**Full Name**: Theld
+**Full Name**: Theld Rand
 **Nickname**: Hotter Hugo
 **Gender**: Male
 **Species**: Human
