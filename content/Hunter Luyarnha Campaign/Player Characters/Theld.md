@@ -3,6 +3,7 @@ Created: 2025/01/18
 Status: permanent
 "Tags:":
   - PC
+  - DND
 ---
 # Character Details
 **Full Name**: Theld
