@@ -141,6 +141,8 @@ There is note of a connection to... something.
 - One person can make them flesh once more. Bring them back, and carry their message/soul, known as [[The carvinger]]
 	- **THIS IS ABOUT [[VERENA]]**
 She is the stitching that can bring these beings back home, to where they belong. Her mind is capable of handling the overwhelming presence of these being.
+They can be made whole by the use of three ancient runes. 
+[[Verena]] has not seen the original runes but she has seen a derivative of one of them in her mind.
 
 ### Osteomancy
 She's having to ask around for more information on Osteomancy, held behind lock and key. Bound with iron.
