@@ -5,6 +5,7 @@ Status: permanent
   - PC
   - DND
 ---
+
 # Character Details
 **Full Name**: Theld
 **Nickname**: Hotter Hugo
@@ -12,12 +13,12 @@ Status: permanent
 **Species**: Human
 
 ----
-# References
+
+# Description:
 
 ---
 
-
-# Description:
+# References
 
 ---
 
