@@ -1,0 +1,1 @@
+An arcane dust capable of being used as a replacement for any gold requirements of a spell

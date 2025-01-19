@@ -1,0 +1,1 @@
+**A family that has built one of the most influential and sought after magical products in all of existence: [[Residuum]]. An arcane dust capable of being used as a replacement for any gold requirements of a spell. Though there are many companies that sell their powder, they are the only ones that actually produce it, making them the sole owner of [[Residuum]] secret recipe.** 

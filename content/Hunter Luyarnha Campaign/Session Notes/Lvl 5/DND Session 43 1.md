@@ -22,7 +22,7 @@ He ends up reading about the abyssal keep
 First ever witnessed during the 33rd hunt.
 Also known as "The Goat Mother"
 
-Those that where approached by this beeing during the hunt
+Those that where approached by this being during the hunt
 Accounts of spottings come from scattered journals of now deceased Luyarnhans, from the Paterna Iter & ___ district
 
 ### Researching the Radiant One

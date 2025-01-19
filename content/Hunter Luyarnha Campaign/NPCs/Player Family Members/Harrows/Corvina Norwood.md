@@ -1,0 +1,3 @@
+Age: 20
+ 
+ Younger sister to [[Verena]]. Married to [[Dystan Norwood]] The perfect child and favorite of the family, extremely gifted with the arcane and a natural sorcerer. She is everything that Verena is not in a lot of ways. Corvina has no ill-will for her sister, but the risk of her potential being ruined in some way by building a connection with Verena has caused an emotional distance and tension between the two of them, especially when their parents are in the same room.
