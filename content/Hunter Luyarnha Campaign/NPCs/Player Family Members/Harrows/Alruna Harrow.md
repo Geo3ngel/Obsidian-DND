@@ -1,2 +1,2 @@
-
+![[Alruna Harrow.png]]
 (Mother): Married to [[Teiran Harrow]]. Cold and emotionless towards [[Verena]]. Showing little emotion to her and teaching her to repress any negative feelings so they “don’t get the better of her”. Her attitude makes her a venomous but effective executive for the business, but taking her business home with her has led to the same oppressive feeling inside her family’s walls.

@@ -1,5 +1,5 @@
 ---
-Created: 2025/01/18
+Created: 2025/01/18 17:19
 Status: permanent
 "Tags:":
   - PC
@@ -7,7 +7,7 @@ Status: permanent
 ---
 # Character Details
 **Full Name**: Theld
-**Nickname**: Not Hugo
+**Nickname**: Hotter Hugo
 **Gender**: Male
 **Species**: Human
 

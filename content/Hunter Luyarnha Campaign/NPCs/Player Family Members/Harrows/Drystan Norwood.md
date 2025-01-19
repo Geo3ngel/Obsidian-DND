@@ -1,1 +1,2 @@
+![[Drystan Norwood.png]]
  Husband to [[Corvina Norwood]]. A really nice guy, but [[Verena]] believes him to be naïve from his upbringing with a silver spoon. Honest and good-natured but genuinely cannot empathize with other people’s suffering

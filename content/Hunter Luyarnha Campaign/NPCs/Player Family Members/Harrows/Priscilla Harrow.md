@@ -1,1 +1,2 @@
+![[Priscilla Harrow.png]]
 Wife to [[Hadien Harrow]] A fucking bitch to [[Verena]], all of the passive aggression bundled up by Hadien and placed into someone with the the adamant desire to break other people’s ego. Actively prods and needles Verena in the hopes of eliciting some reaction, throwing shade at her with backhanded compliments and mocking any part of [[Verena]]’s existence.

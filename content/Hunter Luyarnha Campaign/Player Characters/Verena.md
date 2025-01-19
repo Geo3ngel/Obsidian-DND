@@ -5,6 +5,7 @@ Status: permanent
   - DND
   - PC
 ---
+![[Verena.jpg]]
 # Verena
 
 **Full name**: Verena Terra Harrow
@@ -23,7 +24,7 @@ The night of the 4th hunt, they lost control they were killed and transformed in
 
 **Theories as to why:**  
 
-- a spell was cast to destroy Osteomancy as a whole.
+- a spell was cast to destroy [[Osteomancy]] as a whole.
 
 - New eldritch moon and a creature born from the moon destroyed, and has never appeared again The Yellow King
 
@@ -36,7 +37,5 @@ This event is know as the The Unchaining
 ---
 
 # References
-
   
-
 
