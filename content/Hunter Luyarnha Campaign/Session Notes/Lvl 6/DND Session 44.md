@@ -70,6 +70,18 @@ The two attempt to console the child, and Narissa offers her autograph upon noti
 
 It's at this point that the child's guardian, [[Ophelia]] shows up, and apologizes for the commotion. Waron assures her it's no problem, and apologizes for members of the group having scared her accidentally.
 
+In addition to the autograph, Narissa gifts the girl a silver bullet (Waron chiming in about how special it is).
+- The girl's eyes light up with admiration once more
+Narissa, after realizing what Waron is doing (it takes her a second) leans into it, and begins telling the girl about how silver is effective against scourge, and that it'll protect her when she needs it most.
+- Upon receiving this info, the little orphan girl's admiration is overflowing, acting as though this is some grand information that Narissa is sharing with her and only her.
+At this point Ophelia attempts to pull the girl back to give us our space, however she asks for another autograph.
+- Ophelia protests the girl, stating they couldn't possibly trouble us any further, but Waron insists it's alright and that they don't mind
+	- Probably presuming he's going to be asked for his autograph, to which Narissa goads him on, knowing he's likely to be unable to write his own name
+Waron asks the little girl if she would like his autograph sweetly while kneeling in front of her, and with the sweetest, most innocent look on her face, she says "no thank you, I want *hers*!" and points to Dur'zoga, the Champion of the 1v1s.
+- Waron's heart shatters into a million pieces
+- Dur'zoga is elated, and happily obliges, though she struggles to eek out her name, a small bead of sweat notably forming as she scratches our her name on the paper.
+
+Ophelia thanks the group, noting that they are a rare sort of people around here. Both strong, and good.
 
 [[Ophelia]] asks Waron to give [[Thokk]] her best
 - She's related to him in some way? Or potentially a past lover?
