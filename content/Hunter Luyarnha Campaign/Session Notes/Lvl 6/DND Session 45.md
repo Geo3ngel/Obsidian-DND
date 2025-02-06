@@ -9,6 +9,8 @@ Status: permanent
 
 # Session Notes
 ---
+## Waron & Cello vs Marinus & Henry
+To do: add synopsis here!
 ## Waron & Cello Notes
 ### Waron:
 Scythe is charged! (From boss monster in last game!)
@@ -19,10 +21,8 @@ Thaumaturgy to hype up the crowd, boosting his Drum's sound, with rumbles of Thu
 Playing an intro song w/ Cello!
 ## Bits:
 
-Anounce ourselves as the "Pink Paladins!"
-"The Pink Paladins will give you the fisting of your lifes!"
-## Challenge Grey & Dur'zoga to a dance battle!
-- performance checks!
+Announce ourselves as the "Pink Paladins!"
+"The Pink Paladins will give you the fisting of your lives!"
 ## Waron's concerned about being chopped liver?
 Smash emotes/stunting mid combat
 ## Sponsored Reads!
@@ -34,11 +34,6 @@ Keep referring to Theld as Hugo!
 - Ask if Verena added those scars as tattoos, mention they look pretty good!
 - Also complement the makeup work for the beard, looks legit! (In a hushed whisper)
 - His physique? Wow, those cloths really bring out his sleeper build...
-### His tactics!
-He has dodge step, and weapon parry!
-Armor of Agatha's (shields him for 5 dmg, which reflects via melee dmg)
-Spell flurry? Focus?
-- presumably 15AC!
 # Tournament notes!
 Detective Dominique is participating in the 2v2 tournament!
 

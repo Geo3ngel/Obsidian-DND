@@ -112,12 +112,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 47.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Session 47"
+              "title": "Pink Paladins"
             }
           }
         ],
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 46.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DND Session 46"
+              "title": "Backlinks for Pink Paladins"
             }
           },
           {
@@ -259,10 +259,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "091be63fbecac359",
+  "active": "f3ce94faa990e0fc",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 47.md",
+    "files/Pink Paladins.png",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins - Dance battle vs Idris.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Shrooms.md",
+    "files/Cello-Shrooms.png",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Cello-knives.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Retten Von Terror - A-holes.md",
+    "files/Retten-von-terror-a-holes-meme.png",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Hotter Hugo.md",
+    "files/Hotter-Hugo-meme.png",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/You're just a little hater.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Verena and Hugo.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Peeking on Verena and Hugo.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/2 bros.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Waron vs Marinus.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Be not afraid.md",
+    "files/gonna-have-to-kill-this-guy-meme.png",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 45.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 44.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 46.md",
+    "files/Waron-vs-Marinus.png",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 47.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Mercenary's Pauldron.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 26.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple I'D.md",
@@ -271,22 +292,6 @@
     "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 43.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 42.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 41.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Sanctified Sinner.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Savior's Servant.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Silver Wolf.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Combat Strats/2v2 with Cello.md",
-    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
-    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Church Pick.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 45.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 44.md",
-    "Hunter Luyarnha Campaign/NPCs/Axia.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrand.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/Waron Session Notes Prior to s22.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Orastophelis.md",
-    "Hunter Luyarnha Campaign/NPCs/Unclassified/Zohan.md",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Session Notes/s39.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Hat trick.md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Utility/Blood Crystal.md",
     "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Combat Strats",
     "files/spying-on-verena-and-hugo.png",
@@ -295,11 +300,6 @@
     "files/Vicor-Priscilla.png",
     "files/Verena.jpg",
     "files/Vanessa Quilandros.png",
-    "files/Tieran Harrow.png",
-    "files/Theld.jpg",
-    "files/Theld 1.jpg",
-    "files/The-defiled-librarian.png",
-    "files/Tanya Cicada.png",
     "files/Notes-snippets",
     "files/Misc",
     "Hunter Luyarnha Campaign/Lore/Ailments",
