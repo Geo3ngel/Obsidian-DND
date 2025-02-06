@@ -639,6 +639,7 @@ Taking advantage of the festivities and her new found membership as a member of 
 1st place, 2000g + Larval Tear
 2nd place 1000g + Hunters coat
 3rd place 500g + 2 healing tonics
+- Waron won this!
 # Dream Sequences
 ## Waron
 ## Verena
