@@ -112,16 +112,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins.md",
+                "file": "Hunter Luyarnha Campaign/Lore/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pink Paladins"
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "5347929618cdebf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bad Bitches With Mean Stitches"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pink Paladins"
+              "title": "Backlinks for Bad Bitches With Mean Stitches"
             }
           },
           {
@@ -259,11 +273,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3ce94faa990e0fc",
+  "active": "5347929618cdebf7",
   "lastOpenFiles": [
+    "Hunter Luyarnha Campaign/Lore/Timeline.md",
+    "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins.md",
     "files/Pink Paladins.png",
     "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins - Dance battle vs Idris.md",
-    "Hunter Luyarnha Campaign/Session Notes/Comics/Pink Paladins.md",
     "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Shrooms.md",
     "files/Cello-Shrooms.png",
     "Hunter Luyarnha Campaign/Session Notes/Comics/Cello Learns to Loot.md",
@@ -299,7 +314,6 @@
     "files/locations",
     "files/Vicor-Priscilla.png",
     "files/Verena.jpg",
-    "files/Vanessa Quilandros.png",
     "files/Notes-snippets",
     "files/Misc",
     "Hunter Luyarnha Campaign/Lore/Ailments",
