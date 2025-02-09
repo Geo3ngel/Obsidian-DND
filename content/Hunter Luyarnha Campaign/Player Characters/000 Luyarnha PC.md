@@ -16,6 +16,7 @@ Status: permanent
 | [[Narissa]]    | Alessa      |
 | [[Verena]]     | Ari         |
 | [[Waron]]      | George      |
+| [[Theld]]      | Cole        |
 
 # Deceased Characters:
 

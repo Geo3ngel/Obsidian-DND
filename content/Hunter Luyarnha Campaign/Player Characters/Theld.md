@@ -16,6 +16,7 @@ Status: permanent
 ----
 
 # Description:
+Star like tattoo or brand of some kind on the back of his neck. that looks like the Innarda ( Holy symbol of the church)
 
 ---
 

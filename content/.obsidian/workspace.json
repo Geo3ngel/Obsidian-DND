@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2ee042217af150",
+        "id": "646e5a5c5fca24b7",
         "type": "tabs",
         "children": [
           {
-            "id": "626fdd473b959675",
+            "id": "7c3cf98767358856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Player Characters/Theld.md",
+                "file": "Hunter Luyarnha Campaign/Player Characters/Verena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theld"
+              "title": "Verena"
+            }
+          },
+          {
+            "id": "bdf120f6dc6b836a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "residuum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,13 +176,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "626fdd473b959675",
+  "active": "bdf120f6dc6b836a",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Lore/Ailments/Serpent's Kiss.md",
-    "Hunter Luyarnha Campaign/Lore/Ailments",
+    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Luminary Scribes.md",
+    "Hunter Luyarnha Campaign/Organizations/Church Faction/The House of Blood.md",
+    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Blood Cross.md",
+    "Hunter Luyarnha Campaign/Organizations/Church Faction/Radiant Church.md",
+    "Hunter Luyarnha Campaign/Organizations/Church Faction/Paladins of the Eldritch Hunt.md",
+    "Hunter Luyarnha Campaign/Organizations/Church Faction/Ministry of Light.md",
+    "Hunter Luyarnha Campaign/Player Characters/000 Luyarnha PC.md",
+    "Hunter Luyarnha Campaign/Player Characters/Cello.md",
+    "Hunter Luyarnha Campaign/Player Characters/Da'ul.md",
+    "Hunter Luyarnha Campaign/Player Characters/Dr. Dire (Backup Character).md",
+    "Hunter Luyarnha Campaign/Player Characters/Dur'zoga.md",
+    "Hunter Luyarnha Campaign/Player Characters/Grey.md",
     "Hunter Luyarnha Campaign/Player Characters/Marinus.md",
     "Hunter Luyarnha Campaign/Player Characters/Theld.md",
     "Hunter Luyarnha Campaign/Player Characters/Verena.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Hunter Luyarnha Campaign/NPCs/Religious Figures/High Apostles/Michelangelo.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 15.md",
+    "Hunter Luyarnha Campaign/Lore/Ailments/Serpent's Kiss.md",
+    "Hunter Luyarnha Campaign/Lore/Ailments",
     "files/Theld 1.jpg",
     "files/Theld.jpg",
     "Hunter Luyarnha Campaign/Armory/Trick Weapons/Reiterpallasch.md",
@@ -179,21 +209,7 @@
     "Hunter Luyarnha Campaign/Armory/Ammunition/Reinforced Ashwood Bullet.md",
     "Hunter Luyarnha Campaign/Armory/Ammunition/Pure Silvered Bullet.md",
     "Hunter Luyarnha Campaign/Armory/Ammunition/Lead Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Laceration Round.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Frozen Holy Water Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Flesh Melter Round.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Explosive Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Blessed Rosaries.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Armor Piercing Rounds.md",
-    "templates/Core Idea.md",
     "files/Verena.jpg",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 43 1.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows/Alruna Harrow.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows/The Harrows.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows/Teiran Harrow.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows/Priscilla Harrow.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows/Hadien Harrow.md",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows/Drystan Norwood.md",
     "files/Tieran Harrow.png",
     "files/Priscilla Harrow.png",
     "files/Hadian Harrow.png",
@@ -201,7 +217,6 @@
     "files/Corvina Harrow.png",
     "files/Alruna Harrow.png",
     "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows",
-    "Untitled.canvas",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 6",
     "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws",
     "files/spying-on-verena-and-hugo.png",
