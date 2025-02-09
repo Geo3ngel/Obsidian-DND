@@ -26,7 +26,7 @@ Following his dream, he finds himself surrounded by beasts and blood, with a bro
 - He appears to have been revived by the blood moon?
 - His flesh stitching back together as he rips out the blade.
 
-He pries both halfs, and the two fuse together when he grabs the handle, with some golden spider webbing stitching the two back together (cursed or blursed as heck?)
+He pries both halves, and the two fuse together when he grabs the handle, with some golden spider webbing stitching the two back together (cursed or blursed as heck?)
 
 And with that, he begins making his way through the beast lands towards the breach in the city wall.
 - The one from the train)

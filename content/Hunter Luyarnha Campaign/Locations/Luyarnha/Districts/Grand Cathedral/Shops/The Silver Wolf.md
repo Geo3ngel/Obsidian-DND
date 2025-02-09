@@ -27,7 +27,7 @@ All `armor` and `simple weapons` are also available for purchase.
 | [[Goggles of Night]]           | 150 gp |              |
 | [[Ludwig's Holy Blade]]        | 150 gp | Members only |
 | [[Kirkhammer]]                 | 250 gp | Members only |
-| [[Adamantine Armor]]           | Free?  | Members only |
+| [[Adamantine Armor]]           | Free   | Members only |
 ## Additional Services
 Can Silver weapons as a service.
 Specialized in +1 gear!
