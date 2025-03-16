@@ -15,14 +15,7 @@ There's a lot to unpack this session before we start the next tournament game fo
 ### Idris & Waron Blood stuff
 ### Dominic's message for Marinus
 
-## Waron Bit:
-Waron to a marked opponent:
-"Look behind you"
-- "Wha.." (looks behind them)
-"Hey :)" (A recently teleported Waron)
-- *Violently Bashes their skull in with mace*
-
-### Where did Cello dissapear to?
+### Where did Cello disappear to?
 - Waron would ask
 # Session Notes
 ---

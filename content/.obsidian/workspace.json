@@ -4,33 +4,122 @@
     "type": "split",
     "children": [
       {
-        "id": "646e5a5c5fca24b7",
+        "id": "da5e418363f1cb65",
         "type": "tabs",
+        "dimension": 34.23841059602649,
         "children": [
           {
-            "id": "7c3cf98767358856",
+            "id": "f2d010c9e0e00177",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dream Executioner"
+            }
+          },
+          {
+            "id": "b7a7aad4dd454722",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Armory/Magic Items/Mercenary's Pauldron.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Mercenary's Pauldron"
+            }
+          },
+          {
+            "id": "f3ce94faa990e0fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DND Session 48"
+            }
+          },
+          {
+            "id": "e3ccf85e49d484ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Player Characters/Verena.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 44.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verena"
+              "title": "DND Session 44"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "36247e119dac9375",
+        "type": "tabs",
+        "dimension": 65.7615894039735,
+        "children": [
+          {
+            "id": "2c2ab132beec7dda",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Player Characters/Waron/Combat Strats/2v2 with Cello.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2v2 with Cello"
             }
           },
           {
-            "id": "bdf120f6dc6b836a",
+            "id": "44326103367f8608",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "DND Session 48"
+            }
+          },
+          {
+            "id": "f2bb1254ad672e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/5 Initiate/Karolin Kipper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Karolin Kipper"
             }
           }
         ],
@@ -66,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "silver blood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 365.5
   },
   "right": {
     "id": "c6f9daeb4ff0dba5",
@@ -107,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrand.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +206,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hugo Magmabrand"
+              "title": "Backlinks for DND Session 48"
             }
           },
           {
@@ -126,12 +215,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hugo Magmabrand"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,11 +240,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Merchants/Hugo Magmabrand.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Hugo Magmabrand"
+              "title": "Outline"
             }
           }
         ]
@@ -176,56 +262,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf120f6dc6b836a",
+  "active": "44326103367f8608",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Luminary Scribes.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/The House of Blood.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/The Blood Cross.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Radiant Church.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Paladins of the Eldritch Hunt.md",
-    "Hunter Luyarnha Campaign/Organizations/Church Faction/Ministry of Light.md",
-    "Hunter Luyarnha Campaign/Player Characters/000 Luyarnha PC.md",
-    "Hunter Luyarnha Campaign/Player Characters/Cello.md",
-    "Hunter Luyarnha Campaign/Player Characters/Da'ul.md",
-    "Hunter Luyarnha Campaign/Player Characters/Dr. Dire (Backup Character).md",
-    "Hunter Luyarnha Campaign/Player Characters/Dur'zoga.md",
-    "Hunter Luyarnha Campaign/Player Characters/Grey.md",
-    "Hunter Luyarnha Campaign/Player Characters/Marinus.md",
-    "Hunter Luyarnha Campaign/Player Characters/Theld.md",
-    "Hunter Luyarnha Campaign/Player Characters/Verena.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/High Apostles/Michelangelo.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 15.md",
-    "Hunter Luyarnha Campaign/Lore/Ailments/Serpent's Kiss.md",
-    "Hunter Luyarnha Campaign/Lore/Ailments",
-    "files/Theld 1.jpg",
-    "files/Theld.jpg",
-    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Reiterpallasch.md",
-    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Phantom Limb.md",
-    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Dreamlily.md",
-    "Hunter Luyarnha Campaign/Armory/Consumables/Drugs/Beastial Incense Joint.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Shrapnel Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Reinforced Ashwood Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Pure Silvered Bullet.md",
-    "Hunter Luyarnha Campaign/Armory/Ammunition/Lead Bullet.md",
-    "files/Verena.jpg",
-    "files/Tieran Harrow.png",
-    "files/Priscilla Harrow.png",
-    "files/Hadian Harrow.png",
-    "files/Drystan Norwood.png",
-    "files/Corvina Harrow.png",
-    "files/Alruna Harrow.png",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6",
-    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Shaws",
-    "files/spying-on-verena-and-hugo.png",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 44.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 43 1.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Kymora Emberhearty.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 49.md",
+    "Hunter Luyarnha Campaign/Lore/Currency.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 2/DND Session 3.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 36.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 42.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Neero Emberheart.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Olayra Emberheart.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Ralohorn Emberheart.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Tyranor Emberheart.md",
+    "files/Kymora-Emberhearty.png",
+    "files/Ralohorn-Emberheart.png",
+    "files/Olayra-Emberheart.png",
+    "files/Neero-Emberheart.png",
+    "files/Tyranor-Emberheart.png",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Xena Emberheart.md",
+    "files/Xena-Emberheart.png",
+    "Hunter Luyarnha Campaign/NPCs/Enemies/The Veiled Hunter.md",
+    "Hunter Luyarnha Campaign/NPCs/Enemies/Ormiir.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 47.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Mercenary's Pauldron.md",
+    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
+    "Hunter Luyarnha Campaign/NPCs/Axia.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 45.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Slippers of spider climbing.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Silken socks of slickening.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Boots of the Cloud Jumper (A).md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloaks/Cloak of Protection (A).md",
+    "files/Verena-ref.png",
+    "files/Pink Paladins.png",
+    "files/Cello-Shrooms.png",
+    "files/Retten-von-terror-a-holes-meme.png",
+    "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Combat Strats",
     "files/locations",
     "files/Notes-snippets",
     "files/Misc",
+    "Hunter Luyarnha Campaign/Lore/Ailments",
     "files/Characters",
-    "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines",
-    "Hunter Luyarnha Campaign/Organizations/Families/Shaws",
-    "Hunter Luyarnha Campaign/Misc Lore/Types of Eldritch Moons/Untitled.canvas"
+    "Untitled.canvas",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6",
+    "Hunter Luyarnha Campaign/NPCs/Player Family Members/Harrows",
+    "Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/Untitled.canvas",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
+    "Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating/Character inspiration.canvas",
+    "TestPublish.canvas"
   ]
 }

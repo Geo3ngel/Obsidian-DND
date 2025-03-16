@@ -28,5 +28,8 @@ Mixed? He seems to get along with Narissa, wants Waron's body, and has co-worker
 > 	- Tipping Waron off about his "condition?"
 > 	- Wanting to make Waron "perfect?"
 > - Alluding to ties with Narissa's family's magic?!
+
+Participated in the 3rd tournament during the Blood Moon of Rebirth
+
 ---
 # References
