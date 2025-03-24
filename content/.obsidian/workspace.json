@@ -6,7 +6,6 @@
       {
         "id": "da5e418363f1cb65",
         "type": "tabs",
-        "dimension": 34.23841059602649,
         "children": [
           {
             "id": "f2d010c9e0e00177",
@@ -62,68 +61,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 44.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 50.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Session 44"
+              "title": "DND Session 50"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "36247e119dac9375",
-        "type": "tabs",
-        "dimension": 65.7615894039735,
-        "children": [
-          {
-            "id": "2c2ab132beec7dda",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Player Characters/Waron/Combat Strats/2v2 with Cello.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2v2 with Cello"
-            }
-          },
-          {
-            "id": "44326103367f8608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DND Session 48"
-            }
-          },
-          {
-            "id": "f2bb1254ad672e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/NPCs/Paladins of the Eldritch Hunt/5 Initiate/Karolin Kipper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Karolin Kipper"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,13 +209,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44326103367f8608",
+  "active": "e3ccf85e49d484ec",
   "lastOpenFiles": [
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 49.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 50.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 44.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 43 1.md",
     "Hunter Luyarnha Campaign/NPCs/Emberhearts/Kymora Emberhearty.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 49.md",
     "Hunter Luyarnha Campaign/Lore/Currency.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 2/DND Session 3.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 36.md",
@@ -296,7 +244,6 @@
     "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Slippers of spider climbing.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Silken socks of slickening.md",
     "Hunter Luyarnha Campaign/Armory/Magic Items/Footwear/Boots of the Cloud Jumper (A).md",
-    "Hunter Luyarnha Campaign/Armory/Magic Items/Cloaks/Cloak of Protection (A).md",
     "files/Verena-ref.png",
     "files/Pink Paladins.png",
     "files/Cello-Shrooms.png",

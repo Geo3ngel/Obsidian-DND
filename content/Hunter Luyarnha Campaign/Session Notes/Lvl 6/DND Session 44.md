@@ -14,6 +14,11 @@ Vicor [[Nevella]] is clouted AF. Their appearance at the colosseum is met with c
 [[Theld]]'s backstory is given as follows:
 - TODO: Write out his dream sequence
 
+She gets straight to the point, mentioning she saw the book he was reading in the library before he left early, and snooped.
+- That she knows about him, Leyia, and Ludwig, since he let it slip that his name was Gerard before. 
+Waron initially protests a bit, though ends up professing about his dreams over the past few days, and his talk with Ludwig following the initiation ceremony.
+
+> [!info] Add more here
 ### Key points from Theld's dream:
 - Camilla made him some "special" drink?
 - He was sweet on [[Steinhardt]]'s sister, even to the point of disrespecting the man himself to his face
