@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,6 +163,8 @@
   },
   "active": "cc3da018934f8177",
   "lastOpenFiles": [
+    "Karliel the White.md",
+    "2024-10-19.md",
     "content/Hunter Luyarnha Campaign/Quest Board/Active Quests/Durzoga's Father.md",
     "content/Hunter Luyarnha Campaign/Quest Board/Active Quests/Cello's Box.md",
     "content/Hunter Luyarnha Campaign/Quest Board/Active Quests",
@@ -196,8 +199,6 @@
     "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Pistol.md",
     "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Blunderbuss.md",
     "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Damascena.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Flintlock.md",
-    "content/Hunter Luyarnha Campaign/Armory/Traps/Firestorm Trap.md",
     "content/files/fox-cup.png",
     "content/files/dream-lily.png",
     "content/files/Sword of the Pack Leader.png",
