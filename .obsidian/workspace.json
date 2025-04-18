@@ -11,10 +11,14 @@
             "id": "1cd66406a59d9f6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -163,6 +167,10 @@
   },
   "active": "cc3da018934f8177",
   "lastOpenFiles": [
+    "content/Oneshots/Natalia Campeign",
+    "Untitled.canvas",
+    "README.md",
+    "Pack Leader.md",
     "Karliel the White.md",
     "2024-10-19.md",
     "content/Hunter Luyarnha Campaign/Quest Board/Active Quests/Durzoga's Father.md",
@@ -196,9 +204,6 @@
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/Shrouded District - Restaurants.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Sanctified/Shops/Sanctified District - Shops.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Restaurants/Newbridge - Restaurants.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Pistol.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Blunderbuss.md",
-    "content/Hunter Luyarnha Campaign/Armory/Weapons/Ranged/Damascena.md",
     "content/files/fox-cup.png",
     "content/files/dream-lily.png",
     "content/files/Sword of the Pack Leader.png",
@@ -210,7 +215,6 @@
     "content/files/Pasted image 20241117135128.png",
     "content/files/Pasted image 20241117135024.png",
     "content/Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/Untitled.canvas",
-    "content/Hunter Luyarnha Campaign/Misc Lore/Types of Eldritch Moons/Untitled.canvas",
-    "Untitled.canvas"
+    "content/Hunter Luyarnha Campaign/Misc Lore/Types of Eldritch Moons/Untitled.canvas"
   ]
 }
