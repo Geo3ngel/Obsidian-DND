@@ -6,10 +6,10 @@ Status: permanent
 ---
 # Session Intro
 ---
-I think I was planning to moon beam, after taking out the guys near me!
-- my scythe was charged!
+We're under the effects of holy weapon! +2d8 radiant damage per hit!
+bonus action
 # Session Notes
 ---
-
+A scorched Bat scourge seems to be talking with the Blue Spider Scourge
 # References
 ---
