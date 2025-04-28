@@ -11,5 +11,7 @@ bonus action
 # Session Notes
 ---
 A scorched Bat scourge seems to be talking with the Blue Spider Scourge
+
+As the bells toll, and the moon comes to an end... we all level up!
 # References
 ---
