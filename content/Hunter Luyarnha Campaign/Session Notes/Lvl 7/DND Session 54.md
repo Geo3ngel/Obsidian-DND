@@ -142,3 +142,7 @@ Naisana Heelspark's name comes up again.
 - A part of the fire keepers.
 Detective Horous lost his job in the Luminary scribes over this job.
 - The church may have a hand in it.
+# For Next Session
+Waron will be even more worn out from partying with his fellow paladins.
+- But will be notably quiet, and sad
+# Was this actually session 53???
