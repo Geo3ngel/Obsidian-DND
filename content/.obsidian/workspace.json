@@ -1,97 +1,66 @@
 {
   "main": {
-    "id": "71f991ce942a37d7",
+    "id": "862e2b3b32a28b5e",
     "type": "split",
     "children": [
       {
-        "id": "da5e418363f1cb65",
+        "id": "0d3469143d948c77",
         "type": "tabs",
-        "dimension": 39.205298013245034,
         "children": [
           {
-            "id": "f2d010c9e0e00177",
+            "id": "b20e3c2c18561130",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
+                "file": "Hunter Luyarnha Campaign/Player Characters/Verena.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Dream Executioner"
+              "title": "Verena"
             }
           },
           {
-            "id": "b7a7aad4dd454722",
+            "id": "981318821c47fe21",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Armory/Magic Items/Mercenary's Pauldron.md",
+                "file": "Hunter Luyarnha Campaign/Player Characters/000 Luyarnha PC.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Mercenary's Pauldron"
+              "title": "000 Luyarnha PC"
             }
           },
           {
-            "id": "8f78d4ead308f8b5",
+            "id": "fdd4d1d2e4b687b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Hunter's Workshop"
+              "title": "New tab"
             }
           }
-        ]
-      },
-      {
-        "id": "f8439c50d86736e5",
-        "type": "tabs",
-        "dimension": 60.79470198675496,
-        "children": [
-          {
-            "id": "f3ce94faa990e0fc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 54.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "DND Session 54"
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5d482044fa50d60b",
+    "id": "8e9d733585cd4900",
     "type": "split",
     "children": [
       {
-        "id": "3c4ff4b7062ab8a6",
+        "id": "0ff90ba6f1d27283",
         "type": "tabs",
         "children": [
           {
-            "id": "5d98c4a7b82a2925",
+            "id": "cc23918ecb9db5bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,12 +73,12 @@
             }
           },
           {
-            "id": "c48b0643f28399ea",
+            "id": "fb8c62f4ed61a07d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "silver blood",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +90,7 @@
             }
           },
           {
-            "id": "cc45cc4d25938d18",
+            "id": "cdd88855a32f0933",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -134,23 +103,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 300
   },
   "right": {
-    "id": "c6f9daeb4ff0dba5",
+    "id": "30be1046557ee50e",
     "type": "split",
     "children": [
       {
-        "id": "68b8c3f8cfc005c0",
+        "id": "2f6362895cb0c4de",
         "type": "tabs",
         "children": [
           {
-            "id": "52d3b9daa396f26a",
+            "id": "19f5eefab9dcab68",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
+                "file": "Hunter Luyarnha Campaign/Player Characters/Verena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,43 +129,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DND Session 48"
+              "title": "Backlinks for Verena"
             }
           },
           {
-            "id": "b539608a119b0fc3",
+            "id": "e6ff7c1b656ce1e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hunter Luyarnha Campaign/Player Characters/Verena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Verena"
             }
           },
           {
-            "id": "c9ba4bdcae915dc3",
+            "id": "00a5fa9fd0bdcd0d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "18538e80d3b46eef",
+            "id": "51a27c714d2d9eaf",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Player Characters/Verena.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Verena"
             }
           }
         ]
@@ -216,57 +193,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3ce94faa990e0fc",
+  "active": "fdd4d1d2e4b687b3",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
-    "files/Armory/Weapons/Dream Executioner.png",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 54.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Royal Silver's Luster.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Amenities.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Luugru - shop.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Golden Bazar.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Daefied Death Bringers.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/The Chipped Shoulder.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Shrouded - Shops.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/Chet's Drug Shop.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Resturaunts/Shrouded District - Restaurants.md",
-    "Hunter Luyarnha Campaign/NPCs/Merchants/Atriox.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 53.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 51.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 52.md",
-    "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines/Verena's Missing Luggage.md",
-    "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines/Missing - Sumetra.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 7",
-    "Hunter Luyarnha Campaign/Quest Board/Active Quests/Durzoga's Father.md",
-    "Hunter Luyarnha Campaign/Quest Board/Active Quests/Cello's Box.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Luyarnha.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Triple I'D.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Savior's Servant.md",
-    "files/Kymora-Emberhearty.png",
+    "files/Xena-Emberheart.png",
+    "files/Tyranor-Emberheart.png",
     "files/Ralohorn-Emberheart.png",
+    "files/Pasted image 20250418223345.png",
     "files/Olayra-Emberheart.png",
     "files/Neero-Emberheart.png",
-    "files/Tyranor-Emberheart.png",
-    "files/Xena-Emberheart.png",
+    "files/Kymora-Emberhearty.png",
+    "Oneshots/Natalia Campeign/Roleplay Tips.md",
+    "Oneshots/Natalia Campeign/Quips.md",
+    "Oneshots/Natalia Campeign/Pufai.md",
+    "Oneshots/Natalia Campeign/Combat Strats.md",
+    "Oneshots/Natalia Campeign/Children.md",
+    "Oneshots/Natalia Campeign/Campaign Notes.md",
+    "Oneshots/Natalia Campeign/Bits.md",
+    "Oneshots/Natalia Campeign",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 56.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 55.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 54.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 53.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 52.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 7",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 51.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 50.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 49.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 48.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Xena Emberheart.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Tyranor Emberheart.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Ralohorn Emberheart.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Olayra Emberheart.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Neero Emberheart.md",
+    "Hunter Luyarnha Campaign/NPCs/Emberhearts/Kymora Emberhearty.md",
     "Hunter Luyarnha Campaign/NPCs/Emberhearts",
-    "files/Verena-ref.png",
-    "files/Pink Paladins.png",
-    "files/Cello-Shrooms.png",
-    "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Combat Strats",
-    "files/locations",
-    "files/Notes-snippets",
-    "files/Misc",
-    "Hunter Luyarnha Campaign/Lore/Ailments",
-    "files/Characters",
-    "Untitled.canvas",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6",
-    "Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/Untitled.canvas",
-    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
-    "Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating/Character inspiration.canvas",
-    "TestPublish.canvas"
+    "Hunter Luyarnha Campaign/Player Characters/000 Luyarnha PC.md",
+    "Hunter Luyarnha Campaign/Player Characters/Cello.md",
+    "Hunter Luyarnha Campaign/Player Characters/Da'ul.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/Untitled.canvas"
   ]
 }
