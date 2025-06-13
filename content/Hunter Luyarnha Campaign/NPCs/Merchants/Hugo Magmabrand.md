@@ -30,8 +30,11 @@ Vanessa decides to fuck with his heart strings, and ends up snapping a few.
 He has a total breakdown, and ends up trauma dumping, and opening up about everything from the loss of his parents, to the façade he's gone through painstaking efforts over the years to *maintain*
 - Though the hunter with us asserts that no one *actually* bought it, but humored him for years.
 ## **Relationship with Party**:
-[[Verena]]'s boy toy.
+[[Verena]]'s boyfriend -
 He's very friendly with the party at this point, having shared his residence with them during 2 Eldritch moons, and having received so much patronage from the party.
+He has since become a more integral part and support to the group. 
+
+
 
 ---
 # References
