@@ -6,7 +6,7 @@
       {
         "id": "da5e418363f1cb65",
         "type": "tabs",
-        "dimension": 39.205298013245034,
+        "dimension": 50.85066162570888,
         "children": [
           {
             "id": "f2d010c9e0e00177",
@@ -41,28 +41,40 @@
             }
           },
           {
-            "id": "8f78d4ead308f8b5",
+            "id": "aedf5826f8048ddc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 43.md",
+                "file": "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Restaurants/The Glass Oasis.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "DND Session 43"
+              "title": "The Glass Oasis"
+            }
+          },
+          {
+            "id": "dbfc5f0e8e63b164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Luyarnha Campaign/Player Characters/Waron/Lore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lore"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f8439c50d86736e5",
         "type": "tabs",
-        "dimension": 60.794701986754966,
+        "dimension": 49.14933837429111,
         "children": [
           {
             "id": "501af476278a281d",
@@ -130,16 +142,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter Luyarnha Campaign/Organizations/Gangs/Wayfairers.md",
+                "file": "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 57.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wayfairers"
+              "title": "DND Session 57"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session 40",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,8 +204,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -279,55 +290,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46b0099a8e62692b",
+  "active": "f50beaf2ba39dc60",
   "lastOpenFiles": [
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 43.md",
+    "files/Memes/spying-on-verena-and-hugo.png",
+    "files/Memes/gonna-have-to-kill-this-guy-meme.png",
+    "files/Memes/Waron-vs-Marinus.png",
+    "files/Memes/Retten-von-terror-a-holes-meme.png",
+    "files/Memes/Pink-Paladins.png",
+    "files/Memes/Pink Paladins.png",
+    "files/Memes/Cello-red.png",
+    "files/Memes/Cello-Shrooms.png",
+    "files/Characters/Xena-Emberheart.png",
+    "files/Characters/Vicor-Priscilla.png",
+    "files/Characters/Verena.jpg",
+    "files/Armory/Consumables",
+    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Excommunication.md",
+    "Hunter Luyarnha Campaign/Lore/Religious Orders/Paladins of the Eldritch Hunt/Creed.md",
+    "Hunter Luyarnha Campaign/Lore/Madness/Short Term Madness.md",
+    "Hunter Luyarnha Campaign/Lore/Madness/Madness.md",
+    "Hunter Luyarnha Campaign/Lore/Madness/Indefinite Madness.md",
+    "Hunter Luyarnha Campaign/Lore/Madness/Long Term Madness.md",
+    "Hunter Luyarnha Campaign/Lore/Madness",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Lore.md",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 57.md",
+    "Hunter Luyarnha Campaign/Player Characters/Waron/Waron.md",
+    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Newbridge/Restaurants/The Glass Oasis.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 56.md",
+    "Hunter Luyarnha Campaign/Armory/Magic Items/Mercenary's Pauldron.md",
+    "Hunter Luyarnha Campaign/Organizations/Gangs/Wayfairers.md",
+    "Hunter Luyarnha Campaign/Organizations/Gangs/Untitled.canvas",
+    "Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 43.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 40.md",
     "Hunter Luyarnha Campaign/Organizations/Osteomancers.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 5/DND Session 37.md",
     "Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/The Yellow King.md",
     "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/The Hunter's Workshop.md",
-    "Hunter Luyarnha Campaign/Organizations/Gangs/Wayfairers.md",
     "Hunter Luyarnha Campaign/Armory/Trick Weapons/Dream Executioner.md",
     "Hunter Luyarnha Campaign/Organizations/The Fire Keepers.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 4/DND Session 16.md",
     "Hunter Luyarnha Campaign/Organizations/Gangs/Fabricators.md",
     "Hunter Luyarnha Campaign/Organizations/Gangs/Scavengers.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 55.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 54.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 53.md",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 52.md",
-    "Hunter Luyarnha Campaign/NPCs/Religious Figures/Vicors/Deceased/Vicor Priscilla.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Radiant Order Amenities.md",
-    "files/Armory/Weapons/Dream Executioner.png",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Royal Silver's Luster.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Mother Luugru - shop.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Golden Bazar.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Etchings of the Arcane.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Daefied Death Bringers.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Grand Cathedral/Shops/Bad Bitches With Mean Stitches.md",
-    "Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Shrouded/Shops/The Chipped Shoulder.md",
     "Hunter Luyarnha Campaign/Session Notes/Lvl 7",
-    "files/Kymora-Emberhearty.png",
-    "files/Ralohorn-Emberheart.png",
-    "files/Olayra-Emberheart.png",
-    "files/Neero-Emberheart.png",
-    "files/Tyranor-Emberheart.png",
-    "files/Xena-Emberheart.png",
     "Hunter Luyarnha Campaign/NPCs/Emberhearts",
-    "files/Verena-ref.png",
-    "files/Pink Paladins.png",
-    "files/Cello-Shrooms.png",
     "Hunter Luyarnha Campaign/Quest Board/Potential Quest Lines",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Combat Strats",
     "files/locations",
     "files/Notes-snippets",
     "files/Misc",
     "Hunter Luyarnha Campaign/Lore/Ailments",
-    "files/Characters",
     "Untitled.canvas",
-    "Hunter Luyarnha Campaign/Session Notes/Lvl 6",
     "Hunter Luyarnha Campaign/Lore/Types of Eldritch Moons/Untitled.canvas",
     "Hunter Luyarnha Campaign/Player Characters/Waron/Waron Character Art inspiration.canvas",
     "Oneshots/Campeigns/Sparks Fly - Artificer Speed Dating/Character inspiration.canvas",

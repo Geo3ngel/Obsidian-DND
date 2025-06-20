@@ -90,5 +90,8 @@ Orphanage in the Newbridge District!
 - need to visit this
 
 [[The defiled librarian]] is brought up in a discussion between Verena & Marinus
+
+Waron gets confirmation from the Radiant light/angels that his wife is in fact alive
+- but they wouldn't give any further information
 # References
 ---
