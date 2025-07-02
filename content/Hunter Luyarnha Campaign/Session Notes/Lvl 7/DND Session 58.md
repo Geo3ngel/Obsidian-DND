@@ -343,8 +343,10 @@ The group awakens to the band hitting some power cords
 They start arguing over band colors.
 - Waron recommends pink
 
-After an intense band huddle session
-
+After an intense band huddle session, the group agrees on:
+- Brown for band members
+- Red for 
+- Pink for Roadies
 
 Scab worked with Generator engineering!
 - potential lead here for the Psions/missing generator
