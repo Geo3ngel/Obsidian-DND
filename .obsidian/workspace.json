@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 49.md",
+                "file": "content/Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 63.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DND Session 49"
+              "title": "DND Session 63"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,8 +168,11 @@
   },
   "active": "aab77f5e64ad344e",
   "lastOpenFiles": [
-    "content/Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 50.md",
+    "content/templates/Session.md",
+    "content/Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 63.md",
+    "content/Hunter Luyarnha Campaign/Session Notes/Lvl 7/DND Session 56.md",
     "content/Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 49.md",
+    "content/Hunter Luyarnha Campaign/Session Notes/Lvl 6/DND Session 50.md",
     "content/Oneshots/Natalia Campeign/Children.md",
     "content/Oneshots/Natalia Campeign/Bits.md",
     "content/Oneshots/Natalia Campeign/Campaign Notes.md",
@@ -199,10 +203,7 @@
     "content/Hunter Luyarnha Campaign/Organizations/Families/Ember Hearts",
     "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Zachariah Schröder.md",
     "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Semetra.md",
-    "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Greisha Bearknuckle.md",
-    "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters/Calvin.md",
     "content/Hunter Luyarnha Campaign/NPCs/Jaeger/Jaeger Meisters",
-    "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Shops/Waterfront - Shops.md",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Shops",
     "content/Hunter Luyarnha Campaign/Locations/Luyarnha/Districts/Waterfront/Restaurants",
     "content/files/fox-cup.png",
